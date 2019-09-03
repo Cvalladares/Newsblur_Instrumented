@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:2:1-205:12
+INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:2:1-205:12
+INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:2:1-205:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\782cdd5d14fe5cd5e92b006896573766\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\5221204e4363c3a67ef768af68ae5b00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\9f3b7bf4ed4bcdc124bce05c61b33f7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\cc66250e01962690c2cfefada22042d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\5babe09f2565e5f27e81c8327202729d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\9060aea762908cdbee8492aa4b6cc872\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\5ef83a5a7b1f4f7645b30e1fd25a9d2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\032ad11d86818d8bb53c75029f898c37\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\e26691246e1391eb60b6ebcb293a5a5b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:2:1-205:12
+INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:2:1-205:12
+	package
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:3:5-27
+	android:versionName
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:5:5-32
+		INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+		INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:4:5-30
+		INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+		INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:11:22-65
+application
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:13:5-203:19
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:15:9-41
+	android:hardwareAccelerated
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:17:9-43
+	android:fullBackupContent
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:16:9-45
+activity#com.newsblur.activity.InitActivity
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:22:13-45
+	android:noHistory
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:24:13-37
+	android:theme
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:21:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:25:13-28:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:26:27-74
+action#android.intent.action.MAIN
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:27:25-66
+activity#com.newsblur.activity.Login
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:31:9-36:20
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:33:13-45
+	android:windowSoftInputMode
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:35:13-55
+	android:noHistory
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:32:13-43
+activity#com.newsblur.activity.LoginProgress
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:38:9-41:48
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:41:13-45
+	android:noHistory
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:39:13-51
+activity#com.newsblur.activity.RegisterProgress
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:43:3-46:51
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:46:13-48
+	android:noHistory
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:44:13-54
+activity#com.newsblur.activity.AddTwitter
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:48:3-50:51
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:50:13-48
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:49:13-48
+activity#com.newsblur.activity.AddFacebook
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:52:4-54:52
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:53:13-49
+activity#com.newsblur.activity.AddSocial
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:56:3-58:51
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:58:13-48
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:57:13-47
+activity#com.newsblur.activity.Main
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:60:9-64:52
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:62:13-45
+	android:launchMode
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:63:13-44
+	android:alwaysRetainTaskState
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:61:13-42
+activity#com.newsblur.activity.Profile
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:66:9-68:46
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:68:13-44
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:67:13-45
+activity#com.newsblur.activity.Settings
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:70:9-72:47
+	android:label
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:71:13-46
+activity#com.newsblur.activity.FeedItemsList
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:74:9-75:54
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:75:13-51
+activity#com.newsblur.activity.AllStoriesItemsList
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:77:9-78:60
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:78:13-57
+activity#com.newsblur.activity.InfrequentItemsList
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:80:9-81:60
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:81:13-57
+activity#com.newsblur.activity.ReadStoriesItemsList
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:83:9-84:61
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:84:13-58
+activity#com.newsblur.activity.SavedStoriesItemsList
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:86:9-87:62
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:87:13-59
+activity#com.newsblur.activity.AllSharedStoriesItemsList
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:89:9-90:66
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:90:13-63
+activity#com.newsblur.activity.GlobalSharedStoriesItemsList
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:92:9-93:69
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:93:13-66
+activity#com.newsblur.activity.FolderItemsList
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:95:9-96:56
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:96:13-53
+activity#com.newsblur.activity.SocialFeedItemsList
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:98:9-99:60
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:99:13-57
+activity#com.newsblur.activity.FeedReading
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:101:9-102:51
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:102:13-49
+activity#com.newsblur.activity.AllStoriesReading
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:104:9-105:57
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:105:13-55
+activity#com.newsblur.activity.InfrequentReading
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:107:9-108:57
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:108:13-55
+activity#com.newsblur.activity.ReadStoriesReading
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:110:9-111:58
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:111:13-56
+activity#com.newsblur.activity.SavedStoriesReading
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:113:9-114:59
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:114:13-57
+activity#com.newsblur.activity.AllSharedStoriesReading
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:116:9-117:63
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:117:13-61
+activity#com.newsblur.activity.GlobalSharedStoriesReading
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:119:9-120:66
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:120:13-64
+activity#com.newsblur.activity.FolderReading
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:122:9-123:53
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:123:13-51
+activity#com.newsblur.activity.SearchForFeeds
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:125:9-131:17
+	android:launchMode
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:126:53-83
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:126:13-52
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:127:10-129:26
+action#android.intent.action.SEARCH
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:128:14-68
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:128:22-65
+meta-data#android.app.searchable
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:130:10-95
+	android:resource
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:130:59-93
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:130:21-58
+activity#com.newsblur.activity.SocialFeedReading
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:133:9-134:57
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:134:13-55
+service#com.newsblur.service.NBSyncService
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:136:9-138:72
+	android:permission
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:138:13-69
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:137:13-50
+receiver#com.newsblur.service.BootReceiver
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:140:9-144:20
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:140:19-55
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:141:13-143:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:142:17-79
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:142:25-76
+receiver#com.newsblur.util.NotifyDismissReceiver
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:146:9-89
+	android:exported
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:146:62-86
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:146:19-61
+receiver#com.newsblur.util.NotifySaveReceiver
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:147:9-86
+	android:exported
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:147:59-83
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:147:19-58
+receiver#com.newsblur.util.NotifyMarkreadReceiver
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:148:9-90
+	android:exported
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:148:63-87
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:148:19-62
+provider#android.support.v4.content.FileProvider
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:150:9-158:20
+	android:grantUriPermissions
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:154:13-47
+	android:authorities
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:152:13-60
+	android:exported
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:153:13-37
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:151:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:155:13-157:54
+	android:resource
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:157:17-51
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:156:17-67
+activity#com.newsblur.activity.AddFeedExternal
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:160:9-201:20
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:160:19-59
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:pathPattern:.*/feed.*+data:pathPattern:.*atom+data:pathPattern:.*json+data:pathPattern:.*rss+data:pathPattern:.*xml+data:scheme:http+data:scheme:https
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:161:13-173:29
+action#android.intent.action.VIEW
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:162:17-69
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:162:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:163:17-76
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:163:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:164:17-78
+	android:name
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:164:27-75
+data
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:165:17-46
+	android:host
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:167:23-39
+	android:scheme
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:165:23-44
+	android:pathPattern
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:168:23-50
+	android:mimeType
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:194:23-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:feed+data:scheme:rss
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:174:13-180:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:feeds.feedburner.com+data:host:feeds2.feedburner.com+data:scheme:http+data:scheme:https
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:181:13-189:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/atom+xml+data:mimeType:application/feed+json+data:mimeType:application/json+data:mimeType:application/rss+xml+data:mimeType:application/xml+data:mimeType:text/xml
+ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml:190:13-200:29
+uses-sdk
+INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\782cdd5d14fe5cd5e92b006896573766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\782cdd5d14fe5cd5e92b006896573766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\5221204e4363c3a67ef768af68ae5b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\5221204e4363c3a67ef768af68ae5b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\9f3b7bf4ed4bcdc124bce05c61b33f7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\9f3b7bf4ed4bcdc124bce05c61b33f7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\cc66250e01962690c2cfefada22042d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\cc66250e01962690c2cfefada22042d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\5babe09f2565e5f27e81c8327202729d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\5babe09f2565e5f27e81c8327202729d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\9060aea762908cdbee8492aa4b6cc872\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\9060aea762908cdbee8492aa4b6cc872\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\5ef83a5a7b1f4f7645b30e1fd25a9d2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\5ef83a5a7b1f4f7645b30e1fd25a9d2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\032ad11d86818d8bb53c75029f898c37\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\032ad11d86818d8bb53c75029f898c37\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\e26691246e1391eb60b6ebcb293a5a5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Cvalladares\.gradle\caches\transforms-2\files-2.1\e26691246e1391eb60b6ebcb293a5a5b\AndroidManifest.xml:20:5-44
+INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+		INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+		ADDED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml
+		INJECTED from C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\AndroidManifest.xml

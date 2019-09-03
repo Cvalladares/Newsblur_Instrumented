@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.newsblur"
+    android:versionCode="163"
+    android:versionName="9.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:debuggable="true"
+        android:fullBackupContent="@xml/backupscheme"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/logo"
+        android:label="@string/newsblur"
+        android:testOnly="true"
+        android:theme="@style/NewsBlurTheme" >
+        <activity
+            android:name="com.newsblur.activity.InitActivity"
+            android:label="@string/newsblur"
+            android:noHistory="true"
+            android:theme="@style/initStyle" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.newsblur.activity.Login"
+            android:label="@string/newsblur"
+            android:noHistory="true"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name="com.newsblur.activity.LoginProgress"
+            android:label="@string/newsblur"
+            android:noHistory="true" />
+        <activity
+            android:name="com.newsblur.activity.RegisterProgress"
+            android:label="@string/get_started"
+            android:noHistory="true" />
+        <activity
+            android:name="com.newsblur.activity.AddTwitter"
+            android:label="@string/add_twitter" />
+        <activity
+            android:name="com.newsblur.activity.AddFacebook"
+            android:label="@string/add_facebook" />
+        <activity
+            android:name="com.newsblur.activity.AddSocial"
+            android:label="@string/add_friends" />
+        <activity
+            android:name="com.newsblur.activity.Main"
+            android:alwaysRetainTaskState="true"
+            android:label="@string/newsblur"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.newsblur.activity.Profile"
+            android:label="@string/profile" />
+        <activity
+            android:name="com.newsblur.activity.Settings"
+            android:label="@string/settings" />
+        <activity android:name="com.newsblur.activity.FeedItemsList" />
+        <activity android:name="com.newsblur.activity.AllStoriesItemsList" />
+        <activity android:name="com.newsblur.activity.InfrequentItemsList" />
+        <activity android:name="com.newsblur.activity.ReadStoriesItemsList" />
+        <activity android:name="com.newsblur.activity.SavedStoriesItemsList" />
+        <activity android:name="com.newsblur.activity.AllSharedStoriesItemsList" />
+        <activity android:name="com.newsblur.activity.GlobalSharedStoriesItemsList" />
+        <activity android:name="com.newsblur.activity.FolderItemsList" />
+        <activity android:name="com.newsblur.activity.SocialFeedItemsList" />
+        <activity android:name="com.newsblur.activity.FeedReading" />
+        <activity android:name="com.newsblur.activity.AllStoriesReading" />
+        <activity android:name="com.newsblur.activity.InfrequentReading" />
+        <activity android:name="com.newsblur.activity.ReadStoriesReading" />
+        <activity android:name="com.newsblur.activity.SavedStoriesReading" />
+        <activity android:name="com.newsblur.activity.AllSharedStoriesReading" />
+        <activity android:name="com.newsblur.activity.GlobalSharedStoriesReading" />
+        <activity android:name="com.newsblur.activity.FolderReading" />
+        <activity
+            android:name="com.newsblur.activity.SearchForFeeds"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity android:name="com.newsblur.activity.SocialFeedReading" />
+
+        <service
+            android:name="com.newsblur.service.NBSyncService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver android:name="com.newsblur.service.BootReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.newsblur.util.NotifyDismissReceiver"
+            android:exported="false" />
+        <receiver
+            android:name="com.newsblur.util.NotifySaveReceiver"
+            android:exported="false" />
+        <receiver
+            android:name="com.newsblur.util.NotifyMarkreadReceiver"
+            android:exported="false" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.newsblur.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <activity android:name="com.newsblur.activity.AddFeedExternal" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:host="*" />
+                <data android:pathPattern=".*xml" />
+                <data android:pathPattern=".*rss" />
+                <data android:pathPattern=".*atom" />
+                <data android:pathPattern=".*json" />
+                <data android:pathPattern=".*/feed.*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="feed" />
+                <data android:scheme="rss" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:host="feeds.feedburner.com" />
+                <data android:host="feeds2.feedburner.com" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:mimeType="text/xml" />
+                <data android:mimeType="application/rss+xml" />
+                <data android:mimeType="application/atom+xml" />
+                <data android:mimeType="application/xml" />
+                <data android:mimeType="application/json" />
+                <data android:mimeType="application/feed+json" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.newsblur.lifecycle-trojan"
+            android:exported="false"
+            android:multiprocess="true" />
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.newsblur.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

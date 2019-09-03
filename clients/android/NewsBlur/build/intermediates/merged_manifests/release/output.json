@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":163,"versionName":"9.0.1","enabled":true,"outputFile":"NewsBlur-release-unsigned.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.newsblur","split":"","minSdkVersion":"21"}}]

@@ -1,0 +1,1018 @@
+[
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/menu_context_story_newest.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/context_story_newest.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_black_selector_story_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_selector_story_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_left_disabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_left_disabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_right_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_right_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_right_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_right_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_left_disabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_left_disabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_location_icon.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/location_icon.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_neutral_count_rect.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/neutral_count_rect.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_toggle_icon_focus.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/toggle_icon_focus.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_clock.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/clock.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_readingfont_dialog.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/readingfont_dialog.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_reply_dialog.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/reply_dialog.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/menu_itemslist.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/itemslist.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_story_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_story_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_dark_story.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_story.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_itemgrid.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_itemgrid.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/anim_text_up.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/text_up.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_webcontainer.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_webcontainer.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_intel_toggle_background_selector.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/intel_toggle_background_selector.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_menu_moreoverflow.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_moreoverflow.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_saved_stories.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_saved_stories.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/anim_rotate.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_include_reply.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_reply.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_selector_folder_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_selector_folder_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_right_done_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_right_done_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_text_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_text_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_arrow_back_gray46.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_arrow_back_gray46.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_text.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_text.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_clear_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_clear_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_tag_background_dark.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/tag_background_dark.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_loginas_dialog.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/loginas_dialog.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_toggle_icon_saved.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/toggle_icon_saved.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_text_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_text_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_include_reading_item_comment.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_reading_item_comment.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_right_done.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_right_done.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_left.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_left.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_feedresult.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_feedresult.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_black_gradient_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_gradient_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_feed_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_feed_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_list_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/list_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_loadingitems.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_loadingitems.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_dark_right.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_right.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_tag_background_negative.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/tag_background_negative.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_init.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_init.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_folder_background_highlight.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/folder_background_highlight.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/xml_searchable.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_facebook_logo.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/facebook_logo.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_reading.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_reading.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/anim_slide_in_from_left.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/slide_in_from_left.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_send_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_send_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_textsize_slider_dialog.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/textsize_slider_dialog.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_mute_white.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/mute_white.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/menu_context_folder.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/context_folder.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_loginprogress.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_loginprogress.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_intelligenceselector.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_intelligenceselector.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_infrequent_cutoff_dialog.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/infrequent_cutoff_dialog.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_loading_throbber.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_loading_throbber.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/anim_text_down.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/text_down.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_socialfeed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_socialfeed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_toggle_icon_unread.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/toggle_icon_unread.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_divider_dark.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/divider_dark.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_fleuron.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_fleuron.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_feed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_feed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_shared.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_shared.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_twitter_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/twitter_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_black_selector_folder_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_selector_folder_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_story_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_story_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_edit_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_edit_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_send_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_send_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_story_feed_gray46.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_story_feed_gray46.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_arrow_forward_gray74.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_arrow_forward_gray74.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_story_text_gray46.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_story_text_gray46.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_folder_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/folder_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_global_shared_stories.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_global_shared_stories.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_text_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_text_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_mute_black.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/mute_black.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_story_background_highlight.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/story_background_highlight.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_row_item_header_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/row_item_header_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_menu_markread_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_markread_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_send.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_send.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/anim_slide_out_to_left.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/slide_out_to_left.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_story_feed_gray74.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_story_feed_gray74.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_fleuron.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/fleuron.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_all_stories.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_all_stories.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_g_icn_folder_rss.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_folder_rss.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_actionbar_custom_icon.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/actionbar_custom_icon.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_activity.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_activity.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_g_icn_focus.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_focus.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_world.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/world.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_right_done_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_right_done_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_profiledetails.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_profiledetails.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_saved_count_rect.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/saved_count_rect.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_menu_search_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_search_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_dislike_active.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_dislike_active.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_right_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_right_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_story_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_story_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_send_gray46.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_send_gray46.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_menu_profile_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_profile_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_divider_item_header.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_divider_item_header.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_dislike_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_dislike_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_profile_user_statistics.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/profile_user_statistics.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_menu_add_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_add_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_tag_view.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/tag_view.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_gradient_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/gradient_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/menu_reading.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/reading.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_dialog_choosefolders.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/dialog_choosefolders.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_profile.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_story_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_story_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_person.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/person.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_view_footer_tile.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/view_footer_tile.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_infrequent_stories.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_infrequent_stories.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_story_background_highlight.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_story_background_highlight.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_readfilter_dialog.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/readfilter_dialog.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_addsocial.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_addsocial.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_feed_background_highlight.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_feed_background_highlight.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_story.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_story.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_story_text_gray74.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_story_text_gray74.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_read_stories.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_read_stories.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_world_big.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/world_big.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_feed_search.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_feed_search.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_toggle_set_border.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/toggle_set_border.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_text_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_text_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_menu_fullscreen_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_fullscreen_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_left_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_left_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_black_divider_item_header.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_divider_item_header.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_registerprogress.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_registerprogress.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_send_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_send_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_itemslist.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_itemslist.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_item_border.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/item_border.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_g_icn_unread_double.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_unread_double.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_tag_background_positive.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/tag_background_positive.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_folder_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_folder_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_dark_text.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_text.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_check_circle_gray74.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_check_circle_gray74.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_dark_send.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_send.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_share_dialog.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/share_dialog.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/menu_search.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/search.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_right_done_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_right_done_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_include_comment.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_comment.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_view_story_row.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/view_story_row.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_transparent.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/transparent.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_send_gray74.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_send_gray74.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/xml_backupscheme.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/xml/backupscheme.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_right.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_right.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_twitter_logo.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/twitter_logo.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_arrow_forward_gray46.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_arrow_forward_gray46.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_choosefolders.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_choosefolders.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/xml_activity_settings.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/xml/activity_settings.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_readingitem.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_readingitem.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_addfeedexternal.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_addfeedexternal.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_arrow_back_gray74.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_arrow_back_gray74.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_reply_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_reply_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_state_toggle.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/state_toggle.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_toggle_bg_selected.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/toggle_bg_selected.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_send_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_send_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_facebook_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/facebook_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_readingpager.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_readingpager.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_story_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/story_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ak_icon_global.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ak_icon_global.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_star_active.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_star_active.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_star_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_star_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_logo_monochrome.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/logo_monochrome.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_dialog_trainstory.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/dialog_trainstory.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_logo_newsblur_blur.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/logo_newsblur_blur.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_dark.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_dark.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_folder.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_folder.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_all_shared_stories.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_all_shared_stories.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_divider_light.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/divider_light.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_selector_story_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_selector_story_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_indicator_expanded.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/indicator_expanded.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_black_story_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_story_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_positive_count_rect.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/positive_count_rect.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_view_story_tile.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/view_story_tile.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_feed_background_highlight.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/feed_background_highlight.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_story_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_story_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ak_icon_allstories.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ak_icon_allstories.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_indicator_collapsed.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/indicator_collapsed.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_folder_background_highlight.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_folder_background_highlight.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_dark_right_done.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_right_done.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_folder_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_folder_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_black_folder_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_folder_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_row_item_header_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_row_item_header_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_include_reading_share_bar.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_reading_share_bar.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_storyorder_dialog.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/storyorder_dialog.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_activity_addsocial.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_addsocial.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_profileactivity.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_profileactivity.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_right_done_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_right_done_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_g_icn_hidden.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_hidden.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/menu_context_feed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/context_feed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_tag_background_neutral.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/tag_background_neutral.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/anim_slide_out_to_right.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/slide_out_to_right.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_gradient_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_gradient_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_row_saved_tag.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_saved_tag.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/xml_file_paths.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/menu_story_context.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/story_context.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_right_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_right_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_loginregister.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_loginregister.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_black_row_item_header_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_row_item_header_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_tag.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/tag.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_divider_item_header.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/divider_item_header.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_check_circle_gray46.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_check_circle_gray46.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_story_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_story_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/menu_context_story_oldest.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/context_story_oldest.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_dialog_trainfeed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/dialog_trainfeed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_g_icn_unread.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_unread.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_loginprogress.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_loginprogress.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_list_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_list_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_left_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_left_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_selector_overlay_bg_dark_left.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_left.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_like_gray55.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_like_gray55.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_left_enabled.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_left_enabled.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_dialog_rename_feed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/dialog_rename_feed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_include_intel_row.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_intel_row.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_g_icn_folder.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_folder.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/anim_slide_in_from_right.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/slide_in_from_right.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_button_background_overlay_dark_left_pressed.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_left_pressed.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_feed_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/feed_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ic_like_active.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_like_active.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_feed_background_default.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_feed_background_default.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable-nodpi_dark_selector_feed_background.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_selector_feed_background.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_ak_icon_blurblogs.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ak_icon_blurblogs.png"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/layout_fragment_folderfeedlist.xml.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_folderfeedlist.xml"
+    },
+    {
+        "merged": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/res/merged/debug/drawable_toggle_icon_all.png.flat",
+        "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/toggle_icon_all.png"
+    }
+]

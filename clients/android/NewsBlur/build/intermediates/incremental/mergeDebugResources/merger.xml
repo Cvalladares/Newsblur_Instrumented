@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.core:core:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.core:core:1.0.0" from-dependency="true" generated-set="androidx.core:core:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res"><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-el/values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-nb/values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values/values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-iw/values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-am/values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-sl/values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-es-rUS/values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-en-rCA/values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ca/values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file name="notification_action_background" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-v21/notification_action_background.xml" qualifiers="v21" type="drawable"/><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-cs/values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-pt/values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ky/values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-sk/values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-sq/values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-tl/values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-zh-rCN/values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-pa/values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-zu/values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ka/values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-bg/values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-kn/values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-es/values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ja/values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-uz/values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-km/values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-zh-rHK/values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file name="notification_action" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout/notification_action.xml" qualifiers="" type="layout"/><file name="notification_template_icon_group" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout/notification_template_icon_group.xml" qualifiers="" type="layout"/><file name="notification_template_custom_big" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout/notification_template_custom_big.xml" qualifiers="" type="layout"/><file name="notification_template_part_time" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout/notification_template_part_time.xml" qualifiers="" type="layout"/><file name="notification_action_tombstone" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout/notification_action_tombstone.xml" qualifiers="" type="layout"/><file name="notification_template_part_chronometer" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout/notification_template_part_chronometer.xml" qualifiers="" type="layout"/><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-as/values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-sv/values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-eu/values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-hi/values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-th/values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-b+sr+Latn/values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-en-rAU/values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ta/values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-v21/values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-gu/values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-uk/values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-pl/values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ne/values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-sw/values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-mn/values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-fa/values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-it/values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-mk/values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-af/values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-v16/values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-en-rGB/values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-fi/values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ar/values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ml/values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ko/values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file name="notification_bg_low_pressed" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_normal" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notification_bg_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="notification_bg_low_normal" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-en-rXC/values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-pt-rBR/values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-my/values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-lv/values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-or/values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-vi/values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ru/values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-lo/values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-et/values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file name="notification_template_custom_big" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout-v16/notification_template_custom_big.xml" qualifiers="v16" type="layout"/><file name="notification_icon_background" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable/notification_icon_background.xml" qualifiers="" type="drawable"/><file name="notification_tile_bg" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable/notification_tile_bg.xml" qualifiers="" type="drawable"/><file name="notification_bg_low" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable/notification_bg_low.xml" qualifiers="" type="drawable"/><file name="notification_bg" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable/notification_bg.xml" qualifiers="" type="drawable"/><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-fr/values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-sr/values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-hr/values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ms/values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-be/values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-te/values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-is/values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-de/values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ur/values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-fr-rCA/values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file name="notification_action" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout-v21/notification_action.xml" qualifiers="v21" type="layout"/><file name="notification_template_icon_group" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout-v21/notification_template_icon_group.xml" qualifiers="v21" type="layout"/><file name="notification_template_custom_big" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout-v21/notification_template_custom_big.xml" qualifiers="v21" type="layout"/><file name="notification_action_tombstone" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/layout-v21/notification_action_tombstone.xml" qualifiers="v21" type="layout"/><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-in/values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file name="notification_bg_low_pressed" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notification_bg_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_normal" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-hdpi-v4/notification_bg_low_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-bs/values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-az/values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-hy/values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-mr/values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-si/values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file name="notification_bg_low_pressed" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_normal_pressed" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_normal" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notification_bg_normal.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png" qualifiers="mdpi-v4" type="drawable"/><file name="notification_bg_low_normal" path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/drawable-mdpi-v4/notification_bg_low_normal.9.png" qualifiers="mdpi-v4" type="drawable"/><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-da/values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-bn/values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-tr/values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-pt-rPT/values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-en-rIN/values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-lt/values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ro/values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-kk/values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-hu/values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-gl/values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-nl/values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/.gradle/caches/transforms-2/files-2.1/c2de75008113b470463acb987f4a1f53/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0" from-dependency="true" generated-set="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/.gradle/caches/transforms-2/files-2.1/c2de75008113b470463acb987f4a1f53/res"><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/c2de75008113b470463acb987f4a1f53/res/values/values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.recyclerview:recyclerview:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/.gradle/caches/transforms-2/files-2.1/fee76072ac244efce668419146db4f72/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.recyclerview:recyclerview:1.0.0" from-dependency="true" generated-set="androidx.recyclerview:recyclerview:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/.gradle/caches/transforms-2/files-2.1/fee76072ac244efce668419146db4f72/res"><file path="/home/christian/.gradle/caches/transforms-2/files-2.1/fee76072ac244efce668419146db4f72/res/values/values.xml" qualifiers=""><declare-styleable name="RecyclerView">
+        
+        <attr format="string" name="layoutManager"/>
+
+        
+        
+        
+        <eat-comment/>
+
+        <attr name="android:orientation"/>
+        <attr name="android:descendantFocusability"/>
+        <attr format="integer" name="spanCount"/>
+        <attr format="boolean" name="reverseLayout"/>
+        <attr format="boolean" name="stackFromEnd"/>
+        <attr format="boolean" name="fastScrollEnabled"/>
+        <attr format="reference" name="fastScrollVerticalThumbDrawable"/>
+        <attr format="reference" name="fastScrollVerticalTrackDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalThumbDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalTrackDrawable"/>
+    </declare-styleable><dimen name="fastscroll_default_thickness">8dp</dimen><dimen name="fastscroll_margin">0dp</dimen><dimen name="fastscroll_minimum_range">50dp</dimen><dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen><dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen><dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen><item name="item_touch_helper_previous_elevation" type="id"/></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config=":android_prefetching_lib$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/android_prefetching_lib/build/intermediates/packaged_res/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config=":android_prefetching_lib" from-dependency="true" generated-set=":android_prefetching_lib$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/android_prefetching_lib/build/intermediates/packaged_res/debug"><file path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/android_prefetching_lib/build/intermediates/packaged_res/debug/values/values.xml" qualifiers=""><string name="app_name">android_prefetching_lib</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res"/><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/generated/res/rs/debug"/><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res"><file path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/values/styles.xml" qualifiers=""><style name="initStyle" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/transparent</item>
+    </style><style name="actionbar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/bar_background</item>
+    </style><style name="actionbar.dark" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@color/dark_bar_background</item>
+    </style><style name="actionbar.black" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@color/black</item>
+    </style><style name="expandableListView" parent="@android:style/Widget.Holo.Light.ExpandableListView">
+        <item name="android:background">@drawable/list_background</item>
+    </style><style name="expandableListView.dark" parent="@android:style/Widget.Holo.ExpandableListView">
+        <item name="android:background">@drawable/dark_list_background</item>
+    </style><style name="selectorFolderBackground">
+        <item name="android:background">@drawable/selector_folder_background</item>
+    </style><style name="selectorFolderBackground.dark">
+        <item name="android:background">@drawable/dark_selector_folder_background</item>
+    </style><style name="selectorFolderBackground.black">
+        <item name="android:background">@drawable/black_selector_folder_background</item>
+    </style><style name="selectorFeedBackground">
+        <item name="android:background">@drawable/selector_feed_background</item>
+    </style><style name="selectorFeedBackground.dark">
+        <item name="android:background">@drawable/dark_selector_feed_background</item>
+    </style><style name="feedRowNeutCountText">
+        <item name="android:textColor">@color/white</item>
+    </style><style name="feedRowNeutCountText.dark">
+        <item name="android:textColor">@color/black</item>
+    </style><style name="actionbarBackground">
+        <item name="android:background">@color/bar_background</item>
+    </style><style name="actionbarBackground.dark">
+        <item name="android:background">@color/dark_bar_background</item>
+    </style><style name="actionbarBackground.black">
+        <item name="android:background">@color/black</item>
+    </style><style name="listBackground">
+        <item name="android:background">@drawable/list_background</item>
+    </style><style name="listBackground.dark">
+        <item name="android:background">@drawable/dark_list_background</item>
+    </style><style name="itemBackground">
+        <item name="android:background">@color/item_background</item>
+    </style><style name="itemBackground.dark">
+        <item name="android:background">@color/dark_item_background</item>
+    </style><style name="itemBackground.black">
+        <item name="android:background">@color/black</item>
+    </style><style name="readingBackground">
+        <item name="android:background">@color/white</item>
+    </style><style name="readingBackground.dark">
+        <item name="android:background">@color/dark_item_background</item>
+    </style><style name="readingBackground.black">
+        <item name="android:background">@color/black</item>
+    </style><style name="defaultText">
+        <item name="android:textColorLink">@color/linkblue</item>
+        <item name="android:textColor">@color/text</item>
+    </style><style name="defaultText.dark">
+        <item name="android:textColorLink">@color/dark_linkblue</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="linkText">
+        <item name="android:textColorLink">@color/linkblue</item>
+        <item name="android:textColor">@color/linkblue</item>
+    </style><style name="linkText.dark">
+        <item name="android:textColorLink">@color/dark_linkblue</item>
+        <item name="android:textColor">@color/dark_linkblue</item>
+    </style><style name="storySnippetText">
+        <item name="android:textColor">@color/story_content_text</item>
+    </style><style name="storySnippetText.dark">
+        <item name="android:textColor">@color/dark_story_content_text</item>
+    </style><style name="storyDateText">
+        <item name="android:textColor">@color/story_date_text</item>
+    </style><style name="storyDateText.dark">
+        <item name="android:textColor">@color/dark_story_date_text</item>
+    </style><style name="storyFeedTitleText">
+        <item name="android:textColor">@color/story_feed_title_text</item>
+    </style><style name="storyFeedTitleText.dark">
+        <item name="android:textColor">@color/dark_story_feed_title_text</item>
+    </style><style name="selectorStoryBackground">
+        <item name="android:background">@drawable/selector_story_background</item>
+    </style><style name="selectorStoryBackground.dark">
+        <item name="android:background">@drawable/dark_selector_story_background</item>
+    </style><style name="selectorStoryBackground.black">
+        <item name="android:background">@drawable/black_selector_story_background</item>
+    </style><style name="rowItemHeaderBackground">
+        <item name="android:background">@drawable/row_item_header_background</item>
+    </style><style name="rowItemHeaderBackground.dark">
+        <item name="android:background">@drawable/dark_row_item_header_background</item>
+    </style><style name="rowItemHeaderBackground.black">
+        <item name="android:background">@drawable/black_row_item_header_background</item>
+    </style><style name="readingItemMetadata">
+        <item name="android:textColor">@color/half_darkgray</item>
+    </style><style name="readingItemMetadata.dark">
+        <item name="android:textColor">@color/half_white</item>
+    </style><style name="tag">
+        <item name="android:textColor">@color/gray55</item>
+        <item name="android:background">@drawable/tag_background_neutral</item>
+    </style><style name="tag.dark">
+        <item name="android:textColor">@color/tag_gray_shadow</item>
+        <item name="android:background">@drawable/tag_background_dark</item>
+    </style><style name="actionButtons">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/button_text</item>
+        <item name="android:background">@drawable/button_background</item>
+    </style><style name="actionButtons.dark">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/button_text_dark</item>
+        <item name="android:background">@drawable/button_background_dark</item>
+    </style><style name="storyButtons">
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginLeft">4dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:textColor">@color/button_text</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:gravity">center</item>
+    </style><style name="storyButtons.dark">
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginLeft">4dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:textColor">@color/button_text_dark</item>
+        <item name="android:background">@drawable/button_background_dark</item>
+        <item name="android:gravity">center</item>
+    </style><style name="shareBarBackground">
+        <item name="android:background">@color/share_bar_background</item>
+    </style><style name="shareBarBackground.dark">
+        <item name="android:background">@color/dark_share_bar_background</item>
+    </style><style name="shareBarBackground.black">
+        <item name="android:background">@color/black</item>
+    </style><style name="shareBarText">
+        <item name="android:textColor">@color/gray55</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style><style name="shareBarText.dark">
+        <item name="android:textColor">@color/gray55</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">0</item>
+    </style><style name="commentsHeader">
+        <item name="android:background">@drawable/gradient_background_default</item>
+        <item name="android:textColor">@color/text</item>
+    </style><style name="commentsHeader.dark">
+        <item name="android:background">@drawable/dark_gradient_background_default</item>
+        <item name="android:textColor">@color/gray55</item>
+    </style><style name="commentsHeader.black">
+        <item name="android:background">@drawable/black_gradient_background_default</item>
+        <item name="android:textColor">@color/gray55</item>
+    </style><style name="activityDetailsPager">
+        <item name="android:background">@drawable/gradient_background_default</item>
+        <item name="android:textColor">@color/text</item>
+    </style><style name="activityDetailsPager.dark">
+        <item name="android:background">@drawable/dark_gradient_background_default</item>
+        <item name="android:textColor">@color/dark_text</item>
+    </style><style name="activityDetailsPager.black">
+        <item name="android:background">@drawable/black_gradient_background_default</item>
+        <item name="android:textColor">@color/dark_text</item>
+    </style><style name="rowBorderTop">
+        <item name="android:background">@color/row_border_top</item>
+    </style><style name="rowBorderTop.dark">
+        <item name="android:background">@color/dark_row_border_top</item>
+    </style><style name="rowBorderTop.black">
+        <item name="android:background">@color/black_row_border_top</item>
+    </style><style name="rowBorderBottom">
+        <item name="android:background">@color/row_border_bottom</item>
+    </style><style name="rowBorderBottom.dark">
+        <item name="android:background">@color/dark_row_border_bottom</item>
+    </style><style name="rowBorderBottom.black">
+        <item name="android:background">@color/black_row_border_bottom</item>
+    </style><style name="profileCount">
+        <item name="android:background">@color/item_background</item>
+        <item name="android:textColor">@color/text</item>
+    </style><style name="profileCount.dark">
+        <item name="android:background">@color/dark_item_background</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="profileCount.black">
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="profileActivityList">
+        <item name="android:background">@color/item_background</item>
+        <item name="android:divider">@drawable/divider_light</item>
+    </style><style name="profileActivityList.dark">
+        <item name="android:background">@color/dark_item_background</item>
+        <item name="android:divider">@drawable/divider_dark</item>
+    </style><style name="profileActivityList.black">
+        <item name="android:background">@color/black</item>
+        <item name="android:divider">@drawable/divider_dark</item>
+    </style><style name="itemHeaderDivider">
+        <item name="android:background">@drawable/divider_item_header</item>
+    </style><style name="itemHeaderDivider.dark">
+        <item name="android:background">@drawable/dark_divider_item_header</item>
+    </style><style name="itemHeaderDivider.black">
+        <item name="android:background">@drawable/black_divider_item_header</item>
+    </style><style name="storyCommentDivider">
+        <item name="android:background">@color/story_comment_divider</item>
+    </style><style name="storyCommentDivider.dark">
+        <item name="android:background">@color/dark_story_comment_divider</item>
+    </style><style name="storyCommentDivider.black">
+        <item name="android:background">@color/gray07</item>
+    </style><style name="explainerText">
+        <item name="android:textColor">@color/gray55</item>
+    </style><style name="explainerText.dark">
+        <item name="android:textColor">@color/dark_text</item>
+    </style><style name="toggleText">
+        <item name="android:textColor">@color/gray55</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="toggleText.dark">
+        <item name="android:textColor">@color/gray55</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="selectorOverlayBackgroundLeft">
+        <item name="android:background">@drawable/selector_overlay_bg_left</item>
+    </style><style name="selectorOverlayBackgroundLeft.dark">
+        <item name="android:background">@drawable/selector_overlay_bg_dark_left</item>
+    </style><style name="selectorOverlayBackgroundRight">
+        <item name="android:background">@drawable/selector_overlay_bg_right</item>
+        <item name="android:textColor">@color/button_text</item>
+    </style><style name="selectorOverlayBackgroundRight.dark">
+        <item name="android:background">@drawable/selector_overlay_bg_dark_right</item>
+        <item name="android:textColor">@color/button_text_dark</item>
+    </style><style name="selectorOverlayBackgroundRightDone">
+        <item name="android:background">@drawable/selector_overlay_bg_right_done</item>
+        <item name="android:textColor">@color/button_text</item>
+    </style><style name="selectorOverlayBackgroundRightDone.dark">
+        <item name="android:background">@drawable/selector_overlay_bg_dark_right_done</item>
+        <item name="android:textColor">@color/button_text_dark</item>
+    </style><style name="selectorOverlayBackgroundSend">
+        <item name="android:background">@drawable/selector_overlay_bg_send</item>
+    </style><style name="selectorOverlayBackgroundSend.dark">
+        <item name="android:background">@drawable/selector_overlay_bg_dark_send</item>
+    </style><style name="selectorOverlayBackgroundStory">
+        <item name="android:background">@drawable/selector_overlay_bg_story</item>
+        <item name="android:textColor">@color/button_text</item>
+    </style><style name="selectorOverlayBackgroundStory.dark">
+        <item name="android:background">@drawable/selector_overlay_bg_dark_story</item>
+        <item name="android:textColor">@color/button_text_dark</item>
+    </style><style name="selectorOverlayBackgroundText">
+        <item name="android:background">@drawable/selector_overlay_bg_text</item>
+        <item name="android:textColor">@color/button_text</item>
+    </style><style name="selectorOverlayBackgroundText.dark">
+        <item name="android:background">@drawable/selector_overlay_bg_dark_text</item>
+        <item name="android:textColor">@color/button_text_dark</item>
+    </style><style name="muteicon">
+        <item name="android:src">@drawable/mute_white</item>
+    </style><style name="muteicon.dark">
+        <item name="android:src">@drawable/mute_black</item>
+    </style><style name="contextPopupStyle" parent="@android:style/Widget.Holo.Light.PopupMenu">
+        <item name="android:overlapAnchor">true</item>
+    </style><style name="contextPopupStyle.dark" parent="@android:style/Widget.Holo.PopupMenu">
+        <item name="android:overlapAnchor">true</item>
+    </style></file><file path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/values/attrs.xml" qualifiers=""><attr format="string" name="selectorFolderBackground"/><attr format="string" name="selectorFeedBackground"/><attr format="string" name="feedRowNeutCountText"/><attr format="string" name="actionbarBackground"/><attr format="string" name="listBackground"/><attr format="string" name="itemBackground"/><attr format="string" name="readingBackground"/><attr format="string" name="defaultText"/><attr format="string" name="linkText"/><attr format="string" name="storySnippetText"/><attr format="string" name="storyDateText"/><attr format="string" name="storyFeedTitleText"/><attr format="string" name="selectorStoryBackground"/><attr format="string" name="rowItemHeaderBackground"/><attr format="string" name="readingItemMetadata"/><attr format="string" name="tag"/><attr format="string" name="actionButtons"/><attr format="string" name="storyButtons"/><attr format="string" name="shareBarBackground"/><attr format="string" name="shareBarText"/><attr format="string" name="commentsHeader"/><attr format="string" name="rowBorderTop"/><attr format="string" name="rowBorderBottom"/><attr format="string" name="divider"/><attr format="string" name="profileCount"/><attr format="string" name="profileActivityList"/><attr format="string" name="itemHeaderDivider"/><attr format="string" name="storyCommentDivider"/><attr format="string" name="activityDetailsPager"/><attr format="string" name="explainerText"/><attr format="string" name="toggleText"/><attr format="string" name="selectorOverlayBackgroundLeft"/><attr format="string" name="selectorOverlayBackgroundRight"/><attr format="string" name="selectorOverlayBackgroundRightDone"/><attr format="string" name="selectorOverlayBackgroundSend"/><attr format="string" name="selectorOverlayBackgroundStory"/><attr format="string" name="selectorOverlayBackgroundText"/><attr format="string" name="muteicon"/><attr format="string" name="flow"/><attr format="integer" name="imageViewSize"/><declare-styleable name="FlowLayout">
+        <attr name="flow"/>
+        <attr name="imageViewSize"/>
+    </declare-styleable><attr format="integer" name="addedHeight"/><declare-styleable name="SquaredRelativeLayout">
+        <attr name="addedHeight"/>
+    </declare-styleable></file><file path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/values/theme.xml" qualifiers=""><style name="NewsBlurTheme" parent="@android:style/Theme.Holo.Light">
+    	<item name="android:actionBarStyle">@style/actionbar</item>
+        <item name="android:expandableListViewStyle">@style/expandableListView</item>
+        <item name="selectorFolderBackground">@style/selectorFolderBackground</item>
+        <item name="selectorFeedBackground">@style/selectorFeedBackground</item>
+        <item name="feedRowNeutCountText">@style/feedRowNeutCountText</item>
+        <item name="actionbarBackground">@style/actionbarBackground</item>
+        <item name="listBackground">@style/listBackground</item>
+        <item name="itemBackground">@style/itemBackground</item>
+        <item name="readingBackground">@style/readingBackground</item>
+        <item name="defaultText">@style/defaultText</item>
+        <item name="linkText">@style/linkText</item>
+        <item name="storySnippetText">@style/storySnippetText</item>
+        <item name="storyDateText">@style/storyDateText</item>
+        <item name="storyFeedTitleText">@style/storyFeedTitleText</item>
+        <item name="selectorStoryBackground">@style/selectorStoryBackground</item>
+        <item name="rowItemHeaderBackground">@style/rowItemHeaderBackground</item>
+        <item name="readingItemMetadata">@style/readingItemMetadata</item>
+        <item name="tag">@style/tag</item>
+        <item name="actionButtons">@style/actionButtons</item>
+        <item name="storyButtons">@style/storyButtons</item>
+        <item name="shareBarBackground">@style/shareBarBackground</item>
+        <item name="shareBarText">@style/shareBarText</item>
+        <item name="commentsHeader">@style/commentsHeader</item>
+        <item name="rowBorderTop">@style/rowBorderTop</item>
+        <item name="rowBorderBottom">@style/rowBorderBottom</item>
+        <item name="profileCount">@style/profileCount</item>
+        <item name="profileActivityList">@style/profileActivityList</item>
+        <item name="itemHeaderDivider">@style/itemHeaderDivider</item>
+        <item name="storyCommentDivider">@style/storyCommentDivider</item>
+        <item name="activityDetailsPager">@style/activityDetailsPager</item>
+        <item name="explainerText">@style/explainerText</item>
+        <item name="toggleText">@style/toggleText</item>
+        <item name="selectorOverlayBackgroundLeft">@style/selectorOverlayBackgroundLeft</item>
+        <item name="selectorOverlayBackgroundRight">@style/selectorOverlayBackgroundRight</item>
+        <item name="selectorOverlayBackgroundRightDone">@style/selectorOverlayBackgroundRightDone</item>
+        <item name="selectorOverlayBackgroundSend">@style/selectorOverlayBackgroundSend</item>
+        <item name="selectorOverlayBackgroundStory">@style/selectorOverlayBackgroundStory</item>
+        <item name="selectorOverlayBackgroundText">@style/selectorOverlayBackgroundText</item>
+        <item name="muteicon">@style/muteicon</item>
+        <item name="android:contextPopupMenuStyle">@style/contextPopupStyle</item>
+        <item name="android:textColorPrimary">@color/black</item>
+	</style><style name="NewsBlurDarkTheme" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/actionbar.dark</item>
+        <item name="android:expandableListViewStyle">@style/expandableListView.dark</item>
+        <item name="selectorFolderBackground">@style/selectorFolderBackground.dark</item>
+        <item name="selectorFeedBackground">@style/selectorFeedBackground.dark</item>
+        <item name="feedRowNeutCountText">@style/feedRowNeutCountText.dark</item>
+        <item name="actionbarBackground">@style/actionbarBackground.dark</item>
+        <item name="listBackground">@style/listBackground.dark</item>
+        <item name="itemBackground">@style/itemBackground.dark</item>
+        <item name="readingBackground">@style/readingBackground.dark</item>
+        <item name="defaultText">@style/defaultText.dark</item>
+        <item name="linkText">@style/linkText.dark</item>
+        <item name="storySnippetText">@style/storySnippetText.dark</item>
+        <item name="storyDateText">@style/storyDateText.dark</item>
+        <item name="storyFeedTitleText">@style/storyFeedTitleText.dark</item>
+        <item name="selectorStoryBackground">@style/selectorStoryBackground.dark</item>
+        <item name="rowItemHeaderBackground">@style/rowItemHeaderBackground.dark</item>
+        <item name="readingItemMetadata">@style/readingItemMetadata.dark</item>
+        <item name="tag">@style/tag.dark</item>
+        <item name="actionButtons">@style/actionButtons.dark</item>
+        <item name="storyButtons">@style/storyButtons.dark</item>
+        <item name="shareBarBackground">@style/shareBarBackground.dark</item>
+        <item name="shareBarText">@style/shareBarText.dark</item>
+        <item name="commentsHeader">@style/commentsHeader.dark</item>
+        <item name="rowBorderTop">@style/rowBorderTop.dark</item>
+        <item name="rowBorderBottom">@style/rowBorderBottom.dark</item>
+        <item name="profileCount">@style/profileCount.dark</item>
+        <item name="profileActivityList">@style/profileActivityList.dark</item>
+        <item name="itemHeaderDivider">@style/itemHeaderDivider.dark</item>
+        <item name="storyCommentDivider">@style/storyCommentDivider.dark</item>
+        <item name="activityDetailsPager">@style/activityDetailsPager.dark</item>
+        <item name="explainerText">@style/explainerText.dark</item>
+        <item name="toggleText">@style/toggleText.dark</item>
+        <item name="selectorOverlayBackgroundLeft">@style/selectorOverlayBackgroundLeft.dark</item>
+        <item name="selectorOverlayBackgroundRight">@style/selectorOverlayBackgroundRight.dark</item>
+        <item name="selectorOverlayBackgroundRightDone">@style/selectorOverlayBackgroundRightDone.dark</item>
+        <item name="selectorOverlayBackgroundSend">@style/selectorOverlayBackgroundSend.dark</item>
+        <item name="selectorOverlayBackgroundStory">@style/selectorOverlayBackgroundStory.dark</item>
+        <item name="selectorOverlayBackgroundText">@style/selectorOverlayBackgroundText.dark</item>
+        <item name="muteicon">@style/muteicon.dark</item>
+
+        
+        <item name="android:contextPopupMenuStyle">@style/contextPopupStyle.dark</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style><style name="NewsBlurBlackTheme" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/actionbar.black</item>
+        <item name="android:expandableListViewStyle">@style/expandableListView.dark</item>
+        <item name="selectorFolderBackground">@style/selectorFolderBackground.black</item>
+        <item name="selectorFeedBackground">@style/selectorFeedBackground.dark</item>
+        <item name="feedRowNeutCountText">@style/feedRowNeutCountText.dark</item>
+        <item name="actionbarBackground">@style/actionbarBackground.black</item>
+        <item name="listBackground">@style/listBackground.dark</item>
+        <item name="itemBackground">@style/itemBackground.black</item>
+        <item name="readingBackground">@style/readingBackground.black</item>
+        <item name="defaultText">@style/defaultText.dark</item>
+        <item name="linkText">@style/linkText.dark</item>
+        <item name="storySnippetText">@style/storySnippetText.dark</item>
+        <item name="storyDateText">@style/storyDateText.dark</item>
+        <item name="storyFeedTitleText">@style/storyFeedTitleText.dark</item>
+        <item name="selectorStoryBackground">@style/selectorStoryBackground.black</item>
+        <item name="rowItemHeaderBackground">@style/rowItemHeaderBackground.black</item>
+        <item name="readingItemMetadata">@style/readingItemMetadata.dark</item>
+        <item name="tag">@style/tag.dark</item>
+        <item name="actionButtons">@style/actionButtons.dark</item>
+        <item name="storyButtons">@style/storyButtons.dark</item>
+        <item name="shareBarBackground">@style/shareBarBackground.black</item>
+        <item name="shareBarText">@style/shareBarText.dark</item>
+        <item name="commentsHeader">@style/commentsHeader.black</item>
+        <item name="rowBorderTop">@style/rowBorderTop.black</item>
+        <item name="rowBorderBottom">@style/rowBorderBottom.black</item>
+        <item name="profileCount">@style/profileCount.black</item>
+        <item name="profileActivityList">@style/profileActivityList.black</item>
+        <item name="itemHeaderDivider">@style/itemHeaderDivider.black</item>
+        <item name="storyCommentDivider">@style/storyCommentDivider.black</item>
+        <item name="activityDetailsPager">@style/activityDetailsPager.black</item>
+        <item name="explainerText">@style/explainerText.dark</item>
+        <item name="toggleText">@style/toggleText.dark</item>
+        <item name="selectorOverlayBackgroundLeft">@style/selectorOverlayBackgroundLeft.dark</item>
+        <item name="selectorOverlayBackgroundRight">@style/selectorOverlayBackgroundRight.dark</item>
+        <item name="selectorOverlayBackgroundRightDone">@style/selectorOverlayBackgroundRightDone.dark</item>
+        <item name="selectorOverlayBackgroundSend">@style/selectorOverlayBackgroundSend.dark</item>
+        <item name="selectorOverlayBackgroundStory">@style/selectorOverlayBackgroundStory.dark</item>
+        <item name="selectorOverlayBackgroundText">@style/selectorOverlayBackgroundText.dark</item>
+        <item name="muteicon">@style/muteicon.dark</item>
+        <item name="android:contextPopupMenuStyle">@style/contextPopupStyle.dark</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style></file><file path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/values/strings.xml" qualifiers=""><string name="newsblur">NewsBlur</string><string name="login_username_hint">username</string><string name="login_password_hint">password</string><string name="login_registration_email_hint">email address</string><string name="login_button_login">Log In</string><string name="login_forgot_password"><u>I forgot my password</u></string><string name="login_custom_server"><u>I have a custom server</u></string><string name="login_custom_server_hint">https://www.newsblur.com</string><string name="login_message_error">There was problem logging in to NewsBlur.</string><string name="login_logging_in">Logging in…</string><string name="login_logged_in">Logged in!</string><string name="login_retrieving_feeds">Retrieving feeds…</string><string name="login_next">Next</string><string name="title_feed_search">Search for feeds</string><string name="add_feed_message">Add \"%s\" to your feeds?</string><string name="loading">Loading…</string><string name="orig_text_loading">Fetching story text…</string><string name="follow_error">There was a problem following the user. Check your internet connection and try again.</string><string name="unfollow_error">There was a problem unfollowing the user. Check your internet connection and try again.</string><string name="description_login_button">Press to log in.</string><string name="description_login_logo">NewsBlur Logo</string><string name="description_profile_picture">The user\'s profile picture</string><string name="description_row_folder_icon">folder icon</string><string name="description_activity_icon">An icon illustrating the user\'s activity</string><string name="description_follow_button">Follow or unfollow a user</string><string name="description_comment_user">Comment user image</string><string name="description_empty_list_image">Empty list placeholder</string><string name="description_menu">Menu</string><string name="title_choose_folders">Choose Folders for Feed %s</string><string name="title_rename_feed">Rename Feed %s</string><string name="all_stories_row_title">ALL STORIES</string><string name="all_stories_title">All Stories</string><string name="infrequent_row_title">INFREQUENT SITE STORIES</string><string name="infrequent_title">Infrequent Site Stories</string><string name="all_shared_stories_row_title">ALL SHARED STORIES</string><string name="all_shared_stories_title">All Shared Stories</string><string name="global_shared_stories_row_title">GLOBAL SHARED STORIES</string><string name="global_shared_stories_title">Global Shared Stories</string><string name="read_stories_row_title">READ STORIES</string><string name="read_stories_title">Read Stories</string><string name="saved_stories_row_title">SAVED STORIES</string><string name="saved_stories_title">Saved Stories</string><string name="top_level">TOP LEVEL</string><string name="send_brief">%1$s %2$s</string><string name="send_full">%1$s \n\n\"%2$s\" \n\n%3$s \n\n--\nShared with NewsBlur.com</string><string name="share_comment_hint">Comment (Optional)</string><string name="share_newsblur">Share \"%s\" to your Blurblog?</string><string name="share_this">SHARE</string><string name="already_shared">SHARED</string><string name="share_this_story">SHARE</string><string name="unshare">DELETE SHARE</string><string name="update_shared">UPDATE COMMENT</string><string name="feed_name_save">RENAME FEED</string><string name="save_this">SAVE</string><string name="unsave_this">REMOVE FROM SAVED</string><string name="overlay_next">NEXT</string><string name="overlay_done">DONE</string><string name="overlay_count_toast_N">%d unread stories</string><string name="overlay_count_toast_1">1 unread story</string><string name="overlay_text">TEXT</string><string name="overlay_story">STORY</string><string name="orig_text_failed">Sorry, the story\'s text could not be extracted.</string><string name="state_all">ALL</string><string name="state_unread">UNREAD</string><string name="state_focus">FOCUS</string><string name="state_saved">SAVED</string><string name="reply_to">Reply to \"%s\"</string><string name="edit_reply">Edit reply</string><string name="edit_reply_update">UPDATE REPLY</string><string name="edit_reply_delete">DELTE REPLY</string><string name="alert_dialog_ok">OKAY</string><string name="alert_dialog_cancel">CANCEL</string><string name="alert_dialog_done">DONE</string><string name="alert_dialog_openlink">OPEN LINK</string><string name="alert_dialog_openimage">OPEN IMAGE</string><string name="dialog_folders_save">SAVE FOLDERS</string><string name="dialog_story_intel_save">SAVE TRAINING</string><string name="profile">Profile</string><string name="profile_location_icon">Location icon</string><string name="profile_following">FOLLOWING</string><string name="profile_followers">FOLLOWERS</string><string name="profile_shared">SHARED STORIES</string><string name="profile_ago">AGO</string><string name="profile_recent_actvity">Activities</string><string name="profile_recent_interactions">Interactions</string><string name="profile_started_following">followed</string><string name="profile_you">You</string><string name="profile_you_lower">you</string><string name="profile_your">your</string><string name="profile_now_following">is now following %1$s</string><string name="profile_replied_to">Replied to</string><string name="profile_replied_to_your">replied to %1$s</string><string name="profile_shared_story">shared</string><string name="profile_comment">comment</string><string name="profile_reply">reply</string><string name="profile_button_follow">FOLLOW</string><string name="profile_button_unfollow">FOLLOWING</string><string name="profile_subscribed_to">subscribed to</string><string name="profile_saved">saved</string><string name="profile_reshared">re-shared</string><string name="profile_favorited">favorited</string><string name="profile_favorited_comments">favorited %1$s comments on</string><string name="profile_signup">signed up for Newsblur</string><string name="profile_comments_on">comments on</string><string name="profile_feed_not_available">You are no longer subscribed to this feed</string><string name="profile_do_not_follow">You do not follow this user</string><string name="profile_no_interactions">No interactions</string><string name="menu_profile">Profile</string><string name="menu_refresh">Refresh</string><string name="menu_search_feeds">Search your feeds</string><string name="menu_original">View original</string><string name="menu_send_story">Send link to…</string><string name="menu_send_story_full">Send story to…</string><string name="menu_mark_feed_as_read">Mark feed as read</string><string name="menu_delete_feed">Delete feed</string><string name="menu_unfollow">Unfollow user</string><string name="menu_choose_folders">Choose folders</string><string name="menu_notifications_choose">Notifications…</string><string name="menu_notifications_disable">Disable notifications</string><string name="menu_notifications_focus">Notify on new focus stories</string><string name="menu_notifications_unread">Notify on all new stories</string><string name="menu_mark_folder_as_read">Mark folder as read</string><string name="menu_sharenewsblur">Share this story</string><string name="menu_textsize">Adjust text size</string><string name="menu_font">Change font</string><string name="menu_save_story">Save this story</string><string name="menu_unsave_story">Unsave this story</string><string name="menu_newest_mark_older_stories_as_read">\u21E3 Mark older as read</string><string name="menu_newest_mark_newer_stories_as_read">\u21E1 Mark newer as read</string><string name="menu_oldest_mark_older_stories_as_read">\u21E1 Mark older as read</string><string name="menu_oldest_mark_newer_stories_as_read">\u21E3 Mark newer as read</string><string name="menu_mark_story_as_read">Mark as read</string><string name="menu_mark_unread">Mark as unread</string><string name="menu_fullscreen">Full screen</string><string name="menu_search_stories">Search…</string><string name="menu_mute_feed">Mute feed</string><string name="menu_unmute_feed">Unmute feed</string><string name="menu_mute_folder">Mute folder</string><string name="menu_unmute_folder">Unmute folder</string><string name="menu_instafetch_feed">Insta-fetch stories</string><string name="menu_infrequent_cutoff">Infrequent stories per month</string><string name="menu_intel">Intelligence trainer</string><string name="menu_rename_feed">Rename feed</string><string name="menu_story_list_style_choose">List style…</string><string name="list_style_list">List</string><string name="list_style_grid_f">Grid (fine)</string><string name="list_style_grid_m">Grid (medium)</string><string name="list_style_grid_c">Grid (coarse)</string><string name="toast_hold_to_select">Press and hold to select text</string><string name="logout_warning">Are you sure you want to log out?</string><string name="search_mark_read_warning">Look out! All stories in feed/folder would be marked read, not just search results.  If you really want to mark all stories read, please clear your search query to confirm.</string><string name="your_feeds_search_hint">Search your feeds</string><string name="feed_search_hint">Search term or feed URL</string><string name="story_search_hint">Search for stories</string><string name="empty_search_notice">Type a search term to begin</string><string name="menu_add_feed">Add new feed</string><string name="menu_search">Search</string><string name="adding_feed_progress">Adding feed…</string><string name="add_feed_error">Could not add feed</string><string name="menu_mark_all_as_read">Mark all as read</string><string name="menu_logout">Log out</string><string name="menu_feedback">Send app feedback</string><string name="menu_feedback_post">Create a feedback post</string><string name="menu_feedback_email">Email a bug report</string><string name="menu_theme_choose">Theme…</string><string name="menu_loginas">Login as...</string><string name="loginas_title">Login As User</string><string name="empty_list_view_loading">Loading…</string><string name="empty_list_view_no_stories">No stories to read</string><string name="empty_list_view_no_stories_unread">No unread stories</string><string name="empty_list_view_muted_feed">Feed is muted</string><string name="empty_list_view_no_unread_stories">You have no unread stories.</string><string name="empty_list_view_no_focus_stories">You have no unread stories in Focus mode.\n\nSwitch to All or Unread.</string><string name="empty_list_view_no_saved_stories">You have no saved stories.\n\nSwitch to All or Unread.</string><string name="login_registration_register">Register</string><string name="register_message_error">There was problem registering for NewsBlur.</string><string name="get_started">Let\'s get started</string><string name="add_friends">Add your friends</string><string name="connect_with_your_friends">Connect with your friends to easily follow the stories that matter to them</string><string name="twitter">Twitter</string><string name="facebook">Facebook</string><string name="auto_follow_friends">Auto-follow friends</string><string name="add_twitter">Add Twitter friends</string><string name="add_facebook">Add Facebook friends</string><string name="need_to_login"><u>I need to log in!</u></string><string name="need_to_register"><u>I need to register</u></string><string name="public_comment_count">%d PUBLIC COMMENTS</string><string name="friends_comments_count">%d COMMENTS</string><string name="friends_shares_count">%d SHARES</string><string name="unknown_user">Unknown User</string><string name="delete_feed_message">Delete feed \"%s\"?</string><string name="unfollow_message">Unfollow \"%s\"?</string><string name="settings">Preferences</string><string name="settings_cat_offline">Offline</string><string name="settings_enable_offline">Download Stories</string><string name="settings_enable_offline_sum">Periodically fetch stories in background</string><string name="settings_enable_image_prefetch">Download Images</string><string name="settings_enable_image_prefetch_sum">Pre-fetch images for offline reading</string><string name="settings_keep_old_stories">Keep Stories after Reading</string><string name="settings_keep_old_stories_sum">Disable to reduce storage usage</string><string name="menu_network_select">Download Using</string><string name="menu_network_select_sum">Restrict background data to chosen networks</string><string name="menu_network_select_opt_any">Any Network</string><string name="menu_network_select_opt_nomo">Any Wifi or Ethernet</string><string name="menu_network_select_opt_nomononme">Unmetered Wifi or Ethernet Only</string><string-array name="default_network_select_entries">
+        <item>@string/menu_network_select_opt_any</item>
+        <item>@string/menu_network_select_opt_nomo</item>
+        <item>@string/menu_network_select_opt_nomononme</item>
+    </string-array><string-array name="default_network_select_values">
+        <item>ANY</item>
+        <item>NOMO</item>
+        <item>NOMONONME</item>
+    </string-array><string name="default_network_select_value">NOMONONME</string><string name="menu_cache_age_select">Maximum Cache Age</string><string name="menu_cache_age_select_sum">Clean up cached story content after…</string><string name="menu_cache_age_select_opt_2d">2 days (reduce storage use)</string><string name="menu_cache_age_select_opt_7d">7 days</string><string name="menu_cache_age_select_opt_14d">14 days</string><string name="menu_cache_age_select_opt_30d">30 days (reduce network use)</string><string-array name="cache_age_select_entries">
+        <item>@string/menu_cache_age_select_opt_2d</item>
+        <item>@string/menu_cache_age_select_opt_7d</item>
+        <item>@string/menu_cache_age_select_opt_14d</item>
+        <item>@string/menu_cache_age_select_opt_30d</item>
+    </string-array><string-array name="cache_age_select_values">
+        <item>CACHE_AGE_2D</item>
+        <item>CACHE_AGE_7D</item>
+        <item>CACHE_AGE_14D</item>
+        <item>CACHE_AGE_30D</item>
+    </string-array><string name="default_cache_age_select_value">CACHE_AGE_30D</string><string name="settings_cat_feed_list">Feed List</string><string name="settings_enable_row_global_shared">Show Global Shared Stories</string><string name="settings_enable_row_global_shared_sum">Show the Global Shared Stories folder</string><string name="settings_enable_row_infrequent_stories">Show Infrequent Stories</string><string name="settings_enable_row_infrequent_stories_sum">Show the Infrequent Site Stories folder</string><string name="settings_cat_story_list">Story List</string><string name="oldest">Oldest</string><string name="newest">Newest First</string><string name="menu_story_order">Story Order</string><string-array name="default_story_order_entries">
+        <item>@string/newest</item>
+        <item>@string/oldest</item>
+    </string-array><string-array name="default_story_order_values">
+        <item>NEWEST</item>
+        <item>OLDEST</item>
+    </string-array><string name="default_story_order_value">NEWEST</string><string name="all_stories">All Stories</string><string name="unread_only">Unread Only</string><string name="menu_read_filter">Read Filter</string><string-array name="default_read_filter_entries">
+        <item>@string/all_stories</item>
+        <item>@string/unread_only</item>
+    </string-array><string-array name="default_read_filter_values">
+        <item>ALL</item>
+        <item>UNREAD</item>
+    </string-array><string name="default_read_filter_value">ALL</string><string-array name="mark_all_read_options">
+        <item>Mark all read</item>
+        <item>Cancel</item>
+    </string-array><string-array name="mark_older_read_options">
+        <item>Mark older stories read</item>
+        <item>Cancel</item>
+    </string-array><string-array name="mark_newer_read_options">
+        <item>Mark newer stories read</item>
+        <item>Cancel</item>
+    </string-array><string name="settings_auto_open_first_unread">Auto-Open First Story</string><string name="settings_auto_open_first_unread_sum">Automatically open first unread story from story list</string><string name="settings_mark_read_on_scroll">Mark Stories Read On Scroll</string><string name="settings_mark_read_on_scroll_sum">Automatically mark stories as read when scrolled past</string><string name="settings_social">Social</string><string name="settings_show_public_comments">Show Public Comments</string><string name="settings_reading">Reading</string><string name="settings_immersive_enter_single_tap">Immersive Mode Via Single Tap</string><string name="settings_show_content_preview">Show Content Preview Text</string><string name="settings_show_thumbnails">Show Image Preview Thumbnails</string><string name="settings_notifications">Notifications</string><string name="settings_enable_notifications">Enable Notifications</string><string name="infrequent_choice_title">Stories from sites with</string><string name="infrequent_5">&lt; 5 STORIES/MONTH</string><string name="infrequent_15">&lt; 15 STORIES/MONTH</string><string name="infrequent_30">&lt; 30 STORIES/MONTH</string><string name="infrequent_60">&lt; 60 STORIES/MONTH</string><string name="infrequent_90">&lt; 90 STORIES/MONTH</string><string name="story_intel_dialog_title">What do you like and dislike about this story?</string><string name="feed_intel_dialog_title">What do you like and dislike about this site?</string><string name="intel_title_header">STORY TITLE</string><string name="feed_intel_title_header">TITLES</string><string name="intel_tag_header">STORY TAGS</string><string name="feed_intel_tag_header">TAGS</string><string name="intel_author_header">STORY AUTHOR</string><string name="feed_intel_author_header">AUTHORS</string><string name="intel_feed_header">EVERYTHING BY PUBLISHER</string><string name="light">Light</string><string name="dark">Dark</string><string name="black">Black</string><string name="settings_gestures">Gestures</string><string name="sync_status_housekeeping">Tidying up...</string><string name="sync_status_actions">Catching up %d reading actions...</string><string name="sync_status_recounts">Catching up reading actions...</string><string name="sync_status_ffsync">On its way...</string><string name="sync_status_cleanup">Cleaning up...</string><string name="sync_status_stories">Fetching fresh stories...</string><string name="sync_status_unreads">Storing%sunread stories...</string><string name="sync_status_text">Storing text for %s stories...</string><string name="sync_status_images">Storing %s images...</string><string name="sync_status_offline">Offline</string><string name="volume_key_navigation">Volume Key Navigation</string><string name="off">Off</string><string name="volume_up_next">Up = Next Story</string><string name="volume_down_next">Down = Next Story</string><string-array name="volume_key_navigation_entries">
+        <item>@string/off</item>
+        <item>@string/volume_up_next</item>
+        <item>@string/volume_down_next</item>
+    </string-array><string-array name="volume_key_navigation_values">
+        <item>OFF</item>
+        <item>UP_NEXT</item>
+        <item>DOWN_NEXT</item>
+    </string-array><string name="default_volume_key_navigation_value">OFF</string><string name="settings_confirm_mark_all_read">Confirm Mark All Read</string><string name="none">None</string><string name="feed_and_folder">Feeds and Folders</string><string name="folder_only">Folders Only</string><string-array name="confirm_mark_all_read_entries">
+        <item>@string/feed_and_folder</item>
+        <item>@string/folder_only</item>
+        <item>@string/none</item>
+    </string-array><string-array name="confirm_mark_all_read_values">
+        <item>FEED_AND_FOLDER</item>
+        <item>FOLDER_ONLY</item>
+        <item>NONE</item>
+    </string-array><string name="confirm_mark_all_read_value">FOLDER_ONLY</string><string name="settings_confirm_mark_range_read">Confirm Mark Older/Newer Read</string><string name="settings_ltr_gesture_action">Rightward Swipe on Story Title</string><string name="gest_action_none">No Action</string><string name="gest_action_markread">Mark Story Read</string><string name="gest_action_markunread">Mark Story Unread</string><string name="gest_action_save">Save Story</string><string name="gest_action_unsave">Unsave Story</string><string-array name="ltr_gesture_action_entries">
+        <item>@string/gest_action_none</item>
+        <item>@string/gest_action_markread</item>
+        <item>@string/gest_action_markunread</item>
+        <item>@string/gest_action_save</item>
+        <item>@string/gest_action_unsave</item>
+    </string-array><string-array name="ltr_gesture_action_values">
+        <item>GEST_ACTION_NONE</item>
+        <item>GEST_ACTION_MARKREAD</item>
+        <item>GEST_ACTION_MARKUNREAD</item>
+        <item>GEST_ACTION_SAVE</item>
+        <item>GEST_ACTION_UNSAVE</item>
+    </string-array><string name="ltr_gesture_action_value">GEST_ACTION_MARKREAD</string><string name="settings_rtl_gesture_action">Leftward Swipe on Story Title</string><string-array name="rtl_gesture_action_entries">
+        <item>@string/gest_action_none</item>
+        <item>@string/gest_action_markread</item>
+        <item>@string/gest_action_markunread</item>
+        <item>@string/gest_action_save</item>
+        <item>@string/gest_action_unsave</item>
+    </string-array><string-array name="rtl_gesture_action_values">
+        <item>GEST_ACTION_NONE</item>
+        <item>GEST_ACTION_MARKREAD</item>
+        <item>GEST_ACTION_MARKUNREAD</item>
+        <item>GEST_ACTION_SAVE</item>
+        <item>GEST_ACTION_UNSAVE</item>
+    </string-array><string name="rtl_gesture_action_value">GEST_ACTION_MARKUNREAD</string><string name="font">Font</string><string name="default_font">Default</string><string name="whitney_font">Whitney</string><string name="gotham_narrow_font">Gotham Narrow</string><string name="chronicle_font">Chronicle</string><string name="noto_sans_font">Noto Sans</string><string name="noto_serif_font">Noto Serif</string><string name="open_sans_condensed_font">Open Sans Condensed</string><string name="anonymous_pro_font">Anonymous Pro</string><string name="anonymous_pro_font_prefvalue">ANONYMOUS_PRO</string><string name="default_font_prefvalue">DEFAULT</string><string name="whitney_font_prefvalue">WHITNEY</string><string name="gotham_narrow_font_prefvalue">GOTHAM_NARROW</string><string name="chronicle_font_prefvalue">CHRONICLE</string><string name="noto_sans_font_prefvalue">NOTO_SANS</string><string name="noto_serif_font_prefvalue">NOTO_SERIF</string><string name="open_sans_condensed_font_prefvalue">OPEN_SANS_CONDENSED</string><string-array name="default_font_entries">
+        <item>@string/anonymous_pro_font</item>
+        <item>@string/chronicle_font</item>
+        <item>@string/default_font</item>
+        <item>@string/gotham_narrow_font</item>
+        <item>@string/noto_sans_font</item>
+        <item>@string/noto_serif_font</item>
+        <item>@string/open_sans_condensed_font</item>
+        <item>@string/whitney_font</item>
+    </string-array><string-array name="default_font_values">
+        <item>@string/anonymous_pro_font_prefvalue</item>
+        <item>@string/chronicle_font_prefvalue</item>
+        <item>@string/default_font_prefvalue</item>
+        <item>@string/gotham_narrow_font_prefvalue</item>
+        <item>@string/noto_sans_font_prefvalue</item>
+        <item>@string/noto_sans_font_prefvalue</item>
+        <item>@string/open_sans_condensed_font_prefvalue</item>
+        <item>@string/whitney_font_prefvalue</item>
+    </string-array><string name="default_font_value">DEFAULT</string><string name="story_notification_channel_id">story_notification_channel</string><string name="story_notification_channel_name">New Stories</string></file><file path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/values/colors.xml" qualifiers=""><color name="black">#000000</color><color name="gray07">#121212</color><color name="gray10">#1A1A1A</color><color name="gray13">#212121</color><color name="gray20">#333333</color><color name="gray30">#4D4D4D</color><color name="gray46">#757575</color><color name="gray55">#8C8C8C</color><color name="gray65">#A6A6A6</color><color name="gray75">#BFBFBF</color><color name="gray80">#CCCCCC</color><color name="gray85">#D9D9D9</color><color name="gray90">#E6E6E6</color><color name="gray96">#F4F4F4</color><color name="white">#FFF</color><color name="transparent">#00000000</color><color name="nb_green_gray91">#E4E7E1</color><color name="bar_background">@color/nb_green_gray91</color><color name="dark_bar_background">@color/gray13</color><color name="text">@color/gray20</color><color name="dark_text">@color/gray85</color><color name="button_text">@color/gray46</color><color name="button_text_dark">@color/gray75</color><color name="col_button_background">@color/gray90</color><color name="col_button_background_dark">@color/gray20</color><color name="col_button_background_pressed">@color/gray65</color><color name="col_button_background_pressed_dark">@color/gray30</color><color name="folder_background_end">#E9EBE4</color><color name="folder_background_start">#DDE0D7</color><color name="dark_folder_background_end">@color/gray07</color><color name="dark_folder_background_start">@color/gray13</color><color name="black_folder_background_end">@color/black</color><color name="black_folder_background_start">@color/gray07</color><color name="folder_background_selected_end">#D9DBD4</color><color name="folder_background_selected_start">#CDD0C7</color><color name="dark_folder_background_selected_end">#4C4C4C</color><color name="dark_folder_background_selected_start">#1A1A1A</color><color name="row_border_top">@color/white</color><color name="row_border_bottom">@color/gray80</color><color name="dark_row_border_top">@color/gray20</color><color name="dark_row_border_bottom">@color/gray13</color><color name="black_row_border_top">@color/gray10</color><color name="black_row_border_bottom">@color/gray07</color><color name="feed_background_selected_end">#FFFFD2</color><color name="feed_background_selected_start">#E3D0AE</color><color name="dark_feed_background_selected_end">#4C4C4C</color><color name="dark_feed_background_selected_start">#1A1A1A</color><color name="story_background">@color/gray96</color><color name="story_background_selected">#FFFDEF</color><color name="dark_story_background">@color/gray07</color><color name="dark_story_background_selected">#4C4C4C</color><color name="story_feed_title_text">#606060</color><color name="dark_story_feed_title_text">@color/gray55</color><color name="story_date_text">#424242</color><color name="dark_story_date_text">#BDBDBD</color><color name="story_content_text">#404040</color><color name="dark_story_content_text">#CECECE</color><color name="story_author_text">#959595</color><color name="story_comment_divider">#F0F0F0</color><color name="dark_story_comment_divider">#42453E</color><color name="twitter_blue">#4099FF</color><color name="facebook_blue">#3B5998</color><color name="item_header_background_start">#FEFEFE</color><color name="item_header_background_end">#F3F4EF</color><color name="dark_item_header_background_start">#505050</color><color name="dark_item_header_background_end">#303030</color><color name="black_item_header_background_start">@color/gray07</color><color name="black_item_header_background_end">@color/black</color><color name="item_header_border">#C2C5BE</color><color name="dark_item_header_border">#42453E</color><color name="item_background">#F4F4F4</color><color name="dark_item_background">#1A1A1A</color><color name="share_bar_background">#F5F5EF</color><color name="dark_share_bar_background">#303030</color><color name="half_black">#7000</color><color name="half_darkgray">#77434343</color><color name="half_lightgray">#77dddddd</color><color name="half_white">#7fff</color><color name="positive">#6EA74A</color><color name="positive_drop_shadow">#417E53</color><color name="neutral">#B3B6AD</color><color name="neutral_drop_shadow">#93968D</color><color name="saved">#11448B</color><color name="saved_drop_shadow">#0E366f</color><color name="linkblue">#405BA8</color><color name="dark_linkblue">#319DC5</color><color name="negative">#CC2A2E</color><color name="tag_red">#D89595</color><color name="tag_red_shadow">#D29090</color><color name="tag_red_text">#FFFFFF</color><color name="tag_green">#AACFA6</color><color name="tag_green_shadow">#A4C7A0</color><color name="tag_green_text">#FFFFFF</color><color name="tag_gray">#E0E0DE</color><color name="tag_gray_shadow">#C9C9C8</color><color name="tag_bg_dark">#757575</color><color name="newsblur_blue">#0b445a</color><color name="progress_circle_complete">@color/gray46</color><color name="progress_circle_remaining">@color/gray75</color><color name="status_overlay_text">#CCFFFFFF</color><color name="status_overlay_background">#AA777777</color><color name="bg_midgray">#55898989</color><color name="refresh_1">#c56125</color><color name="refresh_2">#db8d36</color><color name="refresh_3">#e9a941</color><color name="refresh_4">#fae576</color></file><file name="rotate" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/rotate.xml" qualifiers="" type="anim"/><file name="text_down" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/text_down.xml" qualifiers="" type="anim"/><file name="slide_out_to_left" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/slide_out_to_left.xml" qualifiers="" type="anim"/><file name="slide_in_from_right" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/slide_in_from_right.xml" qualifiers="" type="anim"/><file name="slide_in_from_left" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/slide_in_from_left.xml" qualifiers="" type="anim"/><file name="slide_out_to_right" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/slide_out_to_right.xml" qualifiers="" type="anim"/><file name="text_up" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/anim/text_up.xml" qualifiers="" type="anim"/><file name="readingfont_dialog" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/readingfont_dialog.xml" qualifiers="" type="layout"/><file name="activity_itemslist" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_itemslist.xml" qualifiers="" type="layout"/><file name="activity_profile" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_profile.xml" qualifiers="" type="layout"/><file name="fragment_loginregister" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_loginregister.xml" qualifiers="" type="layout"/><file name="row_activity" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_activity.xml" qualifiers="" type="layout"/><file name="dialog_rename_feed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/dialog_rename_feed.xml" qualifiers="" type="layout"/><file name="view_story_tile" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/view_story_tile.xml" qualifiers="" type="layout"/><file name="loginas_dialog" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/loginas_dialog.xml" qualifiers="" type="layout"/><file name="activity_addsocial" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_addsocial.xml" qualifiers="" type="layout"/><file name="include_reply" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_reply.xml" qualifiers="" type="layout"/><file name="actionbar_custom_icon" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/actionbar_custom_icon.xml" qualifiers="" type="layout"/><file name="row_read_stories" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_read_stories.xml" qualifiers="" type="layout"/><file name="fragment_profileactivity" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_profileactivity.xml" qualifiers="" type="layout"/><file name="fragment_readingitem" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_readingitem.xml" qualifiers="" type="layout"/><file name="view_story_row" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/view_story_row.xml" qualifiers="" type="layout"/><file name="view_footer_tile" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/view_footer_tile.xml" qualifiers="" type="layout"/><file name="row_global_shared_stories" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_global_shared_stories.xml" qualifiers="" type="layout"/><file name="include_comment" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_comment.xml" qualifiers="" type="layout"/><file name="tag_view" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/tag_view.xml" qualifiers="" type="layout"/><file name="row_loading_throbber" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_loading_throbber.xml" qualifiers="" type="layout"/><file name="activity_login" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_login.xml" qualifiers="" type="layout"/><file name="activity_reading" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_reading.xml" qualifiers="" type="layout"/><file name="fragment_intelligenceselector" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_intelligenceselector.xml" qualifiers="" type="layout"/><file name="activity_addfeedexternal" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_addfeedexternal.xml" qualifiers="" type="layout"/><file name="fragment_folderfeedlist" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_folderfeedlist.xml" qualifiers="" type="layout"/><file name="row_folder" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_folder.xml" qualifiers="" type="layout"/><file name="activity_loginprogress" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_loginprogress.xml" qualifiers="" type="layout"/><file name="include_reading_item_comment" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_reading_item_comment.xml" qualifiers="" type="layout"/><file name="row_choosefolders" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_choosefolders.xml" qualifiers="" type="layout"/><file name="row_feedresult" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_feedresult.xml" qualifiers="" type="layout"/><file name="include_reading_share_bar" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_reading_share_bar.xml" qualifiers="" type="layout"/><file name="share_dialog" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/share_dialog.xml" qualifiers="" type="layout"/><file name="dialog_choosefolders" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/dialog_choosefolders.xml" qualifiers="" type="layout"/><file name="dialog_trainfeed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/dialog_trainfeed.xml" qualifiers="" type="layout"/><file name="fragment_addsocial" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_addsocial.xml" qualifiers="" type="layout"/><file name="row_infrequent_stories" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_infrequent_stories.xml" qualifiers="" type="layout"/><file name="fragment_readingpager" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_readingpager.xml" qualifiers="" type="layout"/><file name="fragment_loadingitems" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_loadingitems.xml" qualifiers="" type="layout"/><file name="state_toggle" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/state_toggle.xml" qualifiers="" type="layout"/><file name="fragment_registerprogress" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_registerprogress.xml" qualifiers="" type="layout"/><file name="activity_feed_search" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_feed_search.xml" qualifiers="" type="layout"/><file name="fragment_profiledetails" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_profiledetails.xml" qualifiers="" type="layout"/><file name="row_feed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_feed.xml" qualifiers="" type="layout"/><file name="activity_init" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_init.xml" qualifiers="" type="layout"/><file name="include_intel_row" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/include_intel_row.xml" qualifiers="" type="layout"/><file name="reply_dialog" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/reply_dialog.xml" qualifiers="" type="layout"/><file name="activity_main" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="readfilter_dialog" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/readfilter_dialog.xml" qualifiers="" type="layout"/><file name="row_all_stories" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_all_stories.xml" qualifiers="" type="layout"/><file name="profile_user_statistics" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/profile_user_statistics.xml" qualifiers="" type="layout"/><file name="row_saved_tag" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_saved_tag.xml" qualifiers="" type="layout"/><file name="row_saved_stories" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_saved_stories.xml" qualifiers="" type="layout"/><file name="infrequent_cutoff_dialog" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/infrequent_cutoff_dialog.xml" qualifiers="" type="layout"/><file name="row_socialfeed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_socialfeed.xml" qualifiers="" type="layout"/><file name="fragment_loginprogress" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_loginprogress.xml" qualifiers="" type="layout"/><file name="dialog_trainstory" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/dialog_trainstory.xml" qualifiers="" type="layout"/><file name="fragment_itemgrid" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/fragment_itemgrid.xml" qualifiers="" type="layout"/><file name="row_fleuron" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_fleuron.xml" qualifiers="" type="layout"/><file name="activity_webcontainer" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/activity_webcontainer.xml" qualifiers="" type="layout"/><file name="row_all_shared_stories" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/row_all_shared_stories.xml" qualifiers="" type="layout"/><file name="textsize_slider_dialog" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/textsize_slider_dialog.xml" qualifiers="" type="layout"/><file name="storyorder_dialog" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/layout/storyorder_dialog.xml" qualifiers="" type="layout"/><file name="file_paths" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/xml/file_paths.xml" qualifiers="" type="xml"/><file name="activity_settings" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/xml/activity_settings.xml" qualifiers="" type="xml"/><file name="backupscheme" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/xml/backupscheme.xml" qualifiers="" type="xml"/><file name="searchable" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/xml/searchable.xml" qualifiers="" type="xml"/><file name="row_item_header_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/row_item_header_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="intel_toggle_background_selector" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/intel_toggle_background_selector.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_right_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_right_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_text_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_text_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="divider_item_header" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/divider_item_header.xml" qualifiers="nodpi-v4" type="drawable"/><file name="story_background_highlight" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/story_background_highlight.xml" qualifiers="nodpi-v4" type="drawable"/><file name="black_selector_story_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_selector_story_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_gradient_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_gradient_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_left" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_left.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_selector_feed_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_selector_feed_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="black_selector_folder_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_selector_folder_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_text" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_text.xml" qualifiers="nodpi-v4" type="drawable"/><file name="item_border" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/item_border.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_send_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_send_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_selector_folder_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_selector_folder_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_send_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_send_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_dark_send" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_send.xml" qualifiers="nodpi-v4" type="drawable"/><file name="feed_background_highlight" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/feed_background_highlight.xml" qualifiers="nodpi-v4" type="drawable"/><file name="feed_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/feed_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_story_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_story_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="positive_count_rect" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/positive_count_rect.xml" qualifiers="nodpi-v4" type="drawable"/><file name="toggle_set_border" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/toggle_set_border.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_text_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_text_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_left_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_left_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="transparent" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/transparent.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_left_disabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_left_disabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="toggle_bg_selected" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/toggle_bg_selected.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_dark_left" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_left.xml" qualifiers="nodpi-v4" type="drawable"/><file name="divider_dark" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/divider_dark.xml" qualifiers="nodpi-v4" type="drawable"/><file name="black_divider_item_header" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_divider_item_header.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_feed_background_highlight" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_feed_background_highlight.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_story_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_story_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="twitter_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/twitter_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_left_disabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_left_disabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_right" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_right.xml" qualifiers="nodpi-v4" type="drawable"/><file name="divider_light" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/divider_light.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_list_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_list_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_send_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_send_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="black_folder_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_folder_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_left_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_left_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_folder_background_highlight" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_folder_background_highlight.xml" qualifiers="nodpi-v4" type="drawable"/><file name="tag_background_positive" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/tag_background_positive.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_story" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_story.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_dark_right_done" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_right_done.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_story_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_story_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_feed_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_feed_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_text_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_text_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_story_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_story_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_feed_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_feed_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_folder_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_folder_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="gradient_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/gradient_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_selector_story_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_selector_story_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_dark_text" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_text.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_right_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_right_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="story_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/story_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="list_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/list_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_dark_right" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_right.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_right_done_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_right_done_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="tag_background_neutral" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/tag_background_neutral.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_dark" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_dark.xml" qualifiers="nodpi-v4" type="drawable"/><file name="black_row_item_header_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_row_item_header_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="tag_background_dark" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/tag_background_dark.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_right_done_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_right_done_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_send_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_send_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_story_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_story_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="black_gradient_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_gradient_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_send" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_send.xml" qualifiers="nodpi-v4" type="drawable"/><file name="folder_background_highlight" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/folder_background_highlight.xml" qualifiers="nodpi-v4" type="drawable"/><file name="saved_count_rect" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/saved_count_rect.xml" qualifiers="nodpi-v4" type="drawable"/><file name="folder_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/folder_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_left_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_left_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_right_done" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_right_done.xml" qualifiers="nodpi-v4" type="drawable"/><file name="selector_overlay_bg_dark_story" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/selector_overlay_bg_dark_story.xml" qualifiers="nodpi-v4" type="drawable"/><file name="black_story_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/black_story_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="neutral_count_rect" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/neutral_count_rect.xml" qualifiers="nodpi-v4" type="drawable"/><file name="facebook_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/facebook_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_divider_item_header" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_divider_item_header.xml" qualifiers="nodpi-v4" type="drawable"/><file name="tag_background_negative" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/tag_background_negative.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_text_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_text_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_story_background_highlight" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_story_background_highlight.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_right_done_pressed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_right_done_pressed.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_right_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_right_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_folder_background_default" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_folder_background_default.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_right_done_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_right_done_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_right_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_right_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="dark_row_item_header_background" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/dark_row_item_header_background.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_dark_left_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_dark_left_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="button_background_overlay_story_enabled" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable-nodpi/button_background_overlay_story_enabled.xml" qualifiers="nodpi-v4" type="drawable"/><file name="logo_newsblur_blur" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/logo_newsblur_blur.png" qualifiers="" type="drawable"/><file name="ic_dislike_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_dislike_gray55.png" qualifiers="" type="drawable"/><file name="ic_menu_fullscreen_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_fullscreen_gray55.png" qualifiers="" type="drawable"/><file name="toggle_icon_saved" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/toggle_icon_saved.png" qualifiers="" type="drawable"/><file name="ic_story_text_gray74" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_story_text_gray74.png" qualifiers="" type="drawable"/><file name="mute_black" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/mute_black.png" qualifiers="" type="drawable"/><file name="tag" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/tag.png" qualifiers="" type="drawable"/><file name="ic_arrow_forward_gray74" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_arrow_forward_gray74.png" qualifiers="" type="drawable"/><file name="ic_like_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_like_gray55.png" qualifiers="" type="drawable"/><file name="g_icn_folder" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_folder.png" qualifiers="" type="drawable"/><file name="ic_arrow_back_gray74" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_arrow_back_gray74.png" qualifiers="" type="drawable"/><file name="ic_menu_markread_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_markread_gray55.png" qualifiers="" type="drawable"/><file name="ic_story_feed_gray46" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_story_feed_gray46.png" qualifiers="" type="drawable"/><file name="twitter_logo" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/twitter_logo.png" qualifiers="" type="drawable"/><file name="indicator_expanded" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/indicator_expanded.png" qualifiers="" type="drawable"/><file name="ic_check_circle_gray46" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_check_circle_gray46.png" qualifiers="" type="drawable"/><file name="ic_menu_add_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_add_gray55.png" qualifiers="" type="drawable"/><file name="location_icon" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/location_icon.png" qualifiers="" type="drawable"/><file name="world" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/world.png" qualifiers="" type="drawable"/><file name="ak_icon_global" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ak_icon_global.png" qualifiers="" type="drawable"/><file name="ic_reply_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_reply_gray55.png" qualifiers="" type="drawable"/><file name="g_icn_folder_rss" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_folder_rss.png" qualifiers="" type="drawable"/><file name="fleuron" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/fleuron.png" qualifiers="" type="drawable"/><file name="ic_story_feed_gray74" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_story_feed_gray74.png" qualifiers="" type="drawable"/><file name="logo_monochrome" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/logo_monochrome.png" qualifiers="" type="drawable"/><file name="clock" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/clock.png" qualifiers="" type="drawable"/><file name="ic_menu_search_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_search_gray55.png" qualifiers="" type="drawable"/><file name="ic_send_gray46" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_send_gray46.png" qualifiers="" type="drawable"/><file name="ic_menu_moreoverflow" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_moreoverflow.png" qualifiers="" type="drawable"/><file name="world_big" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/world_big.png" qualifiers="" type="drawable"/><file name="ic_edit_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_edit_gray55.png" qualifiers="" type="drawable"/><file name="ic_star_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_star_gray55.png" qualifiers="" type="drawable"/><file name="ic_send_gray74" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_send_gray74.png" qualifiers="" type="drawable"/><file name="logo" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/logo.png" qualifiers="" type="drawable"/><file name="ak_icon_allstories" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ak_icon_allstories.png" qualifiers="" type="drawable"/><file name="ic_arrow_back_gray46" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_arrow_back_gray46.png" qualifiers="" type="drawable"/><file name="ak_icon_blurblogs" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ak_icon_blurblogs.png" qualifiers="" type="drawable"/><file name="ic_check_circle_gray74" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_check_circle_gray74.png" qualifiers="" type="drawable"/><file name="facebook_logo" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/facebook_logo.png" qualifiers="" type="drawable"/><file name="person" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/person.png" qualifiers="" type="drawable"/><file name="g_icn_focus" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_focus.png" qualifiers="" type="drawable"/><file name="ic_shared" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_shared.png" qualifiers="" type="drawable"/><file name="indicator_collapsed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/indicator_collapsed.png" qualifiers="" type="drawable"/><file name="ic_clear_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_clear_gray55.png" qualifiers="" type="drawable"/><file name="ic_dislike_active" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_dislike_active.png" qualifiers="" type="drawable"/><file name="ic_menu_profile_gray55" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_menu_profile_gray55.png" qualifiers="" type="drawable"/><file name="ic_star_active" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_star_active.png" qualifiers="" type="drawable"/><file name="g_icn_hidden" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_hidden.png" qualifiers="" type="drawable"/><file name="toggle_icon_unread" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/toggle_icon_unread.png" qualifiers="" type="drawable"/><file name="toggle_icon_focus" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/toggle_icon_focus.png" qualifiers="" type="drawable"/><file name="g_icn_unread" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_unread.png" qualifiers="" type="drawable"/><file name="toggle_icon_all" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/toggle_icon_all.png" qualifiers="" type="drawable"/><file name="ic_like_active" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_like_active.png" qualifiers="" type="drawable"/><file name="ic_story_text_gray46" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_story_text_gray46.png" qualifiers="" type="drawable"/><file name="ic_arrow_forward_gray46" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/ic_arrow_forward_gray46.png" qualifiers="" type="drawable"/><file name="mute_white" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/mute_white.png" qualifiers="" type="drawable"/><file name="g_icn_unread_double" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/drawable/g_icn_unread_double.png" qualifiers="" type="drawable"/><file name="context_folder" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/context_folder.xml" qualifiers="" type="menu"/><file name="search" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/search.xml" qualifiers="" type="menu"/><file name="reading" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/reading.xml" qualifiers="" type="menu"/><file name="story_context" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/story_context.xml" qualifiers="" type="menu"/><file name="context_story_oldest" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/context_story_oldest.xml" qualifiers="" type="menu"/><file name="itemslist" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/itemslist.xml" qualifiers="" type="menu"/><file name="context_feed" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/context_feed.xml" qualifiers="" type="menu"/><file name="context_story_newest" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/context_story_newest.xml" qualifiers="" type="menu"/><file name="main" path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/res/menu/main.xml" qualifiers="" type="menu"/></source><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/generated/res/rs/debug"/><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FlowLayout">
+        <attr name="flow"/>
+        <attr name="imageViewSize"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="RecyclerView">
+        
+        <attr format="string" name="layoutManager"/>
+
+        
+        
+        
+        <eat-comment/>
+
+        <attr name="android:orientation"/>
+        <attr name="android:descendantFocusability"/>
+        <attr format="integer" name="spanCount"/>
+        <attr format="boolean" name="reverseLayout"/>
+        <attr format="boolean" name="stackFromEnd"/>
+        <attr format="boolean" name="fastScrollEnabled"/>
+        <attr format="reference" name="fastScrollVerticalThumbDrawable"/>
+        <attr format="reference" name="fastScrollVerticalTrackDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalThumbDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalTrackDrawable"/>
+    </declare-styleable><declare-styleable name="SquaredRelativeLayout">
+        <attr name="addedHeight"/>
+    </declare-styleable></configuration></mergedItems></merger>

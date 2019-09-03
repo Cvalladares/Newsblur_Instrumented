@@ -1,0 +1,135 @@
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:117
+-keep class android.support.v4.content.FileProvider { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:51
+-keep class com.newsblur.activity.AddFacebook { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:127
+-keep class com.newsblur.activity.AddFeedExternal { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:54
+-keep class com.newsblur.activity.AddSocial { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:48
+-keep class com.newsblur.activity.AddTwitter { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:73
+-keep class com.newsblur.activity.AllSharedStoriesItemsList { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:82
+-keep class com.newsblur.activity.AllSharedStoriesReading { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:69
+-keep class com.newsblur.activity.AllStoriesItemsList { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:78
+-keep class com.newsblur.activity.AllStoriesReading { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:68
+-keep class com.newsblur.activity.FeedItemsList { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:77
+-keep class com.newsblur.activity.FeedReading { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:75
+-keep class com.newsblur.activity.FolderItemsList { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:84
+-keep class com.newsblur.activity.FolderReading { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:74
+-keep class com.newsblur.activity.GlobalSharedStoriesItemsList { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:83
+-keep class com.newsblur.activity.GlobalSharedStoriesReading { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:70
+-keep class com.newsblur.activity.InfrequentItemsList { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:79
+-keep class com.newsblur.activity.InfrequentReading { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:23
+-keep class com.newsblur.activity.InitActivity { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:34
+-keep class com.newsblur.activity.Login { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:40
+-keep class com.newsblur.activity.LoginProgress { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:57
+-keep class com.newsblur.activity.Main { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:62
+-keep class com.newsblur.activity.Profile { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:71
+-keep class com.newsblur.activity.ReadStoriesItemsList { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:80
+-keep class com.newsblur.activity.ReadStoriesReading { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:44
+-keep class com.newsblur.activity.RegisterProgress { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:72
+-keep class com.newsblur.activity.SavedStoriesItemsList { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:81
+-keep class com.newsblur.activity.SavedStoriesReading { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:85
+-keep class com.newsblur.activity.SearchForFeeds { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:65
+-keep class com.newsblur.activity.Settings { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:76
+-keep class com.newsblur.activity.SocialFeedItemsList { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:96
+-keep class com.newsblur.activity.SocialFeedReading { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:102
+-keep class com.newsblur.service.BootReceiver { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:98
+-keep class com.newsblur.service.NBSyncService { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:107
+-keep class com.newsblur.util.NotifyDismissReceiver { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:113
+-keep class com.newsblur.util.NotifyMarkreadReceiver { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\build\intermediates\merged_manifests\release\AndroidManifest.xml:110
+-keep class com.newsblur.util.NotifySaveReceiver { <init>(); }
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_profile.xml:19
+-keep class android.support.v4.view.PagerTitleStrip { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\fragment_readingpager.xml:7
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_profile.xml:13
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_main.xml:170
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\fragment_itemgrid.xml:47
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_main.xml:93
+-keep class com.newsblur.fragment.FeedIntelligenceSelectorFragment { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_main.xml:177
+-keep class com.newsblur.fragment.FolderListFragment { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\include_reading_share_bar.xml:42
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\include_comment.xml:110
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\fragment_readingitem.xml:110
+-keep class com.newsblur.view.FlowLayout { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\fragment_readingitem.xml:164
+-keep class com.newsblur.view.NewsblurWebview { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_reading.xml:71
+-keep class com.newsblur.view.ProgressCircle { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\row_loading_throbber.xml:7
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\fragment_profileactivity.xml:24
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\fragment_itemgrid.xml:40
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_addfeedexternal.xml:8
+-keep class com.newsblur.view.ProgressThrobber { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\fragment_readingitem.xml:8
+-keep class com.newsblur.view.ReadingScrollView { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\dialog_trainstory.xml:55
+-keep class com.newsblur.view.SelectOnlyEditText { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\view_story_tile.xml:2
+-keep class com.newsblur.view.SquaredRelativeLayout { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\fragment_intelligenceselector.xml:9
+-keep class com.newsblur.view.StateToggleButton { <init>(...); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_reading.xml:71
+-keepclassmembers class * { *** overlayCount(android.view.View); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_reading.xml:60
+-keepclassmembers class * { *** overlayLeft(android.view.View); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_reading.xml:47
+-keepclassmembers class * { *** overlayRight(android.view.View); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_reading.xml:36
+-keepclassmembers class * { *** overlaySend(android.view.View); }
+
+# Referenced at C:\School Projects\Thesis\Selected_Repositories\Instrumented\NewsBlur\clients\android\NewsBlur\res\layout\activity_reading.xml:22
+-keepclassmembers class * { *** overlayText(android.view.View); }
+

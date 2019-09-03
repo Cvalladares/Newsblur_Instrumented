@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/NewsBlur/clients/android/NewsBlur/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "map": [
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/627472d7bb369ec5f5d2ed0ed6c0d59d/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

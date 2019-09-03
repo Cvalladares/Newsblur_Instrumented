@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Mon Jul 01 10:41:04 CEST 2019
+7.path=fonts/ChronicleSSm-Book.otf
+2.base=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\NewsBlur\\clients\\android\\NewsBlur\\build\\intermediates\\transforms\\r8\\release\\0
+5.set=ASSET
+0.path=reading.css
+2.baseType=DIRECTORY
+3.base=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\NewsBlur\\clients\\android\\NewsBlur\\build\\intermediates\\merged_assets\\release\\out
+7.baseType=DIRECTORY
+2.set=DEX
+1.path=dark_reading.css
+4.base=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\NewsBlur\\clients\\android\\NewsBlur\\build\\intermediates\\merged_assets\\release\\out
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\NewsBlur\\clients\\android\\NewsBlur\\build\\intermediates\\merged_assets\\release\\out
+4.set=ASSET
+3.path=fonts/WhitneySSm-Book-Bas.otf
+6.base=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\NewsBlur\\clients\\android\\NewsBlur\\build\\intermediates\\merged_assets\\release\\out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=light_reading.css
+7.base=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\NewsBlur\\clients\\android\\NewsBlur\\build\\intermediates\\merged_assets\\release\\out
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=black_reading.css
+0.base=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\NewsBlur\\clients\\android\\NewsBlur\\build\\intermediates\\merged_assets\\release\\out
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=fonts/GothamNarrow-Book.otf
+1.base=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\NewsBlur\\clients\\android\\NewsBlur\\build\\intermediates\\merged_assets\\release\\out
+4.baseType=DIRECTORY
+0.set=ASSET

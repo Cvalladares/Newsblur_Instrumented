@@ -1,0 +1,2752 @@
+android.content.res.Resources#getIdentifier present: false
+Web content present: true
+Referenced Strings:
+  $$ViewBinder
+  $ClientProvider
+  $Provider
+  $ServerProvider
+  %0A
+  %0D
+  %22
+  %2B
+  %2e
+  %2e%2e
+  %2e.
+  %40
+  %8s
+  .%2e
+  .chromium.
+  .png
+  .tmp
+  /0.jpg
+  /api/login
+  /api/signup
+  /classifier/save
+  /index.html
+  /notifications/feed/
+  /oauth/facebook_connect/
+  /oauth/twitter_connect/
+  /profile/set_preference
+  /reader/add_url
+  /reader/delete_feed
+  /reader/feed
+  /reader/feed_unread_count
+  /reader/feeds/
+  /reader/login_as
+  /reader/mark_all_as_read/
+  /reader/mark_feed_as_read/
+  /reader/mark_story_hash_as_starred/
+  /reader/mark_story_hash_as_unread/
+  /reader/mark_story_hash_as_unstarred/
+  /reader/mark_story_hashes_as_read/
+  /reader/move_feed_to_folders
+  /reader/read_stories
+  /reader/rename_feed
+  /reader/river_stories
+  /reader/save_feed_chooser
+  /reader/starred_stories
+  /reader/unread_story_hashes
+  /rss_feeds/exception_retry
+  /rss_feeds/feed_autocomplete
+  /rss_feeds/original_text
+  /social/activities
+  /social/follow
+  /social/interactions
+  /social/like_comment
+  /social/load_user_profile
+  /social/profile
+  /social/remove_comment_reply
+  /social/remove_like_comment
+  /social/river_stories
+  /social/save_comment_reply
+  /social/share_story
+  /social/stories
+  /social/unfollow
+  /social/unshare_story
+  /userProfilePicture
+  0
+  00
+  0000_TOP_LEVEL_
+  0000ffff
+  0x%02x
+  1
+  10
+  13
+  200
+  202020
+  204
+  206
+  303030
+  304
+  400
+  404
+  500
+  505050
+  :authority
+  :method
+  :path
+  :scheme
+  :status
+  ACK
+  ACTION_ACCESSIBILITY_FOCUS
+  ACTION_CLEAR_ACCESSIBILITY_FOCUS
+  ACTION_CLEAR_FOCUS
+  ACTION_CLEAR_SELECTION
+  ACTION_CLICK
+  ACTION_COPY
+  ACTION_CUT
+  ACTION_FOCUS
+  ACTION_LONG_CLICK
+  ACTION_NEXT_AT_MOVEMENT_GRANULARITY
+  ACTION_NEXT_HTML_ELEMENT
+  ACTION_PASTE
+  ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY
+  ACTION_PREVIOUS_HTML_ELEMENT
+  ACTION_SCROLL_BACKWARD
+  ACTION_SCROLL_FORWARD
+  ACTION_SELECT
+  ACTION_SET_SELECTION
+  ACTION_UNKNOWN
+  ACTIVITY
+  ADD
+  AFTER_TEXT_CHANGED
+  ALL
+  ALL_SHARED_STORIES
+  ALL_SHARED_STORIES_GROUP_KEY
+  ALL_STORIES
+  ALL_STORIES_GROUP_KEY
+  ANONYMOUS_PRO
+  ARRAY
+  ATTACH
+  Age
+  AsyncTask
+  Authorization
+  BEFORE_TEXT_CHANGED
+  BEGIN_ARRAY
+  BEGIN_OBJECT
+  BEST
+  BLACK
+  BOOLEAN
+  BootReceiver
+  ButterKnife
+  CACHE_AGE_14D
+  CACHE_AGE_2D
+  CACHE_AGE_30D
+  CACHE_AGE_7D
+  CANCEL
+  CHRONICLE
+  CLEAN
+  COMMENT_LIKE
+  COMMENT_REPLY
+  COMPRESSED
+  CONTINUATION
+  CRC
+  CREATED
+  Canceled
+  Connection
+  Cookie
+  DARK
+  DATA
+  DEFAULT
+  DELETE
+  DELETE_REPLY
+  DESTROYED
+  DETACH
+  DIALOG
+  DIRTY
+  DOWN_NEXT
+  Date
+  DateTypeAdapter
+  DefaultDateTypeAdapter
+  EDIT_REPLY
+  END_ARRAY
+  END_DOCUMENT
+  END_HEADERS
+  END_OBJECT
+  END_STREAM
+  ETag
+  Error
+  Expect
+  Expires
+  FALSE
+  FEED
+  FEED_AND_FOLDER
+  FEED_SUBSCRIPTION
+  FHCRC
+  FIND_FIRST_UNREAD
+  FINISHED
+  FLOW_CONTROL_ERROR
+  FOLDER
+  FOLDER_ONLY
+  FOLLOW
+  Failure
+  FragmentActivity
+  FragmentManager
+  GEST_ACTION_MARKREAD
+  GEST_ACTION_MARKUNREAD
+  GEST_ACTION_NONE
+  GEST_ACTION_SAVE
+  GEST_ACTION_UNSAVE
+  GET
+  GLOBAL_SHARED_STORIES
+  GLOBAL_SHARED_STORIES_GROUP_KEY
+  GMT
+  GOAWAY
+  GOTHAM_NARROW
+  GRID_C
+  GRID_F
+  GRID_M
+  GridLayoutManager
+  HEAD
+  HEADERS
+  HH:mm
+  HIDE
+  HTTP/1.
+  HTTP/1.0
+  HTTP/1.1
+  HTTP_1_0
+  HTTP_1_1
+  HTTP_2
+  Host
+  I
+  ID1ID2
+  IDENTITY
+  II
+  INFREQUENT_SITE_STORIES_GROUP_KEY
+  INFREQUENT_STORIES
+  INITIALIZED
+  INSTA_FETCH
+  INTERNAL_ERROR
+  INVALID_HOST
+  INVALID_PORT
+  ISIZE
+  ITEM_SELECTED
+  Infinity
+  LAST_APP_VERSION
+  LAST_SYNC_TIME
+  LIGHT
+  LIKE_COMMENT
+  LIST
+  LOCK
+  LOWER_CASE_WITH_DASHES
+  LOWER_CASE_WITH_UNDERSCORES
+  LayoutInflaterCompatHC
+  LifecycleRegistry
+  ListText
+  LoaderManager
+  Loaders:
+  Location
+  MARK_READ
+  MARK_UNREAD
+  MD5
+  MISSING_SCHEME
+  MKCOL
+  MOVE
+  MUTE_FEEDS
+  NAME
+  NEG
+  NEUT
+  NEWEST
+  NOMO
+  NOMONONME
+  NONE
+  NOTHING_SELECTED
+  NOTO_SANS
+  NOTO_SERIF
+  NO_ERROR
+  NULL
+  NUMBER
+  NaN
+  NewsblurCache
+  NotifManCompat
+  NotificationCompat
+  NotificationManagerCompat
+  Nullable
+  OFF
+  OK
+  OLDEST
+  ON_ANY
+  ON_CREATE
+  ON_DESTROY
+  ON_PAUSE
+  ON_RESUME
+  ON_START
+  ON_STOP
+  OPEN_SANS_CONDENSED
+  OPTIONS
+  OTF
+  OkHttp
+  Operations:
+  PADDED
+  PAGE_SCROLLED
+  PAGE_SCROLL_STATE_CHANGED
+  PAGE_SELECTED
+  PATCH
+  PENDING
+  PING
+  POST
+  PRIORITY
+  PROPFIND
+  PROPPATCH
+  PROTOCOL_ERROR
+  PUSH_PROMISE
+  PUT
+  Pragma
+  Progress:
+  READ
+  READ_STORIES
+  READ_STORIES_GROUP_KEY
+  REFUSED_STREAM
+  REMOVE
+  RENAME_FEED
+  REPLACE
+  REPLY
+  REPLY_REPLY
+  REPORT
+  RESUMED
+  RFC2253
+  RSA
+  RST_STREAM
+  RUNNING
+  Range
+  ReadingText
+  RecyclerView
+  Result:
+  S:
+  SAVE
+  SAVED
+  SAVED_BY_TAG
+  SAVED_STORIES
+  SAVED_STORIES_GROUP_KEY
+  SETTINGS
+  SET_NOTIFY
+  SET_PRIMARY_NAV
+  SHARE
+  SHARED_STORY
+  SHOW
+  SIGNUP
+  SOCIAL_FEED
+  SOME
+  SPDY_3
+  SSL_3_0
+  SSL_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA
+  SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA
+  SSL_DHE_DSS_WITH_DES_CBC_SHA
+  SSL_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA
+  SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA
+  SSL_DHE_RSA_WITH_DES_CBC_SHA
+  SSL_DH_anon_EXPORT_WITH_DES40_CBC_SHA
+  SSL_DH_anon_EXPORT_WITH_RC4_40_MD5
+  SSL_DH_anon_WITH_3DES_EDE_CBC_SHA
+  SSL_DH_anon_WITH_DES_CBC_SHA
+  SSL_DH_anon_WITH_RC4_128_MD5
+  SSL_RSA_EXPORT_WITH_DES40_CBC_SHA
+  SSL_RSA_EXPORT_WITH_RC4_40_MD5
+  SSL_RSA_WITH_3DES_EDE_CBC_SHA
+  SSL_RSA_WITH_DES_CBC_SHA
+  SSL_RSA_WITH_NULL_MD5
+  SSL_RSA_WITH_NULL_SHA
+  SSL_RSA_WITH_RC4_128_MD5
+  SSL_RSA_WITH_RC4_128_SHA
+  SSLv3
+  STAR
+  STARTED
+  STORY
+  STORY_RESHARE
+  STRING
+  SUCCESS
+  Save
+  Success
+  SwipeRefreshLayout
+  TE
+  TEXT
+  TEXT_CHANGED
+  TLS
+  TLS_1_0
+  TLS_1_1
+  TLS_1_2
+  TLS_1_3
+  TLS_DHE_DSS_WITH_AES_128_CBC_SHA
+  TLS_DHE_DSS_WITH_AES_128_CBC_SHA256
+  TLS_DHE_DSS_WITH_AES_128_GCM_SHA256
+  TLS_DHE_DSS_WITH_AES_256_CBC_SHA
+  TLS_DHE_DSS_WITH_AES_256_CBC_SHA256
+  TLS_DHE_DSS_WITH_AES_256_GCM_SHA384
+  TLS_DHE_DSS_WITH_CAMELLIA_128_CBC_SHA
+  TLS_DHE_DSS_WITH_CAMELLIA_256_CBC_SHA
+  TLS_DHE_RSA_WITH_AES_128_CBC_SHA
+  TLS_DHE_RSA_WITH_AES_128_CBC_SHA256
+  TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
+  TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+  TLS_DHE_RSA_WITH_AES_256_CBC_SHA256
+  TLS_DHE_RSA_WITH_AES_256_GCM_SHA384
+  TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA
+  TLS_DHE_RSA_WITH_CAMELLIA_256_CBC_SHA
+  TLS_DH_anon_WITH_AES_128_CBC_SHA
+  TLS_DH_anon_WITH_AES_128_CBC_SHA256
+  TLS_DH_anon_WITH_AES_128_GCM_SHA256
+  TLS_DH_anon_WITH_AES_256_CBC_SHA
+  TLS_DH_anon_WITH_AES_256_CBC_SHA256
+  TLS_DH_anon_WITH_AES_256_GCM_SHA384
+  TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA
+  TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+  TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+  TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+  TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+  TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+  TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+  TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY130...
+  TLS_ECDHE_ECDSA_WITH_NULL_SHA
+  TLS_ECDHE_ECDSA_WITH_RC4_128_SHA
+  TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA
+  TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA
+  TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+  TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+  TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+  TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+  TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+  TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+  TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+  TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_...
+  TLS_ECDHE_RSA_WITH_NULL_SHA
+  TLS_ECDHE_RSA_WITH_RC4_128_SHA
+  TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA
+  TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA
+  TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256
+  TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256
+  TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA
+  TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384
+  TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384
+  TLS_ECDH_ECDSA_WITH_NULL_SHA
+  TLS_ECDH_ECDSA_WITH_RC4_128_SHA
+  TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA
+  TLS_ECDH_RSA_WITH_AES_128_CBC_SHA
+  TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256
+  TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256
+  TLS_ECDH_RSA_WITH_AES_256_CBC_SHA
+  TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384
+  TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384
+  TLS_ECDH_RSA_WITH_NULL_SHA
+  TLS_ECDH_RSA_WITH_RC4_128_SHA
+  TLS_ECDH_anon_WITH_3DES_EDE_CBC_SHA
+  TLS_ECDH_anon_WITH_AES_128_CBC_SHA
+  TLS_ECDH_anon_WITH_AES_256_CBC_SHA
+  TLS_ECDH_anon_WITH_NULL_SHA
+  TLS_ECDH_anon_WITH_RC4_128_SHA
+  TLS_EMPTY_RENEGOTIATION_INFO_SCSV
+  TLS_FALLBACK_SCSV
+  TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5
+  TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA
+  TLS_KRB5_EXPORT_WITH_RC4_40_MD5
+  TLS_KRB5_EXPORT_WITH_RC4_40_SHA
+  TLS_KRB5_WITH_3DES_EDE_CBC_MD5
+  TLS_KRB5_WITH_3DES_EDE_CBC_SHA
+  TLS_KRB5_WITH_DES_CBC_MD5
+  TLS_KRB5_WITH_DES_CBC_SHA
+  TLS_KRB5_WITH_RC4_128_MD5
+  TLS_KRB5_WITH_RC4_128_SHA
+  TLS_PSK_WITH_3DES_EDE_CBC_SHA
+  TLS_PSK_WITH_AES_128_CBC_SHA
+  TLS_PSK_WITH_AES_256_CBC_SHA
+  TLS_PSK_WITH_RC4_128_SHA
+  TLS_RSA_WITH_AES_128_CBC_SHA
+  TLS_RSA_WITH_AES_128_CBC_SHA256
+  TLS_RSA_WITH_AES_128_GCM_SHA256
+  TLS_RSA_WITH_AES_256_CBC_SHA
+  TLS_RSA_WITH_AES_256_CBC_SHA256
+  TLS_RSA_WITH_AES_256_GCM_SHA384
+  TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+  TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+  TLS_RSA_WITH_NULL_SHA256
+  TLS_RSA_WITH_SEED_CBC_SHA
+  TLSv1
+  TLSv1.1
+  TLSv1.2
+  TLSv1.3
+  TRUE
+  Trailers
+  UNLIKE_COMMENT
+  UNMUTE_FEEDS
+  UNREAD
+  UNSAVE
+  UNSET_PRIMARY_NAV
+  UNSHARE
+  UNSUPPORTED_SCHEME
+  UPDATE_INTEL
+  UPPER_CAMEL_CASE
+  UPPER_CAMEL_CASE_WITH_SPACES
+  UP_NEXT
+  UTC
+  Upgrade
+  V:
+  VACUUM
+  VIEW
+  Vary
+  View
+  ViewConfigCompat
+  ViewPager
+  ViewParentCompat
+  WEB
+  WHITNEY
+  WINDOW_UPDATE
+  Warning
+  X.509
+  Z
+  ZZ
+  _
+  _LifecycleAdapter
+  __NULL_STORY_TEXT__
+  __PLACEHOLDER_ID__
+  ___TOTAL_STARRED
+  __all__
+  _display_name
+  _id
+  _size
+  accept
+  accessibility
+  action_params
+  active
+  activeSearchQuery
+  activities
+  activity
+  add
+  addSocialFragment
+  addSuppressed
+  addTextChangedListener
+  address
+  afterTextChanged
+  age
+  all
+  all_shared_stories
+  all_stories
+  allocateInstance
+  allow
+  alpha
+  android
+  android.
+  android.arch.lifecycle.LifecycleDispa...
+  android.arch.lifecycle.ViewModelProvi...
+  android.content.res.ColorStateList
+  android.graphics.drawable.Drawable
+  android.intent.action.SEARCH
+  android.intent.action.SEND
+  android.intent.action.VIEW
+  android.intent.extra.EMAIL
+  android.intent.extra.STREAM
+  android.intent.extra.SUBJECT
+  android.intent.extra.TEXT
+  android.net.Network
+  android.net.http.X509TrustManagerExte...
+  android.people
+  android.security.NetworkSecurityPolicy
+  android.support.BIND_NOTIFICATION_SID...
+  android.support.FILE_PROVIDER_PATHS
+  android.support.actionExtras
+  android.support.allowGeneratedReplies
+  android.support.dataRemoteInputs
+  android.support.groupKey
+  android.support.isGroupSummary
+  android.support.localOnly
+  android.support.remoteInputs
+  android.support.sortKey
+  android.support.transition.FragmentTr...
+  android.support.useSideChannel
+  android.support.v4.app.INotificationS...
+  android.support.v4.view.ViewPager
+  android.support.v4.view.ViewPager.OnP...
+  android.text.Editable
+  android.text.TextWatcher
+  android.view.KeyEvent
+  android.view.MotionEvent
+  android.view.View
+  android.view.View.OnFocusChangeListener
+  android.view.View.OnLongClickListener
+  android.view.View.OnTouchListener
+  android.widget.AdapterView.OnItemClic...
+  android.widget.AdapterView.OnItemLong...
+  android.widget.AdapterView.OnItemSele...
+  android.widget.CompoundButton
+  android.widget.CompoundButton.OnCheck...
+  android.widget.TextView
+  android.widget.TextView.OnEditorActio...
+  android:backStackId
+  android:cancelable
+  android:fragment:
+  android:savedDialogState
+  android:showsDialog
+  android:style
+  android:support:fragments
+  android:support:next_request_index
+  android:support:request_fragment_who
+  android:support:request_indicies
+  android:switcher:
+  android:target_req_state
+  android:target_state
+  android:theme
+  android:user_visible_hint
+  android:view_state
+  anim
+  approved_feeds
+  authenticated
+  author
+  authorization
+  authors
+  autofollow_friends
+  average_stories_per_month
+  beforeTextChanged
+  bio
+  black
+  blur.db
+  boolean
+  butterknife.internal.DebouncingOnClic...
+  c:
+  cacheResponse
+  cache_age_select
+  call
+  callback
+  charset
+  checkServerTrusted
+  chunked
+  class
+  classifier
+  classifiers
+  close
+  closed
+  cn
+  com.android.org.conscrypt.SSLParamete...
+  com.google.android.gms.org.conscrypt....
+  com.newsblur.fileprovider
+  comment
+  comment_byfriend
+  comment_date
+  comment_id
+  comment_isplaceholder
+  comment_ispseudo
+  comment_like
+  comment_liking_users
+  comment_replies
+  comment_reply
+  comment_shareddate
+  comment_source_user
+  comment_storyid
+  comment_text
+  comment_user_id
+  comment_user_ids
+  comment_userid
+  comment_username
+  comments
+  connection
+  connectivity
+  content
+  context
+  cookie
+  count
+  currentCutoff
+  currentFilter
+  currentOrder
+  currentSize
+  custom
+  custom_server
+  cutoff_timestamp
+  dalvik.system.CloseGuard
+  dark
+  date
+  dayOfMonth
+  days
+  default
+  default_read_filter
+  default_reading_text_size
+  default_story_order
+  delegate
+  details
+  dialog
+  dialog_choices_rid
+  dialog_message
+  dialog_title
+  direction
+  dislike_
+  displayFeedDetails
+  doClick
+  domain
+  down_next
+  efbbbf
+  email
+  enable_image_prefetch
+  enable_notifications
+  enable_offline
+  enable_row_global_shared
+  enable_row_infrequent_stories
+  enabled_notification_listeners
+  encoding
+  etag
+  expect
+  expires
+  extras
+  f
+  false
+  faviconText
+  faviconUrl
+  favicon_border
+  favicon_color
+  favicon_fade
+  favicon_text_color
+  favicon_url
+  feed
+  feedBorder
+  feedColor
+  feedFade
+  feedIntelligenceSelector
+  feedTitle
+  feed_address
+  feed_and_folder
+  feed_authors
+  feed_default_feed_view_
+  feed_id
+  feed_link
+  feed_list_style_
+  feed_name
+  feed_order_
+  feed_read_filter_
+  feed_set
+  feed_tags
+  feed_title
+  feed_type
+  feed_url
+  feeds
+  feedset
+  feedsub
+  feff
+  fetch_pending
+  fffe
+  ffff0000
+  fields
+  file://
+  file:///android_asset/
+  findOptionalView
+  findRequiredView
+  findTrustAnchorByIssuerAndSignature
+  finish_after
+  float
+  focus
+  folderFeedListFragment
+  folderName
+  folder_children_names
+  folder_collapsed_
+  folder_feedids
+  folder_list_style_
+  folder_name
+  folder_only
+  folder_order_
+  folder_parent_names
+  folder_read_filter_
+  folders
+  follow
+  followed_by_you
+  follower_count
+  following_count
+  force_show_feed_id
+  fragment
+  fragment_edit_name
+  friend_comments
+  friend_shares
+  from
+  get
+  getAlpnSelectedProtocol
+  getApplicationProtocol
+  getBoolean
+  getColor
+  getColorStateList
+  getConstructorId
+  getDimension
+  getDimensionPixelSize
+  getDrawable
+  getInstance
+  getInteger
+  getScaledScrollFactor
+  getString
+  global_feed
+  global_shared_stories
+  grid_c
+  grid_f
+  grid_m
+  gridstate
+  gzip
+  h
+  h2
+  h:mma
+  host
+  hourOfDay
+  http
+  http/1.0
+  http/1.1
+  http:
+  http://
+  http://img.youtube.com/vi/
+  http://www.newsblur.com/folder_rss/fo...
+  httponly
+  https
+  https:
+  https://
+  https://s3.amazonaws.com/icons.newsbl...
+  https://www.newsblur.com
+  https://www.newsblur.com/rss_feeds/ic...
+  icons
+  id
+  image_urls
+  immersive_enter_single_tap
+  immutable
+  in_folder
+  in_folders
+  include_hidden
+  include_timestamps
+  infrequent
+  infrequent_stories
+  int
+  intelligence
+  intelligence_authors
+  intelligence_feed
+  intelligence_tags
+  intelligence_title
+  intelligence_total
+  interactions
+  interrupted
+  interval
+  isCleartextTrafficPermitted
+  is_fullscreen
+  is_premium
+  is_staff
+  java.
+  java.lang.CharSequence
+  java.lang.String
+  jobscheduler
+  journal
+  journal.bkp
+  journal.tmp
+  keep_old_stories
+  key
+  last_cleanup_time
+  last_read_date
+  last_vacuum_time
+  layout_inflater
+  left
+  libcore.io.DiskLruCache
+  light
+  like_
+  liking_users
+  limit
+  link
+  list
+  list_text_size
+  location
+  logbuffer.txt
+  login_cookie
+  login_unique
+  long
+  ltr_gesture_action
+  mAccessibilityDelegate
+  mFactory2
+  mListener
+  mMinHeight
+  mMinWidth
+  message
+  methods
+  minute
+  month
+  multipart
+  multipart/alternative
+  multipart/digest
+  multipart/mixed
+  multipart/parallel
+  mv
+  name
+  nd
+  networkResponse
+  newInstance
+  newer
+  newest
+  ng
+  no
+  none
+  normal
+  notification
+  notification_filter
+  notification_types
+  notify_dimiss
+  nt
+  null
+  num_subscribers
+  off
+  offline_network_select
+  okhttp/3.8.1
+  older
+  oldest
+  olimages
+  onCheckedChanged
+  onCreate
+  onDestroy
+  onEditorAction
+  onFocusChange
+  onItemClick
+  onItemLongClick
+  onItemSelected
+  onLongClick
+  onNothingSelected
+  onPageScrollStateChanged
+  onPageScrolled
+  onPageSelected
+  onPause
+  onResume
+  onSave
+  onStartCommand
+  onStartJob
+  onStopJob
+  onTextChanged
+  onTouch
+  open
+  order
+  org.apache.harmony.xnet.provider.jsse...
+  org.eclipse.jetty.alpn.ALPN
+  original_text
+  packageName:
+  page
+  password
+  path
+  permalink
+  photo_service
+  photo_url
+  power
+  pref_auto_open_first_unread
+  pref_confirm_mark_all_read
+  pref_confirm_mark_range_read
+  pref_mark_read_on_scroll
+  pref_show_content_preview
+  pref_show_thumbnails
+  preferences
+  private
+  protocolSelected
+  protocols
+  ps
+  public
+  public_comments
+  publicsuffixes.gz
+  publish_date
+  put
+  query
+  r
+  range
+  rd
+  read
+  readFilter
+  read_filter
+  read_status
+  read_stories
+  readingFontChanged
+  reading_action
+  reading_font
+  reading_session
+  realm
+  referer
+  refresh
+  released
+  remove
+  removeObserver
+  remove_dislike_
+  remove_like_
+  reply_comments
+  reply_date
+  reply_id
+  reply_isplaceholder
+  reply_reply
+  reply_shortdate
+  reply_text
+  reply_userid
+  reset_fetch
+  river:blurblogs
+  rm
+  rtl_gesture_action
+  rw
+  rwt
+  s
+  saved_stories
+  scrollStateRel
+  searchTerm
+  search_hit
+  second
+  secure
+  select
+  selectProtocol
+  selected
+  selectedFont
+  server
+  session_feed_set
+  session_story_hash
+  setAlpnProtocols
+  setApplicationProtocols
+  setHostname
+  setOnCheckedChangeListener
+  setOnClickListener
+  setOnEditorActionListener
+  setOnFocusChangeListener
+  setOnItemClickListener
+  setOnItemLongClickListener
+  setOnItemSelectedListener
+  setOnLongClickListener
+  setOnPageChangeListener
+  setOnTouchListener
+  setUseSessionTickets
+  setValue
+  sha1/
+  sha256/
+  share_user_ids
+  sharedDate
+  shared_by_friends
+  shared_date
+  shared_stories_count
+  shared_user_ids
+  sharedstory
+  short_content
+  show_public_comments
+  signup
+  sizeType
+  social
+  social:
+  socialUserId
+  social_feed
+  social_feed_icon
+  social_feed_name
+  social_feed_title
+  social_feeds
+  social_user_id
+  socialfeed_story_map
+  socialfeed_story_storyid
+  socialfeed_story_user_id
+  sourceUserId
+  source_user_id
+  spdy/3.1
+  sslParameters
+  st
+  star
+  starred
+  starred_count
+  starred_counts
+  starred_date
+  starred_timestamp
+  starting_unread
+  state:
+  state_filter
+  stories
+  stories._id
+  stories.feed_id
+  stories_last_month
+  story
+  storyOrder
+  story_actions
+  story_authors
+  story_content
+  story_feed_id
+  story_hash
+  story_id
+  story_permalink
+  story_reshare
+  story_tags
+  story_text
+  story_timestamp
+  story_title
+  storytext
+  subscribers
+  subscribers_count
+  subscription_count
+  sun.misc.Unsafe
+  sun.security.ssl.SSLContextImpl
+  supports
+  sync_metadata
+  tag
+  tags
+  target.
+  te
+  term
+  text
+  text/html
+  text/plain
+  textSizeChangeValue
+  textSizeChanged
+  th
+  theUnsafe
+  theme
+  thumbnail_url
+  thumbs
+  time
+  time_since
+  timeout
+  timestamp
+  title
+  titles
+  to_folders
+  tried
+  trimming
+  true
+  trustManager
+  type
+  uniqueLoginKey
+  unknown
+  unknown_version
+  unread
+  unread_feed_story_hashes
+  unsupported
+  up
+  up_next
+  update_counts
+  updated_seconds
+  updated_seconds_ago
+  upgrade
+  url
+  user
+  user_id
+  user_profile
+  user_profiles
+  user_table
+  user_tags
+  username
+  v
+  value
+  vary
+  via
+  view
+  void
+  volume_key_navigation
+  w
+  wa
+  warnIfOpen
+  website
+  websocket
+  window
+  with_user
+  with_user_id
+  ws:
+  wss:
+  wt
+  x509TrustManager
+  xx
+  year
+  yes
+  yyyy
+Marking id:comment_shareddate:2131230759 used because its prefix matches string pool constant comment_shareddate
+Marking id:left:2131230809 used because its prefix matches string pool constant left
+Marking string:read_stories_row_title:2131493089 used because its prefix matches string pool constant read_stories
+Marking string:read_stories_title:2131493090 used because its prefix matches string pool constant read_stories
+Marking attr:addedHeight:2130903043 used because its prefix matches string pool constant add
+Marking id:addsocial_autofollow_checkbox:2131230730 used because its prefix matches string pool constant add
+Marking id:addsocial_autofollow_text:2131230731 used because its prefix matches string pool constant add
+Marking id:addsocial_connect_text:2131230732 used because its prefix matches string pool constant add
+Marking id:addsocial_container:2131230733 used because its prefix matches string pool constant add
+Marking id:addsocial_facebook:2131230734 used because its prefix matches string pool constant add
+Marking id:addsocial_facebook_text:2131230735 used because its prefix matches string pool constant add
+Marking id:addsocial_twitter:2131230736 used because its prefix matches string pool constant add
+Marking id:addsocial_twitter_text:2131230737 used because its prefix matches string pool constant add
+Marking string:add_facebook:2131492864 used because its prefix matches string pool constant add
+Marking string:add_feed_error:2131492865 used because its prefix matches string pool constant add
+Marking string:add_feed_message:2131492866 used because its prefix matches string pool constant add
+Marking string:add_friends:2131492867 used because its prefix matches string pool constant add
+Marking string:add_twitter:2131492868 used because its prefix matches string pool constant add
+Marking string:adding_feed_progress:2131492869 used because its prefix matches string pool constant add
+Marking attr:listBackground:2130903077 used because its prefix matches string pool constant list
+Marking drawable:list_background:2131165285 used because its prefix matches string pool constant list
+Marking string:list_style_grid_c:2131492957 used because its prefix matches string pool constant list
+Marking string:list_style_grid_f:2131492958 used because its prefix matches string pool constant list
+Marking string:list_style_grid_m:2131492959 used because its prefix matches string pool constant list
+Marking string:list_style_list:2131492960 used because its prefix matches string pool constant list
+Marking style:listBackground:2131558444 used because its prefix matches string pool constant list
+Marking style:listBackground_dark:2131558445 used because its prefix matches string pool constant list
+Marking array:default_story_order_entries:2130837514 used because its prefix matches string pool constant default_story_order
+Marking array:default_story_order_values:2130837515 used because its prefix matches string pool constant default_story_order
+Marking string:default_story_order_value:2131492896 used because its prefix matches string pool constant default_story_order
+Marking id:username_field:2131231060 used because its prefix matches string pool constant username
+Marking id:comment_replies_container:2131230757 used because its prefix matches string pool constant comment_replies
+Marking id:all:2131230738 used because its prefix matches string pool constant all
+Marking string:all_shared_stories_row_title:2131492875 used because its prefix matches string pool constant all
+Marking string:all_shared_stories_title:2131492876 used because its prefix matches string pool constant all
+Marking string:all_stories:2131492877 used because its prefix matches string pool constant all
+Marking string:all_stories_row_title:2131492878 used because its prefix matches string pool constant all
+Marking string:all_stories_title:2131492879 used because its prefix matches string pool constant all
+Marking attr:readingBackground:2130903081 used because its prefix matches string pool constant read
+Marking attr:readingItemMetadata:2130903082 used because its prefix matches string pool constant read
+Marking id:reading_empty_view_text:2131230933 used because its prefix matches string pool constant read
+Marking id:reading_feed_icon:2131230934 used because its prefix matches string pool constant read
+Marking id:reading_feed_title:2131230935 used because its prefix matches string pool constant read
+Marking id:reading_friend_comment_container:2131230936 used because its prefix matches string pool constant read
+Marking id:reading_friend_comment_header:2131230937 used because its prefix matches string pool constant read
+Marking id:reading_friend_comment_total:2131230938 used because its prefix matches string pool constant read
+Marking id:reading_friend_emptyshare_container:2131230939 used because its prefix matches string pool constant read
+Marking id:reading_friend_emptyshare_header:2131230940 used because its prefix matches string pool constant read
+Marking id:reading_friend_emptyshare_total:2131230941 used because its prefix matches string pool constant read
+Marking id:reading_item_authors:2131230942 used because its prefix matches string pool constant read
+Marking id:reading_item_date:2131230943 used because its prefix matches string pool constant read
+Marking id:reading_item_tags:2131230944 used because its prefix matches string pool constant read
+Marking id:reading_item_title:2131230945 used because its prefix matches string pool constant read
+Marking id:reading_overlay_left:2131230946 used because its prefix matches string pool constant read
+Marking id:reading_overlay_progress:2131230947 used because its prefix matches string pool constant read
+Marking id:reading_overlay_progress_left:2131230948 used because its prefix matches string pool constant read
+Marking id:reading_overlay_progress_right:2131230949 used because its prefix matches string pool constant read
+Marking id:reading_overlay_right:2131230950 used because its prefix matches string pool constant read
+Marking id:reading_overlay_send:2131230951 used because its prefix matches string pool constant read
+Marking id:reading_overlay_text:2131230952 used because its prefix matches string pool constant read
+Marking id:reading_pager:2131230953 used because its prefix matches string pool constant read
+Marking id:reading_public_comment_container:2131230954 used because its prefix matches string pool constant read
+Marking id:reading_public_comment_header:2131230955 used because its prefix matches string pool constant read
+Marking id:reading_public_comment_total:2131230956 used because its prefix matches string pool constant read
+Marking id:reading_scrollview:2131230957 used because its prefix matches string pool constant read
+Marking id:reading_share_bar:2131230958 used because its prefix matches string pool constant read
+Marking id:reading_social_commentimages:2131230959 used because its prefix matches string pool constant read
+Marking id:reading_social_shareimages:2131230960 used because its prefix matches string pool constant read
+Marking id:reading_sync_status:2131230961 used because its prefix matches string pool constant read
+Marking id:reading_textloading:2131230962 used because its prefix matches string pool constant read
+Marking id:reading_textmodefailed:2131230963 used because its prefix matches string pool constant read
+Marking id:reading_webview:2131230964 used because its prefix matches string pool constant read
+Marking layout:readfilter_dialog:2131361834 used because its prefix matches string pool constant read
+Marking layout:readingfont_dialog:2131361835 used because its prefix matches string pool constant read
+Marking menu:reading:2131427334 used because its prefix matches string pool constant read
+Marking string:read_stories_row_title:2131493089 used because its prefix matches string pool constant read
+Marking string:read_stories_title:2131493090 used because its prefix matches string pool constant read
+Marking style:readingBackground:2131558454 used because its prefix matches string pool constant read
+Marking style:readingBackground_black:2131558455 used because its prefix matches string pool constant read
+Marking style:readingBackground_dark:2131558456 used because its prefix matches string pool constant read
+Marking style:readingItemMetadata:2131558457 used because its prefix matches string pool constant read
+Marking style:readingItemMetadata_dark:2131558458 used because its prefix matches string pool constant read
+Marking attr:commentsHeader:2130903044 used because its prefix matches string pool constant comments
+Marking style:commentsHeader:2131558422 used because its prefix matches string pool constant comments
+Marking style:commentsHeader_black:2131558423 used because its prefix matches string pool constant comments
+Marking style:commentsHeader_dark:2131558424 used because its prefix matches string pool constant comments
+Marking array:ltr_gesture_action_entries:2130837516 used because its prefix matches string pool constant ltr_gesture_action
+Marking array:ltr_gesture_action_values:2130837517 used because its prefix matches string pool constant ltr_gesture_action
+Marking string:ltr_gesture_action_value:2131492977 used because its prefix matches string pool constant ltr_gesture_action
+Marking array:default_read_filter_entries:2130837512 used because its prefix matches string pool constant default_read_filter
+Marking array:default_read_filter_values:2130837513 used because its prefix matches string pool constant default_read_filter
+Marking string:default_read_filter_value:2131492895 used because its prefix matches string pool constant default_read_filter
+Marking id:reply_text:2131230977 used because its prefix matches string pool constant reply_text
+Marking string:global_shared_stories_row_title:2131492940 used because its prefix matches string pool constant global_shared_stories
+Marking string:global_shared_stories_title:2131492941 used because its prefix matches string pool constant global_shared_stories
+Marking id:comment_username:2131230764 used because its prefix matches string pool constant comment_username
+Marking array:default_font_entries:2130837508 used because its prefix matches string pool constant default
+Marking array:default_font_values:2130837509 used because its prefix matches string pool constant default
+Marking array:default_network_select_entries:2130837510 used because its prefix matches string pool constant default
+Marking array:default_network_select_values:2130837511 used because its prefix matches string pool constant default
+Marking array:default_read_filter_entries:2130837512 used because its prefix matches string pool constant default
+Marking array:default_read_filter_values:2130837513 used because its prefix matches string pool constant default
+Marking array:default_story_order_entries:2130837514 used because its prefix matches string pool constant default
+Marking array:default_story_order_values:2130837515 used because its prefix matches string pool constant default
+Marking attr:defaultText:2130903046 used because its prefix matches string pool constant default
+Marking string:default_cache_age_select_value:2131492890 used because its prefix matches string pool constant default
+Marking string:default_font:2131492891 used because its prefix matches string pool constant default
+Marking string:default_font_prefvalue:2131492892 used because its prefix matches string pool constant default
+Marking string:default_font_value:2131492893 used because its prefix matches string pool constant default
+Marking string:default_network_select_value:2131492894 used because its prefix matches string pool constant default
+Marking string:default_read_filter_value:2131492895 used because its prefix matches string pool constant default
+Marking string:default_story_order_value:2131492896 used because its prefix matches string pool constant default
+Marking string:default_volume_key_navigation_value:2131492897 used because its prefix matches string pool constant default
+Marking style:defaultText:2131558427 used because its prefix matches string pool constant default
+Marking style:defaultText_dark:2131558428 used because its prefix matches string pool constant default
+Marking color:black:2131034114 used because its prefix matches string pool constant black
+Marking color:black_folder_background_end:2131034115 used because its prefix matches string pool constant black
+Marking color:black_folder_background_start:2131034116 used because its prefix matches string pool constant black
+Marking color:black_item_header_background_end:2131034117 used because its prefix matches string pool constant black
+Marking color:black_item_header_background_start:2131034118 used because its prefix matches string pool constant black
+Marking color:black_row_border_bottom:2131034119 used because its prefix matches string pool constant black
+Marking color:black_row_border_top:2131034120 used because its prefix matches string pool constant black
+Marking drawable:black_divider_item_header:2131165187 used because its prefix matches string pool constant black
+Marking drawable:black_folder_background_default:2131165188 used because its prefix matches string pool constant black
+Marking drawable:black_gradient_background_default:2131165189 used because its prefix matches string pool constant black
+Marking drawable:black_row_item_header_background:2131165190 used because its prefix matches string pool constant black
+Marking drawable:black_selector_folder_background:2131165191 used because its prefix matches string pool constant black
+Marking drawable:black_selector_story_background:2131165192 used because its prefix matches string pool constant black
+Marking drawable:black_story_background_default:2131165193 used because its prefix matches string pool constant black
+Marking string:black:2131492884 used because its prefix matches string pool constant black
+Marking color:refresh_1:2131034189 used because its prefix matches string pool constant refresh
+Marking color:refresh_2:2131034190 used because its prefix matches string pool constant refresh
+Marking color:refresh_3:2131034191 used because its prefix matches string pool constant refresh
+Marking color:refresh_4:2131034192 used because its prefix matches string pool constant refresh
+Marking styleable:RecyclerView:-1 used because its prefix matches string pool constant RecyclerView
+Marking layout:view_footer_tile:2131361857 used because its prefix matches string pool constant view
+Marking layout:view_story_row:2131361858 used because its prefix matches string pool constant view
+Marking layout:view_story_tile:2131361859 used because its prefix matches string pool constant view
+Marking string:newest:2131493039 used because its prefix matches string pool constant newest
+Marking attr:android_layout_gravity:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontStyle:-1 used because its prefix matches string pool constant android
+Marking attr:android_font:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontWeight:-1 used because its prefix matches string pool constant android
+Marking attr:android_orientation:-1 used because its prefix matches string pool constant android
+Marking attr:android_descendantFocusability:-1 used because its prefix matches string pool constant android
+Marking id:time:2131231044 used because its prefix matches string pool constant time
+Marking string:light:2131492956 used because its prefix matches string pool constant light
+Marking array:cache_age_select_entries:2130837504 used because its prefix matches string pool constant cache_age_select
+Marking array:cache_age_select_values:2130837505 used because its prefix matches string pool constant cache_age_select
+Marking string:unknown_user:2131493162 used because its prefix matches string pool constant unknown
+Marking color:notification_action_color_filter:2131034183 used because its prefix matches string pool constant notification
+Marking color:notification_icon_bg_color:2131034184 used because its prefix matches string pool constant notification
+Marking dimen:notification_action_icon_size:2131099659 used because its prefix matches string pool constant notification
+Marking dimen:notification_action_text_size:2131099660 used because its prefix matches string pool constant notification
+Marking dimen:notification_big_circle_margin:2131099661 used because its prefix matches string pool constant notification
+Marking dimen:notification_content_margin_start:2131099662 used because its prefix matches string pool constant notification
+Marking dimen:notification_large_icon_height:2131099663 used because its prefix matches string pool constant notification
+Marking dimen:notification_large_icon_width:2131099664 used because its prefix matches string pool constant notification
+Marking dimen:notification_main_column_padding_top:2131099665 used because its prefix matches string pool constant notification
+Marking dimen:notification_media_narrow_margin:2131099666 used because its prefix matches string pool constant notification
+Marking dimen:notification_right_icon_size:2131099667 used because its prefix matches string pool constant notification
+Marking dimen:notification_right_side_padding_top:2131099668 used because its prefix matches string pool constant notification
+Marking dimen:notification_small_icon_background_padding:2131099669 used because its prefix matches string pool constant notification
+Marking dimen:notification_small_icon_size_as_large:2131099670 used because its prefix matches string pool constant notification
+Marking dimen:notification_subtext_size:2131099671 used because its prefix matches string pool constant notification
+Marking dimen:notification_top_pad:2131099672 used because its prefix matches string pool constant notification
+Marking dimen:notification_top_pad_large_text:2131099673 used because its prefix matches string pool constant notification
+Marking drawable:notification_action_background:2131165293 used because its prefix matches string pool constant notification
+Marking drawable:notification_bg:2131165294 used because its prefix matches string pool constant notification
+Marking drawable:notification_bg_low:2131165295 used because its prefix matches string pool constant notification
+Marking drawable:notification_bg_low_normal:2131165296 used because its prefix matches string pool constant notification
+Marking drawable:notification_bg_low_pressed:2131165297 used because its prefix matches string pool constant notification
+Marking drawable:notification_bg_normal:2131165298 used because its prefix matches string pool constant notification
+Marking drawable:notification_bg_normal_pressed:2131165299 used because its prefix matches string pool constant notification
+Marking drawable:notification_icon_background:2131165300 used because its prefix matches string pool constant notification
+Marking drawable:notification_template_icon_bg:2131165301 used because its prefix matches string pool constant notification
+Marking drawable:notification_template_icon_low_bg:2131165302 used because its prefix matches string pool constant notification
+Marking drawable:notification_tile_bg:2131165303 used because its prefix matches string pool constant notification
+Marking id:notification_background:2131230899 used because its prefix matches string pool constant notification
+Marking id:notification_main_column:2131230900 used because its prefix matches string pool constant notification
+Marking id:notification_main_column_container:2131230901 used because its prefix matches string pool constant notification
+Marking layout:notification_action:2131361827 used because its prefix matches string pool constant notification
+Marking layout:notification_action_tombstone:2131361828 used because its prefix matches string pool constant notification
+Marking layout:notification_template_custom_big:2131361829 used because its prefix matches string pool constant notification
+Marking layout:notification_template_icon_group:2131361830 used because its prefix matches string pool constant notification
+Marking layout:notification_template_part_chronometer:2131361831 used because its prefix matches string pool constant notification
+Marking layout:notification_template_part_time:2131361832 used because its prefix matches string pool constant notification
+Marking id:username_field:2131231060 used because its prefix matches string pool constant user
+Marking string:all_shared_stories_row_title:2131492875 used because its prefix matches string pool constant all_shared_stories
+Marking string:all_shared_stories_title:2131492876 used because its prefix matches string pool constant all_shared_stories
+Marking id:comment_text:2131230761 used because its prefix matches string pool constant comment_text
+Marking array:volume_key_navigation_entries:2130837523 used because its prefix matches string pool constant volume_key_navigation
+Marking array:volume_key_navigation_values:2130837524 used because its prefix matches string pool constant volume_key_navigation
+Marking string:volume_key_navigation:2131493168 used because its prefix matches string pool constant volume_key_navigation
+Marking id:title:2131231045 used because its prefix matches string pool constant title
+Marking string:title_choose_folders:2131493154 used because its prefix matches string pool constant title
+Marking string:title_feed_search:2131493155 used because its prefix matches string pool constant title
+Marking string:title_rename_feed:2131493156 used because its prefix matches string pool constant title
+Marking id:custom_view_container:2131230765 used because its prefix matches string pool constant custom
+Marking id:comment_reply_icon:2131230758 used because its prefix matches string pool constant comment_reply
+Marking attr:selectorFeedBackground:2130903087 used because its prefix matches string pool constant select
+Marking attr:selectorFolderBackground:2130903088 used because its prefix matches string pool constant select
+Marking attr:selectorOverlayBackgroundLeft:2130903089 used because its prefix matches string pool constant select
+Marking attr:selectorOverlayBackgroundRight:2130903090 used because its prefix matches string pool constant select
+Marking attr:selectorOverlayBackgroundRightDone:2130903091 used because its prefix matches string pool constant select
+Marking attr:selectorOverlayBackgroundSend:2130903092 used because its prefix matches string pool constant select
+Marking attr:selectorOverlayBackgroundStory:2130903093 used because its prefix matches string pool constant select
+Marking attr:selectorOverlayBackgroundText:2130903094 used because its prefix matches string pool constant select
+Marking attr:selectorStoryBackground:2130903095 used because its prefix matches string pool constant select
+Marking drawable:selector_feed_background:2131165309 used because its prefix matches string pool constant select
+Marking drawable:selector_folder_background:2131165310 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_dark_left:2131165311 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_dark_right:2131165312 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_dark_right_done:2131165313 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_dark_send:2131165314 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_dark_story:2131165315 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_dark_text:2131165316 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_left:2131165317 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_right:2131165318 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_right_done:2131165319 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_send:2131165320 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_story:2131165321 used because its prefix matches string pool constant select
+Marking drawable:selector_overlay_bg_text:2131165322 used because its prefix matches string pool constant select
+Marking drawable:selector_story_background:2131165323 used because its prefix matches string pool constant select
+Marking style:selectorFeedBackground:2131558468 used because its prefix matches string pool constant select
+Marking style:selectorFeedBackground_dark:2131558469 used because its prefix matches string pool constant select
+Marking style:selectorFolderBackground:2131558470 used because its prefix matches string pool constant select
+Marking style:selectorFolderBackground_black:2131558471 used because its prefix matches string pool constant select
+Marking style:selectorFolderBackground_dark:2131558472 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundLeft:2131558473 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundLeft_dark:2131558474 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundRight:2131558475 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundRight_dark:2131558476 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundRightDone:2131558477 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundRightDone_dark:2131558478 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundSend:2131558479 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundSend_dark:2131558480 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundStory:2131558481 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundStory_dark:2131558482 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundText:2131558483 used because its prefix matches string pool constant select
+Marking style:selectorOverlayBackgroundText_dark:2131558484 used because its prefix matches string pool constant select
+Marking style:selectorStoryBackground:2131558485 used because its prefix matches string pool constant select
+Marking style:selectorStoryBackground_black:2131558486 used because its prefix matches string pool constant select
+Marking style:selectorStoryBackground_dark:2131558487 used because its prefix matches string pool constant select
+Marking menu:context_feed:2131427328 used because its prefix matches string pool constant context
+Marking menu:context_folder:2131427329 used because its prefix matches string pool constant context
+Marking menu:context_story_newest:2131427330 used because its prefix matches string pool constant context
+Marking menu:context_story_oldest:2131427331 used because its prefix matches string pool constant context
+Marking style:contextPopupStyle:2131558425 used because its prefix matches string pool constant context
+Marking style:contextPopupStyle_dark:2131558426 used because its prefix matches string pool constant context
+Marking anim:text_down:2130771973 used because its prefix matches string pool constant text
+Marking anim:text_up:2130771974 used because its prefix matches string pool constant text
+Marking color:text:2131034218 used because its prefix matches string pool constant text
+Marking id:text:2131231041 used because its prefix matches string pool constant text
+Marking id:text2:2131231042 used because its prefix matches string pool constant text
+Marking id:textSizeSlider:2131231043 used because its prefix matches string pool constant text
+Marking layout:textsize_slider_dialog:2131361856 used because its prefix matches string pool constant text
+Marking string:off:2131493046 used because its prefix matches string pool constant off
+Marking string:all_stories:2131492877 used because its prefix matches string pool constant all_stories
+Marking string:all_stories_row_title:2131492878 used because its prefix matches string pool constant all_stories
+Marking string:all_stories_title:2131492879 used because its prefix matches string pool constant all_stories
+Marking color:secondary_text_default_material_light:2131034198 used because its prefix matches string pool constant second
+Marking attr:feedRowNeutCountText:2130903054 used because its prefix matches string pool constant feed
+Marking color:feed_background_selected_end:2131034150 used because its prefix matches string pool constant feed
+Marking color:feed_background_selected_start:2131034151 used because its prefix matches string pool constant feed
+Marking drawable:feed_background_default:2131165241 used because its prefix matches string pool constant feed
+Marking drawable:feed_background_highlight:2131165242 used because its prefix matches string pool constant feed
+Marking id:feed_name_field:2131230775 used because its prefix matches string pool constant feed
+Marking id:feed_result_list:2131230776 used because its prefix matches string pool constant feed
+Marking id:feedlist_search_query:2131230777 used because its prefix matches string pool constant feed
+Marking string:feed_and_folder:2131492922 used because its prefix matches string pool constant feed
+Marking string:feed_intel_author_header:2131492923 used because its prefix matches string pool constant feed
+Marking string:feed_intel_dialog_title:2131492924 used because its prefix matches string pool constant feed
+Marking string:feed_intel_tag_header:2131492925 used because its prefix matches string pool constant feed
+Marking string:feed_intel_title_header:2131492926 used because its prefix matches string pool constant feed
+Marking string:feed_name_save:2131492927 used because its prefix matches string pool constant feed
+Marking string:feed_search_hint:2131492928 used because its prefix matches string pool constant feed
+Marking style:feedRowNeutCountText:2131558433 used because its prefix matches string pool constant feed
+Marking style:feedRowNeutCountText_dark:2131558434 used because its prefix matches string pool constant feed
+Marking string:feed_and_folder:2131492922 used because its prefix matches string pool constant feed_and_folder
+Marking layout:dialog_choosefolders:2131361804 used because its prefix matches string pool constant dialog
+Marking layout:dialog_rename_feed:2131361805 used because its prefix matches string pool constant dialog
+Marking layout:dialog_trainfeed:2131361806 used because its prefix matches string pool constant dialog
+Marking layout:dialog_trainstory:2131361807 used because its prefix matches string pool constant dialog
+Marking string:dialog_folders_save:2131492908 used because its prefix matches string pool constant dialog
+Marking string:dialog_story_intel_save:2131492909 used because its prefix matches string pool constant dialog
+Marking color:story_content_text:2131034206 used because its prefix matches string pool constant story_content
+Marking string:saved_stories_row_title:2131493095 used because its prefix matches string pool constant saved_stories
+Marking string:saved_stories_title:2131493096 used because its prefix matches string pool constant saved_stories
+Marking attr:activityDetailsPager:2130903042 used because its prefix matches string pool constant activity
+Marking id:activity_details_pager:2131230727 used because its prefix matches string pool constant activity
+Marking id:activity_itemlist_container:2131230728 used because its prefix matches string pool constant activity
+Marking id:activity_reading_container:2131230729 used because its prefix matches string pool constant activity
+Marking layout:activity_addfeedexternal:2131361793 used because its prefix matches string pool constant activity
+Marking layout:activity_addsocial:2131361794 used because its prefix matches string pool constant activity
+Marking layout:activity_feed_search:2131361795 used because its prefix matches string pool constant activity
+Marking layout:activity_init:2131361796 used because its prefix matches string pool constant activity
+Marking layout:activity_itemslist:2131361797 used because its prefix matches string pool constant activity
+Marking layout:activity_login:2131361798 used because its prefix matches string pool constant activity
+Marking layout:activity_loginprogress:2131361799 used because its prefix matches string pool constant activity
+Marking layout:activity_main:2131361800 used because its prefix matches string pool constant activity
+Marking layout:activity_profile:2131361801 used because its prefix matches string pool constant activity
+Marking layout:activity_reading:2131361802 used because its prefix matches string pool constant activity
+Marking layout:activity_webcontainer:2131361803 used because its prefix matches string pool constant activity
+Marking style:activityDetailsPager:2131558419 used because its prefix matches string pool constant activity
+Marking style:activityDetailsPager_black:2131558420 used because its prefix matches string pool constant activity
+Marking style:activityDetailsPager_dark:2131558421 used because its prefix matches string pool constant activity
+Marking xml:activity_settings:2131689472 used because its prefix matches string pool constant activity
+Marking string:unread_only:2131493163 used because its prefix matches string pool constant unread
+Marking string:folder_only:2131492929 used because its prefix matches string pool constant folder_only
+Marking attr:keylines:2130903068 used because its prefix matches string pool constant key
+Marking id:start:2131231023 used because its prefix matches string pool constant star
+Marking string:oldest:2131493047 used because its prefix matches string pool constant oldest
+Marking layout:infrequent_cutoff_dialog:2131361825 used because its prefix matches string pool constant infrequent
+Marking string:infrequent_15:2131492944 used because its prefix matches string pool constant infrequent
+Marking string:infrequent_30:2131492945 used because its prefix matches string pool constant infrequent
+Marking string:infrequent_5:2131492946 used because its prefix matches string pool constant infrequent
+Marking string:infrequent_60:2131492947 used because its prefix matches string pool constant infrequent
+Marking string:infrequent_90:2131492948 used because its prefix matches string pool constant infrequent
+Marking string:infrequent_choice_title:2131492949 used because its prefix matches string pool constant infrequent
+Marking string:infrequent_row_title:2131492950 used because its prefix matches string pool constant infrequent
+Marking string:infrequent_title:2131492951 used because its prefix matches string pool constant infrequent
+Marking string:open_sans_condensed_font:2131493048 used because its prefix matches string pool constant open
+Marking string:open_sans_condensed_font_prefvalue:2131493049 used because its prefix matches string pool constant open
+Marking attr:storyButtons:2130903101 used because its prefix matches string pool constant story
+Marking attr:storyCommentDivider:2130903102 used because its prefix matches string pool constant story
+Marking attr:storyDateText:2130903103 used because its prefix matches string pool constant story
+Marking attr:storyFeedTitleText:2130903104 used because its prefix matches string pool constant story
+Marking attr:storySnippetText:2130903105 used because its prefix matches string pool constant story
+Marking color:story_author_text:2131034202 used because its prefix matches string pool constant story
+Marking color:story_background:2131034203 used because its prefix matches string pool constant story
+Marking color:story_background_selected:2131034204 used because its prefix matches string pool constant story
+Marking color:story_comment_divider:2131034205 used because its prefix matches string pool constant story
+Marking color:story_content_text:2131034206 used because its prefix matches string pool constant story
+Marking color:story_date_text:2131034207 used because its prefix matches string pool constant story
+Marking color:story_feed_title_text:2131034208 used because its prefix matches string pool constant story
+Marking drawable:story_background_default:2131165324 used because its prefix matches string pool constant story
+Marking drawable:story_background_highlight:2131165325 used because its prefix matches string pool constant story
+Marking id:story_context_menu_button:2131231024 used because its prefix matches string pool constant story
+Marking id:story_item_author:2131231025 used because its prefix matches string pool constant story
+Marking id:story_item_content:2131231026 used because its prefix matches string pool constant story
+Marking id:story_item_date:2131231027 used because its prefix matches string pool constant story
+Marking id:story_item_favicon_borderbar_1:2131231028 used because its prefix matches string pool constant story
+Marking id:story_item_favicon_borderbar_2:2131231029 used because its prefix matches string pool constant story
+Marking id:story_item_feedicon:2131231030 used because its prefix matches string pool constant story
+Marking id:story_item_feedtitle:2131231031 used because its prefix matches string pool constant story
+Marking id:story_item_inteldot:2131231032 used because its prefix matches string pool constant story
+Marking id:story_item_inteldot_container:2131231033 used because its prefix matches string pool constant story
+Marking id:story_item_saved_icon:2131231034 used because its prefix matches string pool constant story
+Marking id:story_item_shared_icon:2131231035 used because its prefix matches string pool constant story
+Marking id:story_item_thumbnail:2131231036 used because its prefix matches string pool constant story
+Marking id:story_item_title:2131231037 used because its prefix matches string pool constant story
+Marking layout:storyorder_dialog:2131361854 used because its prefix matches string pool constant story
+Marking menu:story_context:2131427336 used because its prefix matches string pool constant story
+Marking string:story_intel_dialog_title:2131493140 used because its prefix matches string pool constant story
+Marking string:story_notification_channel_id:2131493141 used because its prefix matches string pool constant story
+Marking string:story_notification_channel_name:2131493142 used because its prefix matches string pool constant story
+Marking string:story_search_hint:2131493143 used because its prefix matches string pool constant story
+Marking style:storyButtons:2131558493 used because its prefix matches string pool constant story
+Marking style:storyButtons_dark:2131558494 used because its prefix matches string pool constant story
+Marking style:storyCommentDivider:2131558495 used because its prefix matches string pool constant story
+Marking style:storyCommentDivider_black:2131558496 used because its prefix matches string pool constant story
+Marking style:storyCommentDivider_dark:2131558497 used because its prefix matches string pool constant story
+Marking style:storyDateText:2131558498 used because its prefix matches string pool constant story
+Marking style:storyDateText_dark:2131558499 used because its prefix matches string pool constant story
+Marking style:storyFeedTitleText:2131558500 used because its prefix matches string pool constant story
+Marking style:storyFeedTitleText_dark:2131558501 used because its prefix matches string pool constant story
+Marking style:storySnippetText:2131558502 used because its prefix matches string pool constant story
+Marking style:storySnippetText_dark:2131558503 used because its prefix matches string pool constant story
+Marking id:feed_name_field:2131230775 used because its prefix matches string pool constant feed_name
+Marking string:feed_name_save:2131492927 used because its prefix matches string pool constant feed_name
+Marking array:rtl_gesture_action_entries:2130837521 used because its prefix matches string pool constant rtl_gesture_action
+Marking array:rtl_gesture_action_values:2130837522 used because its prefix matches string pool constant rtl_gesture_action
+Marking string:rtl_gesture_action_value:2131493093 used because its prefix matches string pool constant rtl_gesture_action
+Marking id:normal:2131230898 used because its prefix matches string pool constant normal
+Marking drawable:location_icon:2131165286 used because its prefix matches string pool constant location
+Marking attr:commentsHeader:2130903044 used because its prefix matches string pool constant comment
+Marking id:comment_by:2131230751 used because its prefix matches string pool constant comment
+Marking id:comment_divider:2131230752 used because its prefix matches string pool constant comment
+Marking id:comment_favourite_avatars:2131230753 used because its prefix matches string pool constant comment
+Marking id:comment_favourite_icon:2131230754 used because its prefix matches string pool constant comment
+Marking id:comment_field:2131230755 used because its prefix matches string pool constant comment
+Marking id:comment_location:2131230756 used because its prefix matches string pool constant comment
+Marking id:comment_replies_container:2131230757 used because its prefix matches string pool constant comment
+Marking id:comment_reply_icon:2131230758 used because its prefix matches string pool constant comment
+Marking id:comment_shareddate:2131230759 used because its prefix matches string pool constant comment
+Marking id:comment_sharesource_image:2131230760 used because its prefix matches string pool constant comment
+Marking id:comment_text:2131230761 used because its prefix matches string pool constant comment
+Marking id:comment_user_image:2131230762 used because its prefix matches string pool constant comment
+Marking id:comment_user_reshare_image:2131230763 used because its prefix matches string pool constant comment
+Marking id:comment_username:2131230764 used because its prefix matches string pool constant comment
+Marking style:commentsHeader:2131558422 used because its prefix matches string pool constant comment
+Marking style:commentsHeader_black:2131558423 used because its prefix matches string pool constant comment
+Marking style:commentsHeader_dark:2131558424 used because its prefix matches string pool constant comment
+Marking id:none:2131230897 used because its prefix matches string pool constant none
+Marking string:none:2131493041 used because its prefix matches string pool constant none
+Marking string:get_started:2131492939 used because its prefix matches string pool constant get
+Marking color:dark_bar_background:2131034127 used because its prefix matches string pool constant dark
+Marking color:dark_feed_background_selected_end:2131034128 used because its prefix matches string pool constant dark
+Marking color:dark_feed_background_selected_start:2131034129 used because its prefix matches string pool constant dark
+Marking color:dark_folder_background_end:2131034130 used because its prefix matches string pool constant dark
+Marking color:dark_folder_background_selected_end:2131034131 used because its prefix matches string pool constant dark
+Marking color:dark_folder_background_selected_start:2131034132 used because its prefix matches string pool constant dark
+Marking color:dark_folder_background_start:2131034133 used because its prefix matches string pool constant dark
+Marking color:dark_item_background:2131034134 used because its prefix matches string pool constant dark
+Marking color:dark_item_header_background_end:2131034135 used because its prefix matches string pool constant dark
+Marking color:dark_item_header_background_start:2131034136 used because its prefix matches string pool constant dark
+Marking color:dark_item_header_border:2131034137 used because its prefix matches string pool constant dark
+Marking color:dark_linkblue:2131034138 used because its prefix matches string pool constant dark
+Marking color:dark_row_border_bottom:2131034139 used because its prefix matches string pool constant dark
+Marking color:dark_row_border_top:2131034140 used because its prefix matches string pool constant dark
+Marking color:dark_share_bar_background:2131034141 used because its prefix matches string pool constant dark
+Marking color:dark_story_background:2131034142 used because its prefix matches string pool constant dark
+Marking color:dark_story_background_selected:2131034143 used because its prefix matches string pool constant dark
+Marking color:dark_story_comment_divider:2131034144 used because its prefix matches string pool constant dark
+Marking color:dark_story_content_text:2131034145 used because its prefix matches string pool constant dark
+Marking color:dark_story_date_text:2131034146 used because its prefix matches string pool constant dark
+Marking color:dark_story_feed_title_text:2131034147 used because its prefix matches string pool constant dark
+Marking color:dark_text:2131034148 used because its prefix matches string pool constant dark
+Marking drawable:dark_divider_item_header:2131165223 used because its prefix matches string pool constant dark
+Marking drawable:dark_feed_background_default:2131165224 used because its prefix matches string pool constant dark
+Marking drawable:dark_feed_background_highlight:2131165225 used because its prefix matches string pool constant dark
+Marking drawable:dark_folder_background_default:2131165226 used because its prefix matches string pool constant dark
+Marking drawable:dark_folder_background_highlight:2131165227 used because its prefix matches string pool constant dark
+Marking drawable:dark_gradient_background_default:2131165228 used because its prefix matches string pool constant dark
+Marking drawable:dark_list_background:2131165229 used because its prefix matches string pool constant dark
+Marking drawable:dark_row_item_header_background:2131165230 used because its prefix matches string pool constant dark
+Marking drawable:dark_selector_feed_background:2131165231 used because its prefix matches string pool constant dark
+Marking drawable:dark_selector_folder_background:2131165232 used because its prefix matches string pool constant dark
+Marking drawable:dark_selector_story_background:2131165233 used because its prefix matches string pool constant dark
+Marking drawable:dark_story_background_default:2131165234 used because its prefix matches string pool constant dark
+Marking drawable:dark_story_background_highlight:2131165235 used because its prefix matches string pool constant dark
+Marking string:dark:2131492889 used because its prefix matches string pool constant dark
+Marking attr:tag:2130903106 used because its prefix matches string pool constant tag
+Marking color:tag_bg_dark:2131034209 used because its prefix matches string pool constant tag
+Marking color:tag_gray:2131034210 used because its prefix matches string pool constant tag
+Marking color:tag_gray_shadow:2131034211 used because its prefix matches string pool constant tag
+Marking color:tag_green:2131034212 used because its prefix matches string pool constant tag
+Marking color:tag_green_shadow:2131034213 used because its prefix matches string pool constant tag
+Marking color:tag_green_text:2131034214 used because its prefix matches string pool constant tag
+Marking color:tag_red:2131034215 used because its prefix matches string pool constant tag
+Marking color:tag_red_shadow:2131034216 used because its prefix matches string pool constant tag
+Marking color:tag_red_text:2131034217 used because its prefix matches string pool constant tag
+Marking drawable:tag:2131165326 used because its prefix matches string pool constant tag
+Marking drawable:tag_background_dark:2131165327 used because its prefix matches string pool constant tag
+Marking drawable:tag_background_negative:2131165328 used because its prefix matches string pool constant tag
+Marking drawable:tag_background_neutral:2131165329 used because its prefix matches string pool constant tag
+Marking drawable:tag_background_positive:2131165330 used because its prefix matches string pool constant tag
+Marking id:tag_text:2131231039 used because its prefix matches string pool constant tag
+Marking id:tag_transition_group:2131231040 used because its prefix matches string pool constant tag
+Marking layout:tag_view:2131361855 used because its prefix matches string pool constant tag
+Marking style:tag:2131558504 used because its prefix matches string pool constant tag
+Marking style:tag_dark:2131558505 used because its prefix matches string pool constant tag
+Marking attr:linkText:2130903076 used because its prefix matches string pool constant link
+Marking color:linkblue:2131034177 used because its prefix matches string pool constant link
+Marking style:linkText:2131558442 used because its prefix matches string pool constant link
+Marking style:linkText_dark:2131558443 used because its prefix matches string pool constant link
+Marking string:public_comment_count:2131493088 used because its prefix matches string pool constant public
+Marking string:follow_error:2131492930 used because its prefix matches string pool constant follow
+Marking drawable:intel_toggle_background_selector:2131165283 used because its prefix matches string pool constant int
+Marking id:intel_author_header:2131230790 used because its prefix matches string pool constant int
+Marking id:intel_feed_header:2131230791 used because its prefix matches string pool constant int
+Marking id:intel_row_clear:2131230792 used because its prefix matches string pool constant int
+Marking id:intel_row_dislike:2131230793 used because its prefix matches string pool constant int
+Marking id:intel_row_label:2131230794 used because its prefix matches string pool constant int
+Marking id:intel_row_like:2131230795 used because its prefix matches string pool constant int
+Marking id:intel_tag_header:2131230796 used because its prefix matches string pool constant int
+Marking id:intel_title_clear:2131230797 used because its prefix matches string pool constant int
+Marking id:intel_title_dislike:2131230798 used because its prefix matches string pool constant int
+Marking id:intel_title_header:2131230799 used because its prefix matches string pool constant int
+Marking id:intel_title_like:2131230800 used because its prefix matches string pool constant int
+Marking id:intel_title_selection:2131230801 used because its prefix matches string pool constant int
+Marking string:intel_author_header:2131492952 used because its prefix matches string pool constant int
+Marking string:intel_feed_header:2131492953 used because its prefix matches string pool constant int
+Marking string:intel_tag_header:2131492954 used because its prefix matches string pool constant int
+Marking string:intel_title_header:2131492955 used because its prefix matches string pool constant int
+Marking id:fragment_feedintelligenceselector:2131230785 used because its prefix matches string pool constant fragment
+Marking id:fragment_intelligence_statebutton:2131230786 used because its prefix matches string pool constant fragment
+Marking layout:fragment_addsocial:2131361808 used because its prefix matches string pool constant fragment
+Marking layout:fragment_folderfeedlist:2131361809 used because its prefix matches string pool constant fragment
+Marking layout:fragment_intelligenceselector:2131361810 used because its prefix matches string pool constant fragment
+Marking layout:fragment_itemgrid:2131361811 used because its prefix matches string pool constant fragment
+Marking layout:fragment_loadingitems:2131361812 used because its prefix matches string pool constant fragment
+Marking layout:fragment_loginprogress:2131361813 used because its prefix matches string pool constant fragment
+Marking layout:fragment_loginregister:2131361814 used because its prefix matches string pool constant fragment
+Marking layout:fragment_profileactivity:2131361815 used because its prefix matches string pool constant fragment
+Marking layout:fragment_profiledetails:2131361816 used because its prefix matches string pool constant fragment
+Marking layout:fragment_readingitem:2131361817 used because its prefix matches string pool constant fragment
+Marking layout:fragment_readingpager:2131361818 used because its prefix matches string pool constant fragment
+Marking layout:fragment_registerprogress:2131361819 used because its prefix matches string pool constant fragment
+Resource Reference Graph:
+array:cache_age_select_entries:2130837504 => [string:menu_cache_age_select_opt_2d:2131492981, string:menu_cache_age_select_opt_7d:2131492983, string:menu_cache_age_select_opt_14d:2131492980, string:menu_cache_age_select_opt_30d:2131492982]
+array:confirm_mark_all_read_entries:2130837506 => [string:feed_and_folder:2131492922, string:folder_only:2131492929, string:none:2131493041]
+array:default_font_entries:2130837508 => [string:anonymous_pro_font:2131492881, string:chronicle_font:2131492885, string:default_font:2131492891, string:gotham_narrow_font:2131492942, string:noto_sans_font:2131493042, string:noto_serif_font:2131493044, string:open_sans_condensed_font:2131493048, string:whitney_font:2131493170]
+array:default_font_values:2130837509 => [string:anonymous_pro_font_prefvalue:2131492882, string:chronicle_font_prefvalue:2131492886, string:default_font_prefvalue:2131492892, string:gotham_narrow_font_prefvalue:2131492943, string:noto_sans_font_prefvalue:2131493043, string:open_sans_condensed_font_prefvalue:2131493049, string:whitney_font_prefvalue:2131493171]
+array:default_network_select_entries:2130837510 => [string:menu_network_select_opt_any:2131493005, string:menu_network_select_opt_nomo:2131493006, string:menu_network_select_opt_nomononme:2131493007]
+array:default_read_filter_entries:2130837512 => [string:all_stories:2131492877, string:unread_only:2131493163]
+array:default_story_order_entries:2130837514 => [string:newest:2131493039, string:oldest:2131493047]
+array:ltr_gesture_action_entries:2130837516 => [string:gest_action_none:2131492936, string:gest_action_markread:2131492934, string:gest_action_markunread:2131492935, string:gest_action_save:2131492937, string:gest_action_unsave:2131492938]
+array:rtl_gesture_action_entries:2130837521 => [string:gest_action_none:2131492936, string:gest_action_markread:2131492934, string:gest_action_markunread:2131492935, string:gest_action_save:2131492937, string:gest_action_unsave:2131492938]
+array:volume_key_navigation_entries:2130837523 => [string:off:2131493046, string:volume_up_next:2131493169, string:volume_down_next:2131493167]
+color:bar_background:2131034112 => [color:nb_green_gray91:2131034178]
+color:black_folder_background_end:2131034115 => [color:black:2131034114]
+color:black_folder_background_start:2131034116 => [color:gray07:2131034156]
+color:black_item_header_background_end:2131034117 => [color:black:2131034114]
+color:black_item_header_background_start:2131034118 => [color:gray07:2131034156]
+color:black_row_border_bottom:2131034119 => [color:gray07:2131034156]
+color:black_row_border_top:2131034120 => [color:gray10:2131034157]
+color:button_text:2131034121 => [color:gray46:2131034161]
+color:button_text_dark:2131034122 => [color:gray75:2131034164]
+color:col_button_background:2131034123 => [color:gray90:2131034167]
+color:col_button_background_dark:2131034124 => [color:gray20:2131034159]
+color:col_button_background_pressed:2131034125 => [color:gray65:2131034163]
+color:col_button_background_pressed_dark:2131034126 => [color:gray30:2131034160]
+color:dark_bar_background:2131034127 => [color:gray13:2131034158]
+color:dark_folder_background_end:2131034130 => [color:gray07:2131034156]
+color:dark_folder_background_start:2131034133 => [color:gray13:2131034158]
+color:dark_row_border_bottom:2131034139 => [color:gray13:2131034158]
+color:dark_row_border_top:2131034140 => [color:gray20:2131034159]
+color:dark_story_background:2131034142 => [color:gray07:2131034156]
+color:dark_story_feed_title_text:2131034147 => [color:gray55:2131034162]
+color:dark_text:2131034148 => [color:gray85:2131034166]
+color:notification_action_color_filter:2131034183 => [color:secondary_text_default_material_light:2131034198]
+color:progress_circle_complete:2131034187 => [color:gray46:2131034161]
+color:progress_circle_remaining:2131034188 => [color:gray75:2131034164]
+color:row_border_bottom:2131034194 => [color:gray80:2131034165]
+color:row_border_top:2131034195 => [color:white:2131034221]
+color:story_background:2131034203 => [color:gray96:2131034168]
+color:text:2131034218 => [color:gray20:2131034159]
+dimen:notification_media_narrow_margin:2131099666 => [dimen:notification_content_margin_start:2131099662]
+drawable:black_divider_item_header:2131165187 => [color:gray07:2131034156]
+drawable:black_folder_background_default:2131165188 => [color:black_folder_background_end:2131034115, color:black_folder_background_start:2131034116]
+drawable:black_gradient_background_default:2131165189 => [color:black_folder_background_end:2131034115, color:black_folder_background_start:2131034116]
+drawable:black_row_item_header_background:2131165190 => [color:black_item_header_background_end:2131034117, color:black_item_header_background_start:2131034118]
+drawable:black_selector_folder_background:2131165191 => [drawable:dark_folder_background_highlight:2131165227, drawable:black_folder_background_default:2131165188]
+drawable:black_selector_story_background:2131165192 => [drawable:dark_story_background_highlight:2131165235, drawable:black_story_background_default:2131165193]
+drawable:black_story_background_default:2131165193 => [color:black:2131034114]
+drawable:button_background:2131165194 => [color:col_button_background:2131034123]
+drawable:button_background_dark:2131165195 => [color:col_button_background_dark:2131034124]
+drawable:button_background_overlay_dark_left_disabled:2131165196 => [color:col_button_background_dark:2131034124, drawable:ic_arrow_back_gray46:2131165253]
+drawable:button_background_overlay_dark_left_enabled:2131165197 => [color:col_button_background_dark:2131034124, drawable:ic_arrow_back_gray74:2131165254]
+drawable:button_background_overlay_dark_left_pressed:2131165198 => [color:col_button_background_pressed_dark:2131034126, drawable:ic_arrow_back_gray74:2131165254]
+drawable:button_background_overlay_dark_right_done_enabled:2131165199 => [color:gray30:2131034160, drawable:ic_check_circle_gray74:2131165258]
+drawable:button_background_overlay_dark_right_done_pressed:2131165200 => [color:gray46:2131034161, drawable:ic_check_circle_gray74:2131165258]
+drawable:button_background_overlay_dark_right_enabled:2131165201 => [color:col_button_background_dark:2131034124, drawable:ic_arrow_forward_gray74:2131165256]
+drawable:button_background_overlay_dark_right_pressed:2131165202 => [color:col_button_background_pressed_dark:2131034126, drawable:ic_arrow_forward_gray74:2131165256]
+drawable:button_background_overlay_dark_send_enabled:2131165203 => [color:col_button_background_dark:2131034124, drawable:ic_send_gray74:2131165273]
+drawable:button_background_overlay_dark_send_pressed:2131165204 => [color:col_button_background_pressed_dark:2131034126, drawable:ic_send_gray74:2131165273]
+drawable:button_background_overlay_dark_story_enabled:2131165205 => [color:col_button_background_dark:2131034124, drawable:ic_story_feed_gray74:2131165278]
+drawable:button_background_overlay_dark_story_pressed:2131165206 => [color:col_button_background_pressed_dark:2131034126, drawable:ic_story_feed_gray74:2131165278]
+drawable:button_background_overlay_dark_text_enabled:2131165207 => [color:col_button_background_dark:2131034124, drawable:ic_story_text_gray74:2131165280]
+drawable:button_background_overlay_dark_text_pressed:2131165208 => [color:col_button_background_pressed_dark:2131034126, drawable:ic_story_text_gray74:2131165280]
+drawable:button_background_overlay_left_disabled:2131165209 => [color:col_button_background:2131034123, drawable:ic_arrow_back_gray74:2131165254]
+drawable:button_background_overlay_left_enabled:2131165210 => [color:col_button_background:2131034123, drawable:ic_arrow_back_gray46:2131165253]
+drawable:button_background_overlay_left_pressed:2131165211 => [color:col_button_background_pressed:2131034125, drawable:ic_arrow_back_gray46:2131165253]
+drawable:button_background_overlay_right_done_enabled:2131165212 => [color:gray75:2131034164, drawable:ic_check_circle_gray46:2131165257]
+drawable:button_background_overlay_right_done_pressed:2131165213 => [color:col_button_background_pressed:2131034125, drawable:ic_check_circle_gray46:2131165257]
+drawable:button_background_overlay_right_enabled:2131165214 => [color:col_button_background:2131034123, drawable:ic_arrow_forward_gray46:2131165255]
+drawable:button_background_overlay_right_pressed:2131165215 => [color:col_button_background_pressed:2131034125, drawable:ic_arrow_forward_gray46:2131165255]
+drawable:button_background_overlay_send_enabled:2131165216 => [color:col_button_background:2131034123, drawable:ic_send_gray46:2131165272]
+drawable:button_background_overlay_send_pressed:2131165217 => [color:col_button_background_pressed:2131034125, drawable:ic_send_gray46:2131165272]
+drawable:button_background_overlay_story_enabled:2131165218 => [color:col_button_background:2131034123, drawable:ic_story_feed_gray46:2131165277]
+drawable:button_background_overlay_story_pressed:2131165219 => [color:col_button_background_pressed:2131034125, drawable:ic_story_feed_gray46:2131165277]
+drawable:button_background_overlay_text_enabled:2131165220 => [color:col_button_background:2131034123, drawable:ic_story_text_gray46:2131165279]
+drawable:button_background_overlay_text_pressed:2131165221 => [color:col_button_background_pressed:2131034125, drawable:ic_story_text_gray46:2131165279]
+drawable:dark_divider_item_header:2131165223 => [color:dark_item_header_border:2131034137]
+drawable:dark_feed_background_default:2131165224 => [color:black:2131034114]
+drawable:dark_feed_background_highlight:2131165225 => [color:dark_feed_background_selected_start:2131034129, color:dark_feed_background_selected_end:2131034128]
+drawable:dark_folder_background_default:2131165226 => [color:dark_folder_background_end:2131034130, color:dark_folder_background_start:2131034133]
+drawable:dark_folder_background_highlight:2131165227 => [color:dark_folder_background_selected_end:2131034131, color:dark_folder_background_selected_start:2131034132]
+drawable:dark_gradient_background_default:2131165228 => [color:dark_folder_background_end:2131034130, color:dark_folder_background_start:2131034133]
+drawable:dark_list_background:2131165229 => [color:black:2131034114]
+drawable:dark_row_item_header_background:2131165230 => [color:dark_item_header_background_end:2131034135, color:dark_item_header_background_start:2131034136]
+drawable:dark_selector_feed_background:2131165231 => [drawable:dark_feed_background_highlight:2131165225, drawable:dark_feed_background_default:2131165224]
+drawable:dark_selector_folder_background:2131165232 => [drawable:dark_folder_background_highlight:2131165227, drawable:dark_folder_background_default:2131165226]
+drawable:dark_selector_story_background:2131165233 => [drawable:dark_story_background_highlight:2131165235, drawable:dark_story_background_default:2131165234]
+drawable:dark_story_background_default:2131165234 => [color:dark_story_background:2131034142]
+drawable:dark_story_background_highlight:2131165235 => [color:dark_story_background_selected:2131034143]
+drawable:divider_dark:2131165236 => [color:half_black:2131034169]
+drawable:divider_item_header:2131165237 => [color:item_header_border:2131034176]
+drawable:divider_light:2131165238 => [color:half_lightgray:2131034171]
+drawable:facebook_background:2131165239 => [color:facebook_blue:2131034149]
+drawable:feed_background_default:2131165241 => [color:gray96:2131034168]
+drawable:feed_background_highlight:2131165242 => [color:feed_background_selected_start:2131034151, color:feed_background_selected_end:2131034150]
+drawable:folder_background_default:2131165244 => [color:folder_background_end:2131034152, color:folder_background_start:2131034155]
+drawable:folder_background_highlight:2131165245 => [color:folder_background_selected_end:2131034153, color:folder_background_selected_start:2131034154]
+drawable:gradient_background_default:2131165252 => [color:folder_background_end:2131034152, color:folder_background_start:2131034155]
+drawable:intel_toggle_background_selector:2131165283 => [drawable:toggle_bg_selected:2131165331]
+drawable:item_border:2131165284 => [color:gray55:2131034162]
+drawable:list_background:2131165285 => [color:gray80:2131034165]
+drawable:neutral_count_rect:2131165292 => [color:neutral_drop_shadow:2131034181, color:neutral:2131034180]
+drawable:notification_action_background:2131165293 => [color:ripple_material_light:2131034193, dimen:compat_button_inset_vertical_material:2131099649, dimen:compat_button_inset_horizontal_material:2131099648, dimen:compat_control_corner_material:2131099652, dimen:compat_button_padding_vertical_material:2131099651, dimen:compat_button_padding_horizontal_material:2131099650]
+drawable:notification_bg:2131165294 => [drawable:notification_bg_normal_pressed:2131165299, drawable:notification_bg_normal:2131165298]
+drawable:notification_bg_low:2131165295 => [drawable:notification_bg_low_pressed:2131165297, drawable:notification_bg_low_normal:2131165296]
+drawable:notification_icon_background:2131165300 => [color:notification_icon_bg_color:2131034184]
+drawable:notification_tile_bg:2131165303 => [drawable:notify_panel_notification_icon_bg:2131165304]
+drawable:positive_count_rect:2131165306 => [color:positive_drop_shadow:2131034186, color:positive:2131034185]
+drawable:row_item_header_background:2131165307 => [color:item_header_background_end:2131034174, color:item_header_background_start:2131034175]
+drawable:saved_count_rect:2131165308 => [color:saved_drop_shadow:2131034197, color:saved:2131034196]
+drawable:selector_feed_background:2131165309 => [drawable:feed_background_highlight:2131165242, drawable:feed_background_default:2131165241]
+drawable:selector_folder_background:2131165310 => [drawable:folder_background_highlight:2131165245, drawable:folder_background_default:2131165244]
+drawable:selector_overlay_bg_dark_left:2131165311 => [drawable:button_background_overlay_dark_left_pressed:2131165198, drawable:button_background_overlay_dark_left_disabled:2131165196, drawable:button_background_overlay_dark_left_enabled:2131165197]
+drawable:selector_overlay_bg_dark_right:2131165312 => [drawable:button_background_overlay_dark_right_pressed:2131165202, drawable:button_background_overlay_dark_right_enabled:2131165201]
+drawable:selector_overlay_bg_dark_right_done:2131165313 => [drawable:button_background_overlay_dark_right_done_pressed:2131165200, drawable:button_background_overlay_dark_right_done_enabled:2131165199]
+drawable:selector_overlay_bg_dark_send:2131165314 => [drawable:button_background_overlay_dark_send_pressed:2131165204, drawable:button_background_overlay_dark_send_enabled:2131165203]
+drawable:selector_overlay_bg_dark_story:2131165315 => [drawable:button_background_overlay_dark_story_pressed:2131165206, drawable:button_background_overlay_dark_story_enabled:2131165205]
+drawable:selector_overlay_bg_dark_text:2131165316 => [drawable:button_background_overlay_dark_text_pressed:2131165208, drawable:button_background_overlay_dark_text_enabled:2131165207]
+drawable:selector_overlay_bg_left:2131165317 => [drawable:button_background_overlay_left_pressed:2131165211, drawable:button_background_overlay_left_disabled:2131165209, drawable:button_background_overlay_left_enabled:2131165210]
+drawable:selector_overlay_bg_right:2131165318 => [drawable:button_background_overlay_right_pressed:2131165215, drawable:button_background_overlay_right_enabled:2131165214]
+drawable:selector_overlay_bg_right_done:2131165319 => [drawable:button_background_overlay_right_done_pressed:2131165213, drawable:button_background_overlay_right_done_enabled:2131165212]
+drawable:selector_overlay_bg_send:2131165320 => [drawable:button_background_overlay_send_pressed:2131165217, drawable:button_background_overlay_send_enabled:2131165216]
+drawable:selector_overlay_bg_story:2131165321 => [drawable:button_background_overlay_story_pressed:2131165219, drawable:button_background_overlay_story_enabled:2131165218]
+drawable:selector_overlay_bg_text:2131165322 => [drawable:button_background_overlay_text_pressed:2131165221, drawable:button_background_overlay_text_enabled:2131165220]
+drawable:selector_story_background:2131165323 => [drawable:story_background_highlight:2131165325, drawable:story_background_default:2131165324]
+drawable:story_background_default:2131165324 => [color:story_background:2131034203]
+drawable:story_background_highlight:2131165325 => [color:story_background_selected:2131034204]
+drawable:tag_background_dark:2131165327 => [color:tag_bg_dark:2131034209]
+drawable:tag_background_negative:2131165328 => [color:tag_red_shadow:2131034216, color:tag_red:2131034215]
+drawable:tag_background_neutral:2131165329 => [color:tag_gray_shadow:2131034211, color:tag_gray:2131034210]
+drawable:tag_background_positive:2131165330 => [color:tag_green_shadow:2131034213, color:tag_green:2131034212]
+drawable:toggle_bg_selected:2131165331 => [color:bg_midgray:2131034113]
+drawable:toggle_set_border:2131165336 => [color:gray55:2131034162]
+drawable:twitter_background:2131165338 => [color:twitter_blue:2131034220]
+layout:actionbar_custom_icon:2131361792 => [drawable:world:2131165340, id:actionbar_icon:2131230724]
+layout:activity_addfeedexternal:2131361793 => [attr:itemBackground:2130903066, attr:explainerText:2130903048]
+layout:activity_addsocial:2131361794 => [color:item_background:2131034173]
+layout:activity_feed_search:2131361795 => [attr:listBackground:2130903077, string:empty_search_notice:2131492920, color:text:2131034218]
+layout:activity_init:2131361796 => [drawable:logo:2131165287]
+layout:activity_itemslist:2131361797 => [attr:itemBackground:2130903066, string:story_search_hint:2131493143, id:itemlist_search_query:2131230807, color:status_overlay_background:2131034200, color:status_overlay_text:2131034201]
+layout:activity_login:2131361798 => [color:item_background:2131034173, string:description_login_logo:2131492904, drawable:logo_newsblur_blur:2131165289, color:gray80:2131034165]
+layout:activity_main:2131361800 => [attr:actionbarBackground:2130903041, drawable:logo:2131165287, id:main_user_image:2131230840, id:main_user_name:2131230841, drawable:g_icn_unread:2131165250, id:main_unread_count_neut_icon:2131230836, id:main_unread_count_neut_text:2131230837, drawable:g_icn_focus:2131165246, id:main_unread_count_posi_icon:2131230838, drawable:ic_menu_profile_gray55:2131165269, string:menu_profile:2131493018, drawable:ic_menu_moreoverflow:2131165268, string:description_menu:2131492905, drawable:ic_menu_add_gray55:2131165265, string:menu_add_feed:2131492978, id:fragment_feedintelligenceselector:2131230785, id:main_top_bar:2131230835, attr:listBackground:2130903077, attr:explainerText:2130903048, string:description_empty_list_image:2131492901, id:empty_view_text:2131230769, drawable:world_big:2131165341, string:your_feeds_search_hint:2131493172, id:feedlist_search_query:2131230777, color:gray55:2131034162, id:swipe_container:2131231038, color:status_overlay_background:2131034200, color:status_overlay_text:2131034201]
+layout:activity_profile:2131361801 => [attr:itemBackground:2130903066, id:profile_details:2131230903, attr:activityDetailsPager:2130903042]
+layout:activity_reading:2131361802 => [string:loading:2131492961, attr:explainerText:2130903048, string:overlay_text:2131493057, attr:selectorOverlayBackgroundText:2130903094, id:reading_overlay_text:2131230952, attr:selectorOverlayBackgroundSend:2130903092, string:overlay_next:2131493055, attr:selectorOverlayBackgroundRight:2130903090, id:reading_overlay_right:2131230950, attr:selectorOverlayBackgroundLeft:2130903089, color:status_overlay_background:2131034200, color:status_overlay_text:2131034201]
+layout:activity_webcontainer:2131361803 => [color:item_background:2131034173]
+layout:dialog_choosefolders:2131361804 => [attr:divider:2130903047]
+layout:dialog_trainfeed:2131361806 => [string:feed_intel_title_header:2131492926, id:intel_title_header:2131230799, id:existing_title_intel_container:2131230774, string:feed_intel_tag_header:2131492925, id:intel_tag_header:2131230796, id:existing_tag_intel_container:2131230773, string:feed_intel_author_header:2131492923, id:intel_author_header:2131230790, id:existing_author_intel_container:2131230771, string:intel_feed_header:2131492953, id:intel_feed_header:2131230791]
+layout:dialog_trainstory:2131361807 => [string:intel_title_header:2131492955, drawable:ic_clear_gray55:2131165259, id:intel_title_header:2131230799, drawable:ic_dislike_gray55:2131165261, id:intel_title_clear:2131230797, drawable:ic_like_gray55:2131165264, id:intel_title_dislike:2131230798, id:intel_title_like:2131230800, id:intel_title_selection:2131230801, id:existing_title_intel_container:2131230774, string:intel_tag_header:2131492954, id:intel_tag_header:2131230796, id:existing_tag_intel_container:2131230773, string:intel_author_header:2131492952, id:intel_author_header:2131230790, id:existing_author_intel_container:2131230771, string:intel_feed_header:2131492953, id:intel_feed_header:2131230791]
+layout:fragment_addsocial:2131361808 => [string:connect_with_your_friends:2131492888, color:text:2131034218, drawable:twitter_background:2131165338, id:addsocial_connect_text:2131230732, drawable:twitter_logo:2131165339, string:twitter:2131493159, color:white:2131034221, drawable:facebook_background:2131165239, id:addsocial_twitter:2131230736, drawable:facebook_logo:2131165240, string:facebook:2131492921, id:addsocial_facebook:2131230734, string:auto_follow_friends:2131492883, id:addsocial_autofollow_text:2131230731]
+layout:fragment_intelligenceselector:2131361810 => [attr:actionbarBackground:2130903041]
+layout:fragment_itemgrid:2131361811 => [attr:itemBackground:2130903066, string:empty_list_view_loading:2131492913, string:description_empty_list_image:2131492901, id:empty_view_text:2131230769, drawable:world_big:2131165341]
+layout:fragment_loadingitems:2131361812 => [attr:listBackground:2130903077, string:loading:2131492961]
+layout:fragment_loginprogress:2131361813 => [string:login_logging_in:2131492967, id:login_logging_in:2131230823, string:login_retrieving_feeds:2131492973, id:login_retrieving_feeds:2131230828]
+layout:fragment_loginregister:2131361814 => [string:login_username_hint:2131492974, string:login_password_hint:2131492970, id:login_button:2131230814, string:description_login_button:2131492903, id:login_fields_container:2131230821, string:login_button_login:2131492962, string:need_to_register:2131493038, id:login_change_to_register:2131230816, string:login_forgot_password:2131492965, id:login_forgot_password:2131230822, string:login_custom_server:2131492963, string:login_custom_server_hint:2131492964, id:login_custom_server:2131230818, string:need_to_login:2131493037, string:login_registration_register:2131492972, id:registration_button_container:2131230969, id:registration_email:2131230970, string:login_registration_email_hint:2131492971, id:registration_button:2131230968]
+layout:fragment_profileactivity:2131361815 => [attr:itemBackground:2130903066, string:empty_list_view_loading:2131492913, attr:defaultText:2130903046, attr:profileActivityList:2130903079]
+layout:fragment_profiledetails:2131361816 => [attr:itemBackground:2130903066, string:description_profile_picture:2131492906, drawable:person:2131165305, string:description_follow_button:2131492902, string:profile_button_follow:2131493060, attr:actionButtons:2130903040, string:profile_button_unfollow:2131493061, id:profile_username:2131230913, color:text:2131034218, string:profile_location_icon:2131493070, id:profile_bio:2131230902, drawable:location_icon:2131165286, id:profile_location_icon:2131230909, id:profile_location:2131230908, color:newsblur_blue:2131034182, color:gray80:2131034165, layout:profile_user_statistics:2131361833]
+layout:fragment_readingitem:2131361817 => [attr:readingBackground:2130903081, attr:rowItemHeaderBackground:2130903086, string:description_row_folder_icon:2131492907, id:reading_feed_icon:2131230934, color:gray55:2131034162, id:row_item_feed_header:2131231002, drawable:ic_menu_moreoverflow:2131165268, string:description_menu:2131492905, id:item_feed_border:2131230803, id:story_context_menu_button:2131231024, id:reading_item_title:2131230945, attr:readingItemMetadata:2130903082, id:reading_item_date:2131230943, attr:itemHeaderDivider:2130903067, layout:include_reading_share_bar:2131361823, attr:divider:2130903047, string:orig_text_loading:2131493051, string:orig_text_failed:2131493050, layout:include_reading_item_comment:2131361822]
+layout:fragment_registerprogress:2131361819 => [drawable:logo:2131165287, string:login_next:2131492969]
+layout:include_comment:2131361820 => [attr:readingBackground:2130903081, string:description_comment_user:2131492900, drawable:ic_reply_gray55:2131165271, id:comment_reply_icon:2131230758, attr:defaultText:2130903046, id:comment_shareddate:2131230759, drawable:ic_star_gray55:2131165276, id:comment_user_image:2131230762, attr:linkText:2130903076, id:comment_text:2131230761, color:gray80:2131034165, id:comment_favourite_icon:2131230754, id:comment_username:2131230764, attr:storyCommentDivider:2130903102]
+layout:include_intel_row:2131361821 => [drawable:ic_clear_gray55:2131165259, drawable:ic_dislike_gray55:2131165261, id:intel_row_clear:2131230792, drawable:ic_like_gray55:2131165264, id:intel_row_dislike:2131230793, id:intel_row_like:2131230795, attr:defaultText:2130903046]
+layout:include_reading_item_comment:2131361822 => [string:share_this:2131493133, attr:storyButtons:2130903101, string:save_this:2131493094, color:gray80:2131034165, attr:commentsHeader:2130903044, id:reading_friend_comment_header:2131230937, id:reading_friend_comment_container:2131230936, id:reading_friend_emptyshare_header:2131230940, id:reading_friend_emptyshare_container:2131230939, id:reading_public_comment_header:2131230955]
+layout:include_reading_share_bar:2131361823 => [attr:shareBarBackground:2130903096, attr:shareBarText:2130903097, id:center_filler:2131230743, id:comment_by:2131230751, id:shared_by:2131231022]
+layout:include_reply:2131361824 => [attr:readingBackground:2130903081, attr:storyCommentDivider:2130903102, string:description_comment_user:2131492900, id:reply_divider:2131230973, drawable:ic_edit_gray55:2131165262, id:reply_edit_icon:2131230974, attr:defaultText:2130903046, id:reply_shareddate:2131230976, id:reply_user_image:2131230978, attr:linkText:2130903076]
+layout:infrequent_cutoff_dialog:2131361825 => [string:infrequent_5:2131492946, string:infrequent_15:2131492944, string:infrequent_30:2131492945, string:infrequent_60:2131492947, string:infrequent_90:2131492948]
+layout:notification_action:2131361827 => [style:Widget_Compat_NotificationActionContainer:2131558408, dimen:notification_action_icon_size:2131099659, style:Widget_Compat_NotificationActionText:2131558409]
+layout:notification_action_tombstone:2131361828 => [style:Widget_Compat_NotificationActionContainer:2131558408, dimen:notification_action_icon_size:2131099659, style:Widget_Compat_NotificationActionText:2131558409]
+layout:notification_template_custom_big:2131361829 => [dimen:notification_large_icon_height:2131099663, dimen:notification_large_icon_width:2131099664, layout:notification_template_icon_group:2131361830, dimen:notification_right_side_padding_top:2131099668, layout:notification_template_part_time:2131361832, layout:notification_template_part_chronometer:2131361831, style:TextAppearance_Compat_Notification_Info:2131558404]
+layout:notification_template_icon_group:2131361830 => [dimen:notification_large_icon_height:2131099663, dimen:notification_large_icon_width:2131099664, dimen:notification_big_circle_margin:2131099661, dimen:notification_right_icon_size:2131099667]
+layout:notification_template_part_chronometer:2131361831 => [style:TextAppearance_Compat_Notification_Time:2131558406]
+layout:notification_template_part_time:2131361832 => [style:TextAppearance_Compat_Notification_Time:2131558406]
+layout:profile_user_statistics:2131361833 => [color:gray80:2131034165, attr:profileCount:2130903080, string:profile_shared:2131493080, string:profile_following:2131493069, string:profile_followers:2131493068]
+layout:readfilter_dialog:2131361834 => [string:all_stories:2131492877, string:unread_only:2131493163]
+layout:readingfont_dialog:2131361835 => [string:anonymous_pro_font:2131492881, string:chronicle_font:2131492885, string:default_font:2131492891, string:gotham_narrow_font:2131492942, string:noto_sans_font:2131493042, string:noto_serif_font:2131493044, string:open_sans_condensed_font:2131493048, string:whitney_font:2131493170]
+layout:row_activity:2131361837 => [attr:itemBackground:2130903066, string:description_activity_icon:2131492899, id:row_activity_icon:2131230983, attr:defaultText:2130903046, id:row_activity_text:2131230984]
+layout:row_all_shared_stories:2131361838 => [attr:selectorFolderBackground:2130903088, string:description_row_folder_icon:2131492907, drawable:ak_icon_blurblogs:2131165185, drawable:indicator_collapsed:2131165281, id:row_folder_indicator:2131230996, drawable:neutral_count_rect:2131165292, color:neutral_drop_shadow:2131034181, attr:feedRowNeutCountText:2130903054, drawable:positive_count_rect:2131165306, color:positive_drop_shadow:2131034186, color:white:2131034221, id:row_foldersums:2131231001, id:row_everything_icon:2131230986, string:all_shared_stories_row_title:2131492875, attr:rowBorderTop:2130903085, attr:rowBorderBottom:2130903084]
+layout:row_all_stories:2131361839 => [attr:selectorFolderBackground:2130903088, string:description_row_folder_icon:2131492907, drawable:ak_icon_allstories:2131165184, id:row_everything_icon:2131230986, string:all_stories_row_title:2131492878, attr:rowBorderTop:2130903085, attr:rowBorderBottom:2130903084]
+layout:row_feed:2131361841 => [attr:selectorFeedBackground:2130903087, drawable:neutral_count_rect:2131165292, color:neutral_drop_shadow:2131034181, attr:feedRowNeutCountText:2130903054, drawable:positive_count_rect:2131165306, color:positive_drop_shadow:2131034186, color:white:2131034221, drawable:saved_count_rect:2131165308, color:saved_drop_shadow:2131034197, attr:muteicon:2130903078, id:row_feedcounters:2131230987, id:row_feedfavicon:2131230988]
+layout:row_feedresult:2131361842 => [attr:itemBackground:2130903066, id:row_result_favicon_color:2131231006, id:row_item_sidebar:2131231003, id:row_result_feedicon:2131231007, attr:defaultText:2130903046, id:row_result_tagline:2131231009]
+layout:row_fleuron:2131361843 => [drawable:fleuron:2131165243]
+layout:row_folder:2131361844 => [attr:selectorFolderBackground:2130903088, string:description_row_folder_icon:2131492907, drawable:g_icn_folder_rss:2131165248, drawable:indicator_collapsed:2131165281, id:row_folder_indicator:2131230996, drawable:neutral_count_rect:2131165292, color:neutral_drop_shadow:2131034181, attr:feedRowNeutCountText:2130903054, drawable:positive_count_rect:2131165306, color:positive_drop_shadow:2131034186, color:white:2131034221, id:row_foldersums:2131231001, id:row_folder_icon:2131230995, attr:rowBorderTop:2130903085, attr:rowBorderBottom:2130903084]
+layout:row_global_shared_stories:2131361845 => [attr:selectorFolderBackground:2130903088, string:description_row_folder_icon:2131492907, drawable:ak_icon_global:2131165186, id:row_everything_icon:2131230986, string:global_shared_stories_row_title:2131492940, attr:rowBorderTop:2130903085, attr:rowBorderBottom:2130903084]
+layout:row_infrequent_stories:2131361846 => [attr:selectorFolderBackground:2130903088, string:description_row_folder_icon:2131492907, drawable:ak_icon_allstories:2131165184, id:row_everything_icon:2131230986, string:infrequent_row_title:2131492950, attr:rowBorderTop:2130903085, attr:rowBorderBottom:2130903084]
+layout:row_read_stories:2131361848 => [attr:selectorFolderBackground:2130903088, string:description_row_folder_icon:2131492907, drawable:g_icn_unread:2131165250, id:row_read_icon:2131231004, string:read_stories_row_title:2131493089, attr:rowBorderTop:2130903085, attr:rowBorderBottom:2130903084]
+layout:row_saved_stories:2131361849 => [attr:selectorFolderBackground:2130903088, string:description_row_folder_icon:2131492907, drawable:clock:2131165222, drawable:indicator_collapsed:2131165281, id:row_saved_icon:2131231011, string:saved_stories_row_title:2131493095, drawable:saved_count_rect:2131165308, id:row_folder_indicator:2131230996, color:saved_drop_shadow:2131034197, color:white:2131034221, attr:rowBorderTop:2130903085, attr:rowBorderBottom:2130903084]
+layout:row_saved_tag:2131361850 => [attr:selectorFeedBackground:2130903087, string:description_row_folder_icon:2131492907, drawable:tag:2131165326, drawable:saved_count_rect:2131165308, color:saved_drop_shadow:2131034197, color:white:2131034221, id:row_saved_tag_sum:2131231012, id:row_tag_icon:2131231017]
+layout:row_socialfeed:2131361851 => [attr:selectorFeedBackground:2130903087, drawable:neutral_count_rect:2131165292, color:neutral_drop_shadow:2131034181, attr:feedRowNeutCountText:2130903054, drawable:positive_count_rect:2131165306, color:positive_drop_shadow:2131034186, color:white:2131034221, string:description_row_folder_icon:2131492907, id:row_foldersums:2131231001, id:row_socialfeed_icon:2131231013]
+layout:share_dialog:2131361852 => [string:share_comment_hint:2131493131]
+layout:state_toggle:2131361853 => [drawable:toggle_set_border:2131165336, drawable:intel_toggle_background_selector:2131165283, drawable:toggle_icon_all:2131165332, string:state_all:2131493135, attr:toggleText:2130903107, drawable:toggle_icon_unread:2131165335, string:state_unread:2131493138, drawable:toggle_icon_focus:2131165333, string:state_focus:2131493136, drawable:toggle_icon_saved:2131165334, string:state_saved:2131493137]
+layout:storyorder_dialog:2131361854 => [string:newest:2131493039, string:oldest:2131493047]
+layout:tag_view:2131361855 => [attr:tag:2130903106]
+layout:view_story_row:2131361858 => [attr:selectorStoryBackground:2130903095, id:story_item_favicon_borderbar_1:2131231028, id:story_item_thumbnail:2131231036, id:story_item_feedicon:2131231030, attr:storyFeedTitleText:2130903104, id:story_item_feedtitle:2131231031, drawable:clock:2131165222, id:story_item_saved_icon:2131231034, drawable:ic_shared:2131165274, id:story_item_shared_icon:2131231035, id:story_item_title:2131231037, attr:storySnippetText:2130903105, id:story_item_content:2131231026, attr:storyDateText:2130903103, id:story_item_date:2131231027, color:story_author_text:2131034202, id:story_item_favicon_borderbar_2:2131231029, attr:rowBorderTop:2130903085, attr:rowBorderBottom:2130903084]
+layout:view_story_tile:2131361859 => [drawable:item_border:2131165284, id:story_item_favicon_borderbar_1:2131231028, attr:storyDateText:2130903103, id:story_item_date:2131231027, id:story_item_favicon_borderbar_2:2131231029, id:story_item_feedicon:2131231030, attr:storyFeedTitleText:2130903104, id:story_item_feedtitle:2131231031, drawable:clock:2131165222, id:story_item_saved_icon:2131231034, drawable:ic_shared:2131165274, id:story_item_shared_icon:2131231035, id:story_item_title:2131231037]
+menu:context_feed:2131427328 => [string:menu_mark_feed_as_read:2131492998, string:menu_delete_feed:2131492986, string:menu_unfollow:2131493033, string:menu_choose_folders:2131492985, string:menu_rename_feed:2131493021, string:menu_notifications_choose:2131493011, string:menu_notifications_disable:2131493012, string:menu_notifications_focus:2131493013, string:menu_notifications_unread:2131493014, string:menu_mute_feed:2131493002, string:menu_unmute_feed:2131493034, string:menu_instafetch_feed:2131492993, string:menu_intel:2131492994]
+menu:context_folder:2131427329 => [string:menu_mark_folder_as_read:2131492999, string:menu_mute_folder:2131493003, string:menu_unmute_folder:2131493035]
+menu:context_story_newest:2131427330 => [string:menu_send_story:2131493026, string:menu_send_story_full:2131493027, string:menu_mark_unread:2131493001, string:menu_mark_story_as_read:2131493000, string:menu_newest_mark_newer_stories_as_read:2131493009, string:menu_newest_mark_older_stories_as_read:2131493010, string:menu_save_story:2131493022, string:menu_unsave_story:2131493036, string:menu_intel:2131492994]
+menu:context_story_oldest:2131427331 => [string:menu_send_story:2131493026, string:menu_send_story_full:2131493027, string:menu_mark_unread:2131493001, string:menu_mark_story_as_read:2131493000, string:menu_oldest_mark_older_stories_as_read:2131493016, string:menu_oldest_mark_newer_stories_as_read:2131493015, string:menu_save_story:2131493022, string:menu_unsave_story:2131493036]
+menu:itemslist:2131427332 => [drawable:ic_menu_markread_gray55:2131165267, string:menu_mark_all_as_read:2131492997, drawable:ic_menu_search_gray55:2131165270, string:menu_search_stories:2131493025, string:menu_story_order:2131493030, string:menu_read_filter:2131493019, string:menu_story_list_style_choose:2131493029, string:list_style_list:2131492960, string:list_style_grid_c:2131492957, string:list_style_grid_m:2131492959, string:list_style_grid_f:2131492958, string:menu_textsize:2131493031, string:menu_theme_choose:2131493032, string:light:2131492956, string:dark:2131492889, string:black:2131492884, string:menu_intel:2131492994, string:menu_notifications_choose:2131493011, string:menu_notifications_disable:2131493012, string:menu_notifications_focus:2131493013, string:menu_notifications_unread:2131493014, string:menu_delete_feed:2131492986, string:menu_rename_feed:2131493021, string:menu_instafetch_feed:2131492993, string:menu_infrequent_cutoff:2131492992]
+menu:main:2131427333 => [string:menu_refresh:2131493020, string:menu_search_feeds:2131493024, string:menu_add_feed:2131492978, string:menu_textsize:2131493031, string:settings:2131493100, string:menu_feedback:2131492987, string:menu_feedback_post:2131492989, string:menu_feedback_email:2131492988, string:menu_loginas:2131492995, string:menu_logout:2131492996, string:menu_theme_choose:2131493032, string:light:2131492956, string:dark:2131492889, string:black:2131492884]
+menu:reading:2131427334 => [drawable:ic_menu_fullscreen_gray55:2131165266, string:menu_fullscreen:2131492991]
+menu:search:2131427335 => [drawable:ic_menu_search_gray55:2131165270, string:menu_search:2131493023]
+menu:story_context:2131427336 => [string:menu_sharenewsblur:2131493028, string:menu_original:2131493017, string:menu_send_story:2131493026, string:menu_send_story_full:2131493027, string:menu_textsize:2131493031, string:menu_font:2131492990, string:menu_save_story:2131493022, string:menu_mark_unread:2131493001, string:menu_intel:2131492994, string:menu_theme_choose:2131493032, string:light:2131492956, string:dark:2131492889, string:black:2131492884]
+style:NewsBlurBlackTheme:2131558400 => [style:actionbar_black:2131558414, style:expandableListView_dark:2131558430, style:selectorFolderBackground_black:2131558471, style:selectorFeedBackground_dark:2131558469, style:feedRowNeutCountText_dark:2131558434, style:actionbarBackground_black:2131558417, style:listBackground_dark:2131558445, style:itemBackground_black:2131558437, style:readingBackground_black:2131558455, style:defaultText_dark:2131558428, style:linkText_dark:2131558443, style:storySnippetText_dark:2131558503, style:storyDateText_dark:2131558499, style:storyFeedTitleText_dark:2131558501, style:selectorStoryBackground_black:2131558486, style:rowItemHeaderBackground_black:2131558466, style:readingItemMetadata_dark:2131558458, style:tag_dark:2131558505, style:actionButtons_dark:2131558412, style:storyButtons_dark:2131558494, style:shareBarBackground_black:2131558489, style:shareBarText_dark:2131558492, style:commentsHeader_black:2131558423, style:rowBorderTop_black:2131558463, style:rowBorderBottom_black:2131558460, style:profileCount_black:2131558452, style:profileActivityList_black:2131558449, style:itemHeaderDivider_black:2131558440, style:storyCommentDivider_black:2131558496, style:activityDetailsPager_black:2131558420, style:explainerText_dark:2131558432, style:toggleText_dark:2131558507, style:selectorOverlayBackgroundLeft_dark:2131558474, style:selectorOverlayBackgroundRight_dark:2131558476, style:selectorOverlayBackgroundRightDone_dark:2131558478, style:selectorOverlayBackgroundSend_dark:2131558480, style:selectorOverlayBackgroundStory_dark:2131558482, style:selectorOverlayBackgroundText_dark:2131558484, style:muteicon_dark:2131558447, style:contextPopupStyle_dark:2131558426, color:white:2131034221]
+style:NewsBlurDarkTheme:2131558401 => [style:actionbar_dark:2131558415, style:expandableListView_dark:2131558430, style:selectorFolderBackground_dark:2131558472, style:selectorFeedBackground_dark:2131558469, style:feedRowNeutCountText_dark:2131558434, style:actionbarBackground_dark:2131558418, style:listBackground_dark:2131558445, style:itemBackground_dark:2131558438, style:readingBackground_dark:2131558456, style:defaultText_dark:2131558428, style:linkText_dark:2131558443, style:storySnippetText_dark:2131558503, style:storyDateText_dark:2131558499, style:storyFeedTitleText_dark:2131558501, style:selectorStoryBackground_dark:2131558487, style:rowItemHeaderBackground_dark:2131558467, style:readingItemMetadata_dark:2131558458, style:tag_dark:2131558505, style:actionButtons_dark:2131558412, style:storyButtons_dark:2131558494, style:shareBarBackground_dark:2131558490, style:shareBarText_dark:2131558492, style:commentsHeader_dark:2131558424, style:rowBorderTop_dark:2131558464, style:rowBorderBottom_dark:2131558461, style:profileCount_dark:2131558453, style:profileActivityList_dark:2131558450, style:itemHeaderDivider_dark:2131558441, style:storyCommentDivider_dark:2131558497, style:activityDetailsPager_dark:2131558421, style:explainerText_dark:2131558432, style:toggleText_dark:2131558507, style:selectorOverlayBackgroundLeft_dark:2131558474, style:selectorOverlayBackgroundRight_dark:2131558476, style:selectorOverlayBackgroundRightDone_dark:2131558478, style:selectorOverlayBackgroundSend_dark:2131558480, style:selectorOverlayBackgroundStory_dark:2131558482, style:selectorOverlayBackgroundText_dark:2131558484, style:muteicon_dark:2131558447, style:contextPopupStyle_dark:2131558426, color:white:2131034221]
+style:NewsBlurTheme:2131558402 => [style:actionbar:2131558413, style:expandableListView:2131558429, style:selectorFolderBackground:2131558470, style:selectorFeedBackground:2131558468, style:feedRowNeutCountText:2131558433, style:actionbarBackground:2131558416, style:listBackground:2131558444, style:itemBackground:2131558436, style:readingBackground:2131558454, style:defaultText:2131558427, style:linkText:2131558442, style:storySnippetText:2131558502, style:storyDateText:2131558498, style:storyFeedTitleText:2131558500, style:selectorStoryBackground:2131558485, style:rowItemHeaderBackground:2131558465, style:readingItemMetadata:2131558457, style:tag:2131558504, style:actionButtons:2131558411, style:storyButtons:2131558493, style:shareBarBackground:2131558488, style:shareBarText:2131558491, style:commentsHeader:2131558422, style:rowBorderTop:2131558462, style:rowBorderBottom:2131558459, style:profileCount:2131558451, style:profileActivityList:2131558448, style:itemHeaderDivider:2131558439, style:storyCommentDivider:2131558495, style:activityDetailsPager:2131558419, style:explainerText:2131558431, style:toggleText:2131558506, style:selectorOverlayBackgroundLeft:2131558473, style:selectorOverlayBackgroundRight:2131558475, style:selectorOverlayBackgroundRightDone:2131558477, style:selectorOverlayBackgroundSend:2131558479, style:selectorOverlayBackgroundStory:2131558481, style:selectorOverlayBackgroundText:2131558483, style:muteicon:2131558446, style:contextPopupStyle:2131558425, color:black:2131034114]
+style:TextAppearance_Compat_Notification_Info:2131558404 => [style:TextAppearance_Compat_Notification:2131558403, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:TextAppearance_Compat_Notification_Line2:2131558405 => [style:TextAppearance_Compat_Notification_Info:2131558404]
+style:TextAppearance_Compat_Notification_Time:2131558406 => [style:TextAppearance_Compat_Notification:2131558403, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:Widget_Compat_NotificationActionContainer:2131558408 => [drawable:notification_action_background:2131165293]
+style:Widget_Compat_NotificationActionText:2131558409 => [color:secondary_text_default_material_light:2131034198, dimen:notification_action_text_size:2131099660]
+style:actionButtons:2131558411 => [color:button_text:2131034121, drawable:button_background:2131165194]
+style:actionButtons_dark:2131558412 => [style:actionButtons:2131558411, color:button_text_dark:2131034122, drawable:button_background_dark:2131165195]
+style:actionbar:2131558413 => [color:bar_background:2131034112]
+style:actionbar_black:2131558414 => [color:black:2131034114]
+style:actionbar_dark:2131558415 => [color:dark_bar_background:2131034127]
+style:actionbarBackground:2131558416 => [color:bar_background:2131034112]
+style:actionbarBackground_black:2131558417 => [style:actionbarBackground:2131558416, color:black:2131034114]
+style:actionbarBackground_dark:2131558418 => [style:actionbarBackground:2131558416, color:dark_bar_background:2131034127]
+style:activityDetailsPager:2131558419 => [drawable:gradient_background_default:2131165252, color:text:2131034218]
+style:activityDetailsPager_black:2131558420 => [style:activityDetailsPager:2131558419, drawable:black_gradient_background_default:2131165189, color:dark_text:2131034148]
+style:activityDetailsPager_dark:2131558421 => [style:activityDetailsPager:2131558419, drawable:dark_gradient_background_default:2131165228, color:dark_text:2131034148]
+style:commentsHeader:2131558422 => [drawable:gradient_background_default:2131165252, color:text:2131034218]
+style:commentsHeader_black:2131558423 => [style:commentsHeader:2131558422, drawable:black_gradient_background_default:2131165189, color:gray55:2131034162]
+style:commentsHeader_dark:2131558424 => [style:commentsHeader:2131558422, drawable:dark_gradient_background_default:2131165228, color:gray55:2131034162]
+style:defaultText:2131558427 => [color:linkblue:2131034177, color:text:2131034218]
+style:defaultText_dark:2131558428 => [style:defaultText:2131558427, color:dark_linkblue:2131034138, color:white:2131034221]
+style:expandableListView:2131558429 => [drawable:list_background:2131165285]
+style:expandableListView_dark:2131558430 => [drawable:dark_list_background:2131165229]
+style:explainerText:2131558431 => [color:gray55:2131034162]
+style:explainerText_dark:2131558432 => [style:explainerText:2131558431, color:dark_text:2131034148]
+style:feedRowNeutCountText:2131558433 => [color:white:2131034221]
+style:feedRowNeutCountText_dark:2131558434 => [style:feedRowNeutCountText:2131558433, color:black:2131034114]
+style:initStyle:2131558435 => [color:transparent:2131034219]
+style:itemBackground:2131558436 => [color:item_background:2131034173]
+style:itemBackground_black:2131558437 => [style:itemBackground:2131558436, color:black:2131034114]
+style:itemBackground_dark:2131558438 => [style:itemBackground:2131558436, color:dark_item_background:2131034134]
+style:itemHeaderDivider:2131558439 => [drawable:divider_item_header:2131165237]
+style:itemHeaderDivider_black:2131558440 => [style:itemHeaderDivider:2131558439, drawable:black_divider_item_header:2131165187]
+style:itemHeaderDivider_dark:2131558441 => [style:itemHeaderDivider:2131558439, drawable:dark_divider_item_header:2131165223]
+style:linkText:2131558442 => [color:linkblue:2131034177]
+style:linkText_dark:2131558443 => [style:linkText:2131558442, color:dark_linkblue:2131034138]
+style:listBackground:2131558444 => [drawable:list_background:2131165285]
+style:listBackground_dark:2131558445 => [style:listBackground:2131558444, drawable:dark_list_background:2131165229]
+style:muteicon:2131558446 => [drawable:mute_white:2131165291]
+style:muteicon_dark:2131558447 => [style:muteicon:2131558446, drawable:mute_black:2131165290]
+style:profileActivityList:2131558448 => [color:item_background:2131034173, drawable:divider_light:2131165238]
+style:profileActivityList_black:2131558449 => [style:profileActivityList:2131558448, color:black:2131034114, drawable:divider_dark:2131165236]
+style:profileActivityList_dark:2131558450 => [style:profileActivityList:2131558448, color:dark_item_background:2131034134, drawable:divider_dark:2131165236]
+style:profileCount:2131558451 => [color:item_background:2131034173, color:text:2131034218]
+style:profileCount_black:2131558452 => [style:profileCount:2131558451, color:black:2131034114, color:white:2131034221]
+style:profileCount_dark:2131558453 => [style:profileCount:2131558451, color:dark_item_background:2131034134, color:white:2131034221]
+style:readingBackground:2131558454 => [color:white:2131034221]
+style:readingBackground_black:2131558455 => [style:readingBackground:2131558454, color:black:2131034114]
+style:readingBackground_dark:2131558456 => [style:readingBackground:2131558454, color:dark_item_background:2131034134]
+style:readingItemMetadata:2131558457 => [color:half_darkgray:2131034170]
+style:readingItemMetadata_dark:2131558458 => [style:readingItemMetadata:2131558457, color:half_white:2131034172]
+style:rowBorderBottom:2131558459 => [color:row_border_bottom:2131034194]
+style:rowBorderBottom_black:2131558460 => [style:rowBorderBottom:2131558459, color:black_row_border_bottom:2131034119]
+style:rowBorderBottom_dark:2131558461 => [style:rowBorderBottom:2131558459, color:dark_row_border_bottom:2131034139]
+style:rowBorderTop:2131558462 => [color:row_border_top:2131034195]
+style:rowBorderTop_black:2131558463 => [style:rowBorderTop:2131558462, color:black_row_border_top:2131034120]
+style:rowBorderTop_dark:2131558464 => [style:rowBorderTop:2131558462, color:dark_row_border_top:2131034140]
+style:rowItemHeaderBackground:2131558465 => [drawable:row_item_header_background:2131165307]
+style:rowItemHeaderBackground_black:2131558466 => [style:rowItemHeaderBackground:2131558465, drawable:black_row_item_header_background:2131165190]
+style:rowItemHeaderBackground_dark:2131558467 => [style:rowItemHeaderBackground:2131558465, drawable:dark_row_item_header_background:2131165230]
+style:selectorFeedBackground:2131558468 => [drawable:selector_feed_background:2131165309]
+style:selectorFeedBackground_dark:2131558469 => [style:selectorFeedBackground:2131558468, drawable:dark_selector_feed_background:2131165231]
+style:selectorFolderBackground:2131558470 => [drawable:selector_folder_background:2131165310]
+style:selectorFolderBackground_black:2131558471 => [style:selectorFolderBackground:2131558470, drawable:black_selector_folder_background:2131165191]
+style:selectorFolderBackground_dark:2131558472 => [style:selectorFolderBackground:2131558470, drawable:dark_selector_folder_background:2131165232]
+style:selectorOverlayBackgroundLeft:2131558473 => [drawable:selector_overlay_bg_left:2131165317]
+style:selectorOverlayBackgroundLeft_dark:2131558474 => [style:selectorOverlayBackgroundLeft:2131558473, drawable:selector_overlay_bg_dark_left:2131165311]
+style:selectorOverlayBackgroundRight:2131558475 => [drawable:selector_overlay_bg_right:2131165318, color:button_text:2131034121]
+style:selectorOverlayBackgroundRight_dark:2131558476 => [style:selectorOverlayBackgroundRight:2131558475, drawable:selector_overlay_bg_dark_right:2131165312, color:button_text_dark:2131034122]
+style:selectorOverlayBackgroundRightDone:2131558477 => [drawable:selector_overlay_bg_right_done:2131165319, color:button_text:2131034121]
+style:selectorOverlayBackgroundRightDone_dark:2131558478 => [style:selectorOverlayBackgroundRightDone:2131558477, drawable:selector_overlay_bg_dark_right_done:2131165313, color:button_text_dark:2131034122]
+style:selectorOverlayBackgroundSend:2131558479 => [drawable:selector_overlay_bg_send:2131165320]
+style:selectorOverlayBackgroundSend_dark:2131558480 => [style:selectorOverlayBackgroundSend:2131558479, drawable:selector_overlay_bg_dark_send:2131165314]
+style:selectorOverlayBackgroundStory:2131558481 => [drawable:selector_overlay_bg_story:2131165321, color:button_text:2131034121]
+style:selectorOverlayBackgroundStory_dark:2131558482 => [style:selectorOverlayBackgroundStory:2131558481, drawable:selector_overlay_bg_dark_story:2131165315, color:button_text_dark:2131034122]
+style:selectorOverlayBackgroundText:2131558483 => [drawable:selector_overlay_bg_text:2131165322, color:button_text:2131034121]
+style:selectorOverlayBackgroundText_dark:2131558484 => [style:selectorOverlayBackgroundText:2131558483, drawable:selector_overlay_bg_dark_text:2131165316, color:button_text_dark:2131034122]
+style:selectorStoryBackground:2131558485 => [drawable:selector_story_background:2131165323]
+style:selectorStoryBackground_black:2131558486 => [style:selectorStoryBackground:2131558485, drawable:black_selector_story_background:2131165192]
+style:selectorStoryBackground_dark:2131558487 => [style:selectorStoryBackground:2131558485, drawable:dark_selector_story_background:2131165233]
+style:shareBarBackground:2131558488 => [color:share_bar_background:2131034199]
+style:shareBarBackground_black:2131558489 => [style:shareBarBackground:2131558488, color:black:2131034114]
+style:shareBarBackground_dark:2131558490 => [style:shareBarBackground:2131558488, color:dark_share_bar_background:2131034141]
+style:shareBarText:2131558491 => [color:gray55:2131034162, color:white:2131034221]
+style:shareBarText_dark:2131558492 => [style:shareBarText:2131558491, color:gray55:2131034162]
+style:storyButtons:2131558493 => [color:button_text:2131034121, drawable:button_background:2131165194]
+style:storyButtons_dark:2131558494 => [style:storyButtons:2131558493, color:button_text_dark:2131034122, drawable:button_background_dark:2131165195]
+style:storyCommentDivider:2131558495 => [color:story_comment_divider:2131034205]
+style:storyCommentDivider_black:2131558496 => [style:storyCommentDivider:2131558495, color:gray07:2131034156]
+style:storyCommentDivider_dark:2131558497 => [style:storyCommentDivider:2131558495, color:dark_story_comment_divider:2131034144]
+style:storyDateText:2131558498 => [color:story_date_text:2131034207]
+style:storyDateText_dark:2131558499 => [style:storyDateText:2131558498, color:dark_story_date_text:2131034146]
+style:storyFeedTitleText:2131558500 => [color:story_feed_title_text:2131034208]
+style:storyFeedTitleText_dark:2131558501 => [style:storyFeedTitleText:2131558500, color:dark_story_feed_title_text:2131034147]
+style:storySnippetText:2131558502 => [color:story_content_text:2131034206]
+style:storySnippetText_dark:2131558503 => [style:storySnippetText:2131558502, color:dark_story_content_text:2131034145]
+style:tag:2131558504 => [color:gray55:2131034162, drawable:tag_background_neutral:2131165329]
+style:tag_dark:2131558505 => [style:tag:2131558504, color:tag_gray_shadow:2131034211, drawable:tag_background_dark:2131165327]
+style:toggleText:2131558506 => [color:gray55:2131034162]
+style:toggleText_dark:2131558507 => [style:toggleText:2131558506, color:gray55:2131034162]
+xml:activity_settings:2131689472 => [string:settings_cat_offline:2131493104, string:settings_enable_offline_sum:2131493112, string:settings_enable_offline:2131493111, string:settings_enable_image_prefetch_sum:2131493109, string:settings_enable_image_prefetch:2131493108, string:default_network_select_value:2131492894, string:menu_network_select:2131493004, array:default_network_select_entries:2130837510, array:default_network_select_values:2130837511, string:menu_network_select_sum:2131493008, string:settings_keep_old_stories_sum:2131493120, string:settings_keep_old_stories:2131493119, string:default_cache_age_select_value:2131492890, string:menu_cache_age_select:2131492979, array:cache_age_select_entries:2130837504, array:cache_age_select_values:2130837505, string:menu_cache_age_select_sum:2131492984, string:settings_cat_feed_list:2131493103, string:settings_enable_row_global_shared_sum:2131493114, string:settings_enable_row_global_shared:2131493113, string:settings_enable_row_infrequent_stories_sum:2131493116, string:settings_enable_row_infrequent_stories:2131493115, string:settings_cat_story_list:2131493105, string:default_story_order_value:2131492896, string:menu_story_order:2131493030, array:default_story_order_entries:2130837514, array:default_story_order_values:2130837515, string:default_read_filter_value:2131492895, string:menu_read_filter:2131493019, array:default_read_filter_entries:2130837512, array:default_read_filter_values:2130837513, string:confirm_mark_all_read_value:2131492887, string:settings_confirm_mark_all_read:2131493106, array:confirm_mark_all_read_entries:2130837506, array:confirm_mark_all_read_values:2130837507, string:settings_confirm_mark_range_read:2131493107, string:settings_auto_open_first_unread_sum:2131493102, string:settings_auto_open_first_unread:2131493101, string:settings_show_content_preview:2131493127, string:settings_show_thumbnails:2131493129, string:settings_mark_read_on_scroll_sum:2131493123, string:settings_mark_read_on_scroll:2131493122, string:settings_reading:2131493125, string:default_font_value:2131492893, string:font:2131492931, array:default_font_entries:2130837508, array:default_font_values:2130837509, string:settings_immersive_enter_single_tap:2131493118, string:default_volume_key_navigation_value:2131492897, string:volume_key_navigation:2131493168, array:volume_key_navigation_entries:2130837523, array:volume_key_navigation_values:2130837524, string:settings_social:2131493130, string:settings_show_public_comments:2131493128, string:settings_gestures:2131493117, string:ltr_gesture_action_value:2131492977, string:settings_ltr_gesture_action:2131493121, array:ltr_gesture_action_entries:2130837516, array:ltr_gesture_action_values:2130837517, string:rtl_gesture_action_value:2131493093, string:settings_rtl_gesture_action:2131493126, array:rtl_gesture_action_entries:2130837521, array:rtl_gesture_action_values:2130837522, string:settings_notifications:2131493124, string:settings_enable_notifications:2131493110]
+xml:searchable:2131689475 => [string:feed_search_hint:2131492928, string:newsblur:2131493040]
+
+The root reachable resources are:
+anim:rotate:2130771968,
+   anim:slide_in_from_left:2130771969,
+   anim:slide_in_from_right:2130771970,
+   anim:slide_out_to_left:2130771971,
+   anim:slide_out_to_right:2130771972,
+   anim:text_down:2130771973,
+   anim:text_up:2130771974,
+   array:cache_age_select_entries:2130837504,
+   array:cache_age_select_values:2130837505,
+   array:default_font_entries:2130837508,
+   array:default_font_values:2130837509,
+   array:default_network_select_entries:2130837510,
+   array:default_network_select_values:2130837511,
+   array:default_read_filter_entries:2130837512,
+   array:default_read_filter_values:2130837513,
+   array:default_story_order_entries:2130837514,
+   array:default_story_order_values:2130837515,
+   array:ltr_gesture_action_entries:2130837516,
+   array:ltr_gesture_action_values:2130837517,
+   array:mark_all_read_options:2130837518,
+   array:mark_newer_read_options:2130837519,
+   array:mark_older_read_options:2130837520,
+   array:rtl_gesture_action_entries:2130837521,
+   array:rtl_gesture_action_values:2130837522,
+   array:volume_key_navigation_entries:2130837523,
+   array:volume_key_navigation_values:2130837524,
+   attr:actionbarBackground:2130903041,
+   attr:activityDetailsPager:2130903042,
+   attr:addedHeight:2130903043,
+   attr:commentsHeader:2130903044,
+   attr:defaultText:2130903046,
+   attr:feedRowNeutCountText:2130903054,
+   attr:keylines:2130903068,
+   attr:linkText:2130903076,
+   attr:listBackground:2130903077,
+   attr:readingBackground:2130903081,
+   attr:readingItemMetadata:2130903082,
+   attr:selectorFeedBackground:2130903087,
+   attr:selectorFolderBackground:2130903088,
+   attr:selectorOverlayBackgroundLeft:2130903089,
+   attr:selectorOverlayBackgroundRight:2130903090,
+   attr:selectorOverlayBackgroundRightDone:2130903091,
+   attr:selectorOverlayBackgroundSend:2130903092,
+   attr:selectorOverlayBackgroundStory:2130903093,
+   attr:selectorOverlayBackgroundText:2130903094,
+   attr:selectorStoryBackground:2130903095,
+   attr:storyButtons:2130903101,
+   attr:storyCommentDivider:2130903102,
+   attr:storyDateText:2130903103,
+   attr:storyFeedTitleText:2130903104,
+   attr:storySnippetText:2130903105,
+   attr:tag:2130903106,
+   color:black:2131034114,
+   color:black_folder_background_end:2131034115,
+   color:black_folder_background_start:2131034116,
+   color:black_item_header_background_end:2131034117,
+   color:black_item_header_background_start:2131034118,
+   color:black_row_border_bottom:2131034119,
+   color:black_row_border_top:2131034120,
+   color:dark_bar_background:2131034127,
+   color:dark_feed_background_selected_end:2131034128,
+   color:dark_feed_background_selected_start:2131034129,
+   color:dark_folder_background_end:2131034130,
+   color:dark_folder_background_selected_end:2131034131,
+   color:dark_folder_background_selected_start:2131034132,
+   color:dark_folder_background_start:2131034133,
+   color:dark_item_background:2131034134,
+   color:dark_item_header_background_end:2131034135,
+   color:dark_item_header_background_start:2131034136,
+   color:dark_item_header_border:2131034137,
+   color:dark_linkblue:2131034138,
+   color:dark_row_border_bottom:2131034139,
+   color:dark_row_border_top:2131034140,
+   color:dark_share_bar_background:2131034141,
+   color:dark_story_background:2131034142,
+   color:dark_story_background_selected:2131034143,
+   color:dark_story_comment_divider:2131034144,
+   color:dark_story_content_text:2131034145,
+   color:dark_story_date_text:2131034146,
+   color:dark_story_feed_title_text:2131034147,
+   color:dark_text:2131034148,
+   color:feed_background_selected_end:2131034150,
+   color:feed_background_selected_start:2131034151,
+   color:half_black:2131034169,
+   color:half_white:2131034172,
+   color:linkblue:2131034177,
+   color:negative:2131034179,
+   color:notification_action_color_filter:2131034183,
+   color:notification_icon_bg_color:2131034184,
+   color:positive:2131034185,
+   color:progress_circle_complete:2131034187,
+   color:progress_circle_remaining:2131034188,
+   color:refresh_1:2131034189,
+   color:refresh_2:2131034190,
+   color:refresh_3:2131034191,
+   color:refresh_4:2131034192,
+   color:secondary_text_default_material_light:2131034198,
+   color:story_author_text:2131034202,
+   color:story_background:2131034203,
+   color:story_background_selected:2131034204,
+   color:story_comment_divider:2131034205,
+   color:story_content_text:2131034206,
+   color:story_date_text:2131034207,
+   color:story_feed_title_text:2131034208,
+   color:tag_bg_dark:2131034209,
+   color:tag_gray:2131034210,
+   color:tag_gray_shadow:2131034211,
+   color:tag_green:2131034212,
+   color:tag_green_shadow:2131034213,
+   color:tag_green_text:2131034214,
+   color:tag_red:2131034215,
+   color:tag_red_shadow:2131034216,
+   color:tag_red_text:2131034217,
+   color:text:2131034218,
+   color:white:2131034221,
+   dimen:fastscroll_default_thickness:2131099653,
+   dimen:fastscroll_margin:2131099654,
+   dimen:fastscroll_minimum_range:2131099655,
+   dimen:notification_action_icon_size:2131099659,
+   dimen:notification_action_text_size:2131099660,
+   dimen:notification_big_circle_margin:2131099661,
+   dimen:notification_content_margin_start:2131099662,
+   dimen:notification_large_icon_height:2131099663,
+   dimen:notification_large_icon_width:2131099664,
+   dimen:notification_main_column_padding_top:2131099665,
+   dimen:notification_media_narrow_margin:2131099666,
+   dimen:notification_right_icon_size:2131099667,
+   dimen:notification_right_side_padding_top:2131099668,
+   dimen:notification_small_icon_background_padding:2131099669,
+   dimen:notification_small_icon_size_as_large:2131099670,
+   dimen:notification_subtext_size:2131099671,
+   dimen:notification_top_pad:2131099672,
+   dimen:notification_top_pad_large_text:2131099673,
+   drawable:ak_icon_allstories:2131165184,
+   drawable:ak_icon_blurblogs:2131165185,
+   drawable:ak_icon_global:2131165186,
+   drawable:black_divider_item_header:2131165187,
+   drawable:black_folder_background_default:2131165188,
+   drawable:black_gradient_background_default:2131165189,
+   drawable:black_row_item_header_background:2131165190,
+   drawable:black_selector_folder_background:2131165191,
+   drawable:black_selector_story_background:2131165192,
+   drawable:black_story_background_default:2131165193,
+   drawable:clock:2131165222,
+   drawable:dark_divider_item_header:2131165223,
+   drawable:dark_feed_background_default:2131165224,
+   drawable:dark_feed_background_highlight:2131165225,
+   drawable:dark_folder_background_default:2131165226,
+   drawable:dark_folder_background_highlight:2131165227,
+   drawable:dark_gradient_background_default:2131165228,
+   drawable:dark_list_background:2131165229,
+   drawable:dark_row_item_header_background:2131165230,
+   drawable:dark_selector_feed_background:2131165231,
+   drawable:dark_selector_folder_background:2131165232,
+   drawable:dark_selector_story_background:2131165233,
+   drawable:dark_story_background_default:2131165234,
+   drawable:dark_story_background_highlight:2131165235,
+   drawable:divider_dark:2131165236,
+   drawable:divider_light:2131165238,
+   drawable:feed_background_default:2131165241,
+   drawable:feed_background_highlight:2131165242,
+   drawable:g_icn_focus:2131165246,
+   drawable:g_icn_folder:2131165247,
+   drawable:g_icn_folder_rss:2131165248,
+   drawable:g_icn_hidden:2131165249,
+   drawable:g_icn_unread:2131165250,
+   drawable:g_icn_unread_double:2131165251,
+   drawable:ic_clear_gray55:2131165259,
+   drawable:ic_dislike_active:2131165260,
+   drawable:ic_dislike_gray55:2131165261,
+   drawable:ic_like_active:2131165263,
+   drawable:ic_like_gray55:2131165264,
+   drawable:ic_star_active:2131165275,
+   drawable:indicator_collapsed:2131165281,
+   drawable:indicator_expanded:2131165282,
+   drawable:intel_toggle_background_selector:2131165283,
+   drawable:list_background:2131165285,
+   drawable:location_icon:2131165286,
+   drawable:logo:2131165287,
+   drawable:logo_monochrome:2131165288,
+   drawable:notification_action_background:2131165293,
+   drawable:notification_bg:2131165294,
+   drawable:notification_bg_low:2131165295,
+   drawable:notification_bg_low_normal:2131165296,
+   drawable:notification_bg_low_pressed:2131165297,
+   drawable:notification_bg_normal:2131165298,
+   drawable:notification_bg_normal_pressed:2131165299,
+   drawable:notification_icon_background:2131165300,
+   drawable:notification_template_icon_bg:2131165301,
+   drawable:notification_template_icon_low_bg:2131165302,
+   drawable:notification_tile_bg:2131165303,
+   drawable:selector_feed_background:2131165309,
+   drawable:selector_folder_background:2131165310,
+   drawable:selector_overlay_bg_dark_left:2131165311,
+   drawable:selector_overlay_bg_dark_right:2131165312,
+   drawable:selector_overlay_bg_dark_right_done:2131165313,
+   drawable:selector_overlay_bg_dark_send:2131165314,
+   drawable:selector_overlay_bg_dark_story:2131165315,
+   drawable:selector_overlay_bg_dark_text:2131165316,
+   drawable:selector_overlay_bg_left:2131165317,
+   drawable:selector_overlay_bg_right:2131165318,
+   drawable:selector_overlay_bg_right_done:2131165319,
+   drawable:selector_overlay_bg_send:2131165320,
+   drawable:selector_overlay_bg_story:2131165321,
+   drawable:selector_overlay_bg_text:2131165322,
+   drawable:selector_story_background:2131165323,
+   drawable:story_background_default:2131165324,
+   drawable:story_background_highlight:2131165325,
+   drawable:tag:2131165326,
+   drawable:tag_background_dark:2131165327,
+   drawable:tag_background_negative:2131165328,
+   drawable:tag_background_neutral:2131165329,
+   drawable:tag_background_positive:2131165330,
+   drawable:transparent:2131165337,
+   drawable:world:2131165340,
+   id:actionbar_icon:2131230724,
+   id:actionbar_text:2131230725,
+   id:activity_details_pager:2131230727,
+   id:activity_itemlist_container:2131230728,
+   id:activity_reading_container:2131230729,
+   id:addsocial_autofollow_checkbox:2131230730,
+   id:addsocial_autofollow_text:2131230731,
+   id:addsocial_connect_text:2131230732,
+   id:addsocial_container:2131230733,
+   id:addsocial_facebook:2131230734,
+   id:addsocial_facebook_text:2131230735,
+   id:addsocial_twitter:2131230736,
+   id:addsocial_twitter_text:2131230737,
+   id:all:2131230738,
+   id:choose_folders_list:2131230746,
+   id:choosefolders_foldername:2131230747,
+   id:comment_by:2131230751,
+   id:comment_divider:2131230752,
+   id:comment_favourite_avatars:2131230753,
+   id:comment_favourite_icon:2131230754,
+   id:comment_field:2131230755,
+   id:comment_location:2131230756,
+   id:comment_replies_container:2131230757,
+   id:comment_reply_icon:2131230758,
+   id:comment_shareddate:2131230759,
+   id:comment_sharesource_image:2131230760,
+   id:comment_text:2131230761,
+   id:comment_user_image:2131230762,
+   id:comment_user_reshare_image:2131230763,
+   id:comment_username:2131230764,
+   id:custom_view_container:2131230765,
+   id:empty_view:2131230766,
+   id:empty_view_image:2131230767,
+   id:empty_view_loading_throb:2131230768,
+   id:empty_view_text:2131230769,
+   id:existing_author_intel_container:2131230771,
+   id:existing_feed_intel_container:2131230772,
+   id:existing_tag_intel_container:2131230773,
+   id:existing_title_intel_container:2131230774,
+   id:feed_name_field:2131230775,
+   id:feed_result_list:2131230776,
+   id:feedlist_search_query:2131230777,
+   id:fleuron:2131230781,
+   id:folderfeed_list:2131230782,
+   id:footer_view_inner:2131230783,
+   id:fragment_feedintelligenceselector:2131230785,
+   id:fragment_intelligence_statebutton:2131230786,
+   id:intel_author_header:2131230790,
+   id:intel_feed_header:2131230791,
+   id:intel_row_clear:2131230792,
+   id:intel_row_dislike:2131230793,
+   id:intel_row_label:2131230794,
+   id:intel_row_like:2131230795,
+   id:intel_tag_header:2131230796,
+   id:intel_title_clear:2131230797,
+   id:intel_title_dislike:2131230798,
+   id:intel_title_header:2131230799,
+   id:intel_title_like:2131230800,
+   id:intel_title_selection:2131230801,
+   id:item_feed_border:2131230803,
+   id:itemgridfragment_grid:2131230805,
+   id:itemlist_loading_throb:2131230806,
+   id:itemlist_search_query:2131230807,
+   id:itemlist_sync_status:2131230808,
+   id:left:2131230809,
+   id:loading_throb:2131230812,
+   id:login_addsocial_nextstep:2131230813,
+   id:login_button:2131230814,
+   id:login_change_to_login:2131230815,
+   id:login_change_to_register:2131230816,
+   id:login_container:2131230817,
+   id:login_custom_server:2131230818,
+   id:login_custom_server_value:2131230819,
+   id:login_feed_progress:2131230820,
+   id:login_forgot_password:2131230822,
+   id:login_logging_in:2131230823,
+   id:login_logging_in_progress:2131230824,
+   id:login_password:2131230825,
+   id:login_profile_picture:2131230826,
+   id:login_progress_container:2131230827,
+   id:login_retrieving_feeds:2131230828,
+   id:login_username:2131230829,
+   id:login_viewswitcher:2131230830,
+   id:main_add_button:2131230831,
+   id:main_menu_button:2131230832,
+   id:main_profile_button:2131230833,
+   id:main_sync_status:2131230834,
+   id:main_unread_count_neut_text:2131230837,
+   id:main_unread_count_posi_text:2131230839,
+   id:main_user_image:2131230840,
+   id:main_user_name:2131230841,
+   id:menu_add_feed:2131230842,
+   id:menu_choose_folders:2131230843,
+   id:menu_delete_feed:2131230844,
+   id:menu_feedback:2131230845,
+   id:menu_feedback_email:2131230846,
+   id:menu_feedback_post:2131230847,
+   id:menu_font:2131230848,
+   id:menu_infrequent_cutoff:2131230849,
+   id:menu_instafetch_feed:2131230850,
+   id:menu_intel:2131230851,
+   id:menu_list_style_grid_c:2131230852,
+   id:menu_list_style_grid_f:2131230853,
+   id:menu_list_style_grid_m:2131230854,
+   id:menu_list_style_list:2131230855,
+   id:menu_loginas:2131230856,
+   id:menu_logout:2131230857,
+   id:menu_mark_all_as_read:2131230858,
+   id:menu_mark_feed_as_read:2131230859,
+   id:menu_mark_folder_as_read:2131230860,
+   id:menu_mark_newer_stories_as_read:2131230861,
+   id:menu_mark_older_stories_as_read:2131230862,
+   id:menu_mark_story_as_read:2131230863,
+   id:menu_mark_story_as_unread:2131230864,
+   id:menu_mute_feed:2131230865,
+   id:menu_mute_folder:2131230866,
+   id:menu_notifications:2131230867,
+   id:menu_notifications_disable:2131230868,
+   id:menu_notifications_focus:2131230869,
+   id:menu_notifications_unread:2131230870,
+   id:menu_read_filter:2131230871,
+   id:menu_reading_fullscreen:2131230872,
+   id:menu_reading_markunread:2131230873,
+   id:menu_reading_original:2131230874,
+   id:menu_reading_save:2131230875,
+   id:menu_reading_sharenewsblur:2131230876,
+   id:menu_refresh:2131230877,
+   id:menu_rename_feed:2131230878,
+   id:menu_save_story:2131230879,
+   id:menu_search:2131230880,
+   id:menu_search_feeds:2131230881,
+   id:menu_search_stories:2131230882,
+   id:menu_send_story:2131230883,
+   id:menu_send_story_full:2131230884,
+   id:menu_settings:2131230885,
+   id:menu_story_order:2131230887,
+   id:menu_textsize:2131230888,
+   id:menu_theme_black:2131230890,
+   id:menu_theme_dark:2131230891,
+   id:menu_theme_light:2131230892,
+   id:menu_unfollow:2131230893,
+   id:menu_unmute_feed:2131230894,
+   id:menu_unmute_folder:2131230895,
+   id:menu_unsave_story:2131230896,
+   id:none:2131230897,
+   id:normal:2131230898,
+   id:notification_background:2131230899,
+   id:notification_main_column:2131230900,
+   id:notification_main_column_container:2131230901,
+   id:profile_bio:2131230902,
+   id:profile_details:2131230903,
+   id:profile_details_activitylist:2131230904,
+   id:profile_follow_button:2131230905,
+   id:profile_followercount:2131230906,
+   id:profile_followingcount:2131230907,
+   id:profile_location:2131230908,
+   id:profile_location_icon:2131230909,
+   id:profile_picture:2131230910,
+   id:profile_sharedcount:2131230911,
+   id:profile_unfollow_button:2131230912,
+   id:profile_username:2131230913,
+   id:profile_website:2131230914,
+   id:progress_text:2131230915,
+   id:radio_15:2131230916,
+   id:radio_30:2131230917,
+   id:radio_5:2131230918,
+   id:radio_60:2131230919,
+   id:radio_90:2131230920,
+   id:radio_all:2131230921,
+   id:radio_anonymous:2131230922,
+   id:radio_chronicle:2131230923,
+   id:radio_default:2131230924,
+   id:radio_gotham:2131230925,
+   id:radio_newest:2131230926,
+   id:radio_noto_sans:2131230927,
+   id:radio_noto_serif:2131230928,
+   id:radio_oldest:2131230929,
+   id:radio_open_sans_condensed:2131230930,
+   id:radio_unread:2131230931,
+   id:radio_whitney:2131230932,
+   id:reading_empty_view_text:2131230933,
+   id:reading_feed_icon:2131230934,
+   id:reading_feed_title:2131230935,
+   id:reading_friend_comment_container:2131230936,
+   id:reading_friend_comment_header:2131230937,
+   id:reading_friend_comment_total:2131230938,
+   id:reading_friend_emptyshare_container:2131230939,
+   id:reading_friend_emptyshare_header:2131230940,
+   id:reading_friend_emptyshare_total:2131230941,
+   id:reading_item_authors:2131230942,
+   id:reading_item_date:2131230943,
+   id:reading_item_tags:2131230944,
+   id:reading_item_title:2131230945,
+   id:reading_overlay_left:2131230946,
+   id:reading_overlay_progress:2131230947,
+   id:reading_overlay_progress_left:2131230948,
+   id:reading_overlay_progress_right:2131230949,
+   id:reading_overlay_right:2131230950,
+   id:reading_overlay_send:2131230951,
+   id:reading_overlay_text:2131230952,
+   id:reading_pager:2131230953,
+   id:reading_public_comment_container:2131230954,
+   id:reading_public_comment_header:2131230955,
+   id:reading_public_comment_total:2131230956,
+   id:reading_scrollview:2131230957,
+   id:reading_share_bar:2131230958,
+   id:reading_social_commentimages:2131230959,
+   id:reading_social_shareimages:2131230960,
+   id:reading_sync_status:2131230961,
+   id:reading_textloading:2131230962,
+   id:reading_textmodefailed:2131230963,
+   id:reading_webview:2131230964,
+   id:register_viewswitcher:2131230965,
+   id:registering_next_1:2131230966,
+   id:registerprogress_logo:2131230967,
+   id:registration_button:2131230968,
+   id:registration_email:2131230970,
+   id:registration_password:2131230971,
+   id:registration_username:2131230972,
+   id:reply_edit_icon:2131230974,
+   id:reply_field:2131230975,
+   id:reply_shareddate:2131230976,
+   id:reply_text:2131230977,
+   id:reply_user_image:2131230978,
+   id:reply_username:2131230979,
+   id:row_activity_icon:2131230983,
+   id:row_activity_text:2131230984,
+   id:row_activity_time:2131230985,
+   id:row_feedfavicon:2131230988,
+   id:row_feedfetching:2131230989,
+   id:row_feedmuteicon:2131230990,
+   id:row_feedname:2131230991,
+   id:row_feedneutral:2131230992,
+   id:row_feedpositive:2131230993,
+   id:row_feedsaved:2131230994,
+   id:row_folder_icon:2131230995,
+   id:row_folder_indicator:2131230996,
+   id:row_foldername:2131230997,
+   id:row_foldersum:2131230998,
+   id:row_foldersumneu:2131230999,
+   id:row_foldersumpos:2131231000,
+   id:row_foldersums:2131231001,
+   id:row_item_feed_header:2131231002,
+   id:row_result_address:2131231005,
+   id:row_result_feedicon:2131231007,
+   id:row_result_subscribercount:2131231008,
+   id:row_result_tagline:2131231009,
+   id:row_result_title:2131231010,
+   id:row_saved_tag_sum:2131231012,
+   id:row_socialfeed_icon:2131231013,
+   id:row_socialfeed_name:2131231014,
+   id:row_socialsumneu:2131231015,
+   id:row_socialsumpos:2131231016,
+   id:row_tag_name:2131231018,
+   id:save_story_button:2131231019,
+   id:share_bar_underline:2131231020,
+   id:share_story_button:2131231021,
+   id:shared_by:2131231022,
+   id:start:2131231023,
+   id:story_context_menu_button:2131231024,
+   id:story_item_author:2131231025,
+   id:story_item_content:2131231026,
+   id:story_item_date:2131231027,
+   id:story_item_favicon_borderbar_1:2131231028,
+   id:story_item_favicon_borderbar_2:2131231029,
+   id:story_item_feedicon:2131231030,
+   id:story_item_feedtitle:2131231031,
+   id:story_item_inteldot:2131231032,
+   id:story_item_inteldot_container:2131231033,
+   id:story_item_saved_icon:2131231034,
+   id:story_item_shared_icon:2131231035,
+   id:story_item_thumbnail:2131231036,
+   id:story_item_title:2131231037,
+   id:swipe_container:2131231038,
+   id:tag_text:2131231039,
+   id:tag_transition_group:2131231040,
+   id:text:2131231041,
+   id:text2:2131231042,
+   id:textSizeSlider:2131231043,
+   id:time:2131231044,
+   id:title:2131231045,
+   id:toggle_all:2131231046,
+   id:toggle_all_icon:2131231047,
+   id:toggle_all_text:2131231048,
+   id:toggle_focus:2131231049,
+   id:toggle_focus_icon:2131231050,
+   id:toggle_focus_text:2131231051,
+   id:toggle_saved:2131231052,
+   id:toggle_saved_icon:2131231053,
+   id:toggle_saved_text:2131231054,
+   id:toggle_some:2131231055,
+   id:toggle_some_icon:2131231056,
+   id:toggle_some_text:2131231057,
+   id:top_loading_throb:2131231059,
+   id:username_field:2131231060,
+   id:webcontainer:2131231061,
+   layout:actionbar_custom_icon:2131361792,
+   layout:activity_addfeedexternal:2131361793,
+   layout:activity_addsocial:2131361794,
+   layout:activity_feed_search:2131361795,
+   layout:activity_init:2131361796,
+   layout:activity_itemslist:2131361797,
+   layout:activity_login:2131361798,
+   layout:activity_loginprogress:2131361799,
+   layout:activity_main:2131361800,
+   layout:activity_profile:2131361801,
+   layout:activity_reading:2131361802,
+   layout:activity_webcontainer:2131361803,
+   layout:dialog_choosefolders:2131361804,
+   layout:dialog_rename_feed:2131361805,
+   layout:dialog_trainfeed:2131361806,
+   layout:dialog_trainstory:2131361807,
+   layout:fragment_addsocial:2131361808,
+   layout:fragment_folderfeedlist:2131361809,
+   layout:fragment_intelligenceselector:2131361810,
+   layout:fragment_itemgrid:2131361811,
+   layout:fragment_loadingitems:2131361812,
+   layout:fragment_loginprogress:2131361813,
+   layout:fragment_loginregister:2131361814,
+   layout:fragment_profileactivity:2131361815,
+   layout:fragment_profiledetails:2131361816,
+   layout:fragment_readingitem:2131361817,
+   layout:fragment_readingpager:2131361818,
+   layout:fragment_registerprogress:2131361819,
+   layout:include_comment:2131361820,
+   layout:include_intel_row:2131361821,
+   layout:include_reply:2131361824,
+   layout:infrequent_cutoff_dialog:2131361825,
+   layout:loginas_dialog:2131361826,
+   layout:notification_action:2131361827,
+   layout:notification_action_tombstone:2131361828,
+   layout:notification_template_custom_big:2131361829,
+   layout:notification_template_icon_group:2131361830,
+   layout:notification_template_part_chronometer:2131361831,
+   layout:notification_template_part_time:2131361832,
+   layout:readfilter_dialog:2131361834,
+   layout:readingfont_dialog:2131361835,
+   layout:reply_dialog:2131361836,
+   layout:row_activity:2131361837,
+   layout:row_all_shared_stories:2131361838,
+   layout:row_all_stories:2131361839,
+   layout:row_choosefolders:2131361840,
+   layout:row_feed:2131361841,
+   layout:row_feedresult:2131361842,
+   layout:row_fleuron:2131361843,
+   layout:row_folder:2131361844,
+   layout:row_global_shared_stories:2131361845,
+   layout:row_infrequent_stories:2131361846,
+   layout:row_loading_throbber:2131361847,
+   layout:row_read_stories:2131361848,
+   layout:row_saved_stories:2131361849,
+   layout:row_saved_tag:2131361850,
+   layout:row_socialfeed:2131361851,
+   layout:share_dialog:2131361852,
+   layout:state_toggle:2131361853,
+   layout:storyorder_dialog:2131361854,
+   layout:tag_view:2131361855,
+   layout:textsize_slider_dialog:2131361856,
+   layout:view_footer_tile:2131361857,
+   layout:view_story_row:2131361858,
+   layout:view_story_tile:2131361859,
+   menu:context_feed:2131427328,
+   menu:context_folder:2131427329,
+   menu:context_story_newest:2131427330,
+   menu:context_story_oldest:2131427331,
+   menu:itemslist:2131427332,
+   menu:main:2131427333,
+   menu:reading:2131427334,
+   menu:search:2131427335,
+   menu:story_context:2131427336,
+   string:add_facebook:2131492864,
+   string:add_feed_error:2131492865,
+   string:add_feed_message:2131492866,
+   string:add_friends:2131492867,
+   string:add_twitter:2131492868,
+   string:adding_feed_progress:2131492869,
+   string:alert_dialog_cancel:2131492870,
+   string:alert_dialog_done:2131492871,
+   string:alert_dialog_ok:2131492872,
+   string:alert_dialog_openimage:2131492873,
+   string:alert_dialog_openlink:2131492874,
+   string:all_shared_stories_row_title:2131492875,
+   string:all_shared_stories_title:2131492876,
+   string:all_stories:2131492877,
+   string:all_stories_row_title:2131492878,
+   string:all_stories_title:2131492879,
+   string:already_shared:2131492880,
+   string:anonymous_pro_font_prefvalue:2131492882,
+   string:black:2131492884,
+   string:chronicle_font_prefvalue:2131492886,
+   string:dark:2131492889,
+   string:default_cache_age_select_value:2131492890,
+   string:default_font:2131492891,
+   string:default_font_prefvalue:2131492892,
+   string:default_font_value:2131492893,
+   string:default_network_select_value:2131492894,
+   string:default_read_filter_value:2131492895,
+   string:default_story_order_value:2131492896,
+   string:default_volume_key_navigation_value:2131492897,
+   string:delete_feed_message:2131492898,
+   string:dialog_folders_save:2131492908,
+   string:dialog_story_intel_save:2131492909,
+   string:edit_reply:2131492910,
+   string:edit_reply_delete:2131492911,
+   string:edit_reply_update:2131492912,
+   string:empty_list_view_loading:2131492913,
+   string:empty_list_view_muted_feed:2131492914,
+   string:empty_list_view_no_focus_stories:2131492915,
+   string:empty_list_view_no_saved_stories:2131492916,
+   string:empty_list_view_no_stories:2131492917,
+   string:empty_list_view_no_stories_unread:2131492918,
+   string:empty_list_view_no_unread_stories:2131492919,
+   string:feed_and_folder:2131492922,
+   string:feed_intel_author_header:2131492923,
+   string:feed_intel_dialog_title:2131492924,
+   string:feed_intel_tag_header:2131492925,
+   string:feed_intel_title_header:2131492926,
+   string:feed_name_save:2131492927,
+   string:feed_search_hint:2131492928,
+   string:folder_only:2131492929,
+   string:follow_error:2131492930,
+   string:friends_comments_count:2131492932,
+   string:friends_shares_count:2131492933,
+   string:get_started:2131492939,
+   string:global_shared_stories_row_title:2131492940,
+   string:global_shared_stories_title:2131492941,
+   string:gotham_narrow_font_prefvalue:2131492943,
+   string:infrequent_15:2131492944,
+   string:infrequent_30:2131492945,
+   string:infrequent_5:2131492946,
+   string:infrequent_60:2131492947,
+   string:infrequent_90:2131492948,
+   string:infrequent_choice_title:2131492949,
+   string:infrequent_row_title:2131492950,
+   string:infrequent_title:2131492951,
+   string:intel_author_header:2131492952,
+   string:intel_feed_header:2131492953,
+   string:intel_tag_header:2131492954,
+   string:intel_title_header:2131492955,
+   string:light:2131492956,
+   string:list_style_grid_c:2131492957,
+   string:list_style_grid_f:2131492958,
+   string:list_style_grid_m:2131492959,
+   string:list_style_list:2131492960,
+   string:loading:2131492961,
+   string:login_logged_in:2131492966,
+   string:login_message_error:2131492968,
+   string:login_retrieving_feeds:2131492973,
+   string:loginas_title:2131492975,
+   string:logout_warning:2131492976,
+   string:ltr_gesture_action_value:2131492977,
+   string:menu_save_story:2131493022,
+   string:menu_unsave_story:2131493036,
+   string:newest:2131493039,
+   string:newsblur:2131493040,
+   string:none:2131493041,
+   string:noto_sans_font_prefvalue:2131493043,
+   string:noto_serif_font_prefvalue:2131493045,
+   string:off:2131493046,
+   string:oldest:2131493047,
+   string:open_sans_condensed_font:2131493048,
+   string:open_sans_condensed_font_prefvalue:2131493049,
+   string:overlay_count_toast_1:2131493052,
+   string:overlay_count_toast_N:2131493053,
+   string:overlay_done:2131493054,
+   string:overlay_next:2131493055,
+   string:overlay_story:2131493056,
+   string:overlay_text:2131493057,
+   string:profile:2131493058,
+   string:profile_ago:2131493059,
+   string:profile_comment:2131493062,
+   string:profile_comments_on:2131493063,
+   string:profile_do_not_follow:2131493064,
+   string:profile_favorited:2131493065,
+   string:profile_favorited_comments:2131493066,
+   string:profile_feed_not_available:2131493067,
+   string:profile_no_interactions:2131493071,
+   string:profile_now_following:2131493072,
+   string:profile_recent_actvity:2131493073,
+   string:profile_recent_interactions:2131493074,
+   string:profile_replied_to:2131493075,
+   string:profile_replied_to_your:2131493076,
+   string:profile_reply:2131493077,
+   string:profile_reshared:2131493078,
+   string:profile_saved:2131493079,
+   string:profile_shared_story:2131493081,
+   string:profile_signup:2131493082,
+   string:profile_started_following:2131493083,
+   string:profile_subscribed_to:2131493084,
+   string:profile_you:2131493085,
+   string:profile_you_lower:2131493086,
+   string:profile_your:2131493087,
+   string:public_comment_count:2131493088,
+   string:read_stories_row_title:2131493089,
+   string:read_stories_title:2131493090,
+   string:register_message_error:2131493091,
+   string:reply_to:2131493092,
+   string:rtl_gesture_action_value:2131493093,
+   string:save_this:2131493094,
+   string:saved_stories_row_title:2131493095,
+   string:saved_stories_title:2131493096,
+   string:search_mark_read_warning:2131493097,
+   string:send_brief:2131493098,
+   string:send_full:2131493099,
+   string:settings:2131493100,
+   string:share_newsblur:2131493132,
+   string:share_this:2131493133,
+   string:share_this_story:2131493134,
+   string:story_intel_dialog_title:2131493140,
+   string:story_notification_channel_id:2131493141,
+   string:story_notification_channel_name:2131493142,
+   string:story_search_hint:2131493143,
+   string:sync_status_actions:2131493144,
+   string:sync_status_cleanup:2131493145,
+   string:sync_status_ffsync:2131493146,
+   string:sync_status_housekeeping:2131493147,
+   string:sync_status_images:2131493148,
+   string:sync_status_offline:2131493149,
+   string:sync_status_recounts:2131493150,
+   string:sync_status_stories:2131493151,
+   string:sync_status_text:2131493152,
+   string:sync_status_unreads:2131493153,
+   string:title_choose_folders:2131493154,
+   string:title_feed_search:2131493155,
+   string:title_rename_feed:2131493156,
+   string:toast_hold_to_select:2131493157,
+   string:top_level:2131493158,
+   string:unfollow_error:2131493160,
+   string:unfollow_message:2131493161,
+   string:unknown_user:2131493162,
+   string:unread_only:2131493163,
+   string:unsave_this:2131493164,
+   string:unshare:2131493165,
+   string:update_shared:2131493166,
+   string:volume_key_navigation:2131493168,
+   string:whitney_font_prefvalue:2131493171,
+   style:NewsBlurBlackTheme:2131558400,
+   style:NewsBlurDarkTheme:2131558401,
+   style:NewsBlurTheme:2131558402,
+   style:activityDetailsPager:2131558419,
+   style:activityDetailsPager_black:2131558420,
+   style:activityDetailsPager_dark:2131558421,
+   style:commentsHeader:2131558422,
+   style:commentsHeader_black:2131558423,
+   style:commentsHeader_dark:2131558424,
+   style:contextPopupStyle:2131558425,
+   style:contextPopupStyle_dark:2131558426,
+   style:defaultText:2131558427,
+   style:defaultText_dark:2131558428,
+   style:feedRowNeutCountText:2131558433,
+   style:feedRowNeutCountText_dark:2131558434,
+   style:initStyle:2131558435,
+   style:linkText:2131558442,
+   style:linkText_dark:2131558443,
+   style:listBackground:2131558444,
+   style:listBackground_dark:2131558445,
+   style:readingBackground:2131558454,
+   style:readingBackground_black:2131558455,
+   style:readingBackground_dark:2131558456,
+   style:readingItemMetadata:2131558457,
+   style:readingItemMetadata_dark:2131558458,
+   style:selectorFeedBackground:2131558468,
+   style:selectorFeedBackground_dark:2131558469,
+   style:selectorFolderBackground:2131558470,
+   style:selectorFolderBackground_black:2131558471,
+   style:selectorFolderBackground_dark:2131558472,
+   style:selectorOverlayBackgroundLeft:2131558473,
+   style:selectorOverlayBackgroundLeft_dark:2131558474,
+   style:selectorOverlayBackgroundRight:2131558475,
+   style:selectorOverlayBackgroundRight_dark:2131558476,
+   style:selectorOverlayBackgroundRightDone:2131558477,
+   style:selectorOverlayBackgroundRightDone_dark:2131558478,
+   style:selectorOverlayBackgroundSend:2131558479,
+   style:selectorOverlayBackgroundSend_dark:2131558480,
+   style:selectorOverlayBackgroundStory:2131558481,
+   style:selectorOverlayBackgroundStory_dark:2131558482,
+   style:selectorOverlayBackgroundText:2131558483,
+   style:selectorOverlayBackgroundText_dark:2131558484,
+   style:selectorStoryBackground:2131558485,
+   style:selectorStoryBackground_black:2131558486,
+   style:selectorStoryBackground_dark:2131558487,
+   style:storyButtons:2131558493,
+   style:storyButtons_dark:2131558494,
+   style:storyCommentDivider:2131558495,
+   style:storyCommentDivider_black:2131558496,
+   style:storyCommentDivider_dark:2131558497,
+   style:storyDateText:2131558498,
+   style:storyDateText_dark:2131558499,
+   style:storyFeedTitleText:2131558500,
+   style:storyFeedTitleText_dark:2131558501,
+   style:storySnippetText:2131558502,
+   style:storySnippetText_dark:2131558503,
+   style:tag:2131558504,
+   style:tag_dark:2131558505,
+   styleable:FlowLayout:-1,
+   styleable:RecyclerView:-1,
+   styleable:SquaredRelativeLayout:-1,
+   xml:activity_settings:2131689472,
+   xml:backupscheme:2131689473,
+   xml:file_paths:2131689474,
+   xml:searchable:2131689475,
+   attr:android_layout_gravity:-1,
+   attr:android_fontStyle:-1,
+   attr:android_font:-1,
+   attr:android_fontWeight:-1,
+   attr:android_orientation:-1,
+   attr:android_descendantFocusability:-1
+Resource shrinking did not work (grew from 437853 to 437863); using original instead
